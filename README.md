@@ -1,6 +1,6 @@
-# FACS2022
+# ICTAC2023
 
-Website of the FACS2022 conference.
+Website of the ICTAC2023 conference.
 
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference
