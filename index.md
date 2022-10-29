@@ -9,20 +9,10 @@ take place in Lima - Peru, on 04-08 December 2023. ICTAC 2023 will be
 hosted by UTEC, Lima - Peru.
  -->
 
-
-
-
-# Call for Papers
-
-TBD
-
 ### Important dates
 
 TBD
 
-### Invited Speakers
-
-TBD
 
 # About ICTAC
 
@@ -30,7 +20,9 @@ The aim of the colloquium is to bring together practitioners and researchers fro
 
 ### Past Editions
 
-- [ICTAC 2021](https://viam.science.tsu.ge/clas2022/ictac/index.html){:target="_blank"}, Tbilisi, Georgia, September 27-30, 2022
+- [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/index.html){:target="_blank"}, Tbilisi, Georgia, September 27-30, 2022
+- [Previous Events](https://ictac.isp.uni-luebeck.de/previous-events){:target="_blank"}
+
 
 
 # Support
