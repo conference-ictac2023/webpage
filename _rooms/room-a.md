@@ -1,5 +1,6 @@
 ---
-name: Zoom
+name: Location
 ---
 
-The zoom link will be published here.
+<!--
+The zoom link will be published here.  -->
