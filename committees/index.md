@@ -11,7 +11,7 @@ title: "Committees"
 # Program Chairs
 
  - [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/){:target="_blank"}, RWTH Aachen, Germany
- - [Clemens Dubslaff](https://ceti.one/clemens-dubslaff/){:target="_blank"}, Eindhoven University of Technology, The Netherlands 
+ - [Clemens Dubslaff](http://clemensdubslaff.de/){:target="_blank"}, Eindhoven University of Technology, The Netherlands 
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html){:target="_blank"}, University of Oslo, Norway
 
 
