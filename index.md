@@ -25,9 +25,10 @@ The aim of the colloquium is to bring together practitioners and researchers fro
 
 
 
-# Support
+# Sponsors
 
 {:style="text-align:center;"}
+[![logo](assets/img/logo-utec.jpg "logo")](https://utec.edu.pe/en){:target="blank"}
 [![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
 [![logo](assets/img/logo-adapt-transp.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
 
