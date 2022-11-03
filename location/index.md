@@ -12,17 +12,17 @@ layout: location
 
 Lima is the capital of Peru, one of the world’s most varied metropolis. 
 
-[![Lima-photo](../../assets/img/Lima-Plaza-de-armas.jpg)](https://wikitravel.org/en/Lima)
+[![Lima-photo](../../assets/img/Lima-Plaza-de-armas.jpg)](https://wikitravel.org/en/Lima){:target="_blank"}
 
 Lima is a hub from where it is possible to access the rest of Peru, a multicultural nation, filled with traditions, vast natural reserves, and the home of many UNESCO World Heritage sites. 
 
-[![Machupicchu-photo](../../assets/img/Machupicchu.jpg)](https://wikitravel.org/en/Machu_Picchu)
+[![Machupicchu-photo](../../assets/img/Machupicchu.jpg)](https://wikitravel.org/en/Machu_Picchu){:target="_blank"}
 
-[![Caral-photo](../../assets/img/Caral.jpg)](https://wikitravel.org/en/Caral)
+[![Caral-photo](../../assets/img/Caral.jpg)](https://wikitravel.org/en/Caral){:target="_blank"}
 
-[![Vinicunca-photo](../../assets/img/Vinicunca.jpg)](https://wikitravel.org/en/Rainbow_Mountains)
+[![Vinicunca-photo](../../assets/img/Vinicunca.jpg)](https://wikitravel.org/en/Rainbow_Mountains){:target="_blank"}
 
-[![Uros-photo](../../assets/img/Uros.jpg)](https://wikitravel.org/en/Uro_Islands)
+[![Uros-photo](../../assets/img/Uros.jpg)](https://wikitravel.org/en/Uro_Islands){:target="_blank"}
 
 Spanish is its official language. Lima is full of riches from the colonial era, and is hailed as the gastronomic capital of Latin America.  
 
@@ -32,9 +32,9 @@ With more than 9 million inhabitants, Lima is home to many academic institutions
 
 [UTEC campus is located in Barranco](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"} and the vicinities of Miraflores, which are touristic districts in Lima.
 
-[![Barranco-photo](../../assets/img/Lima-Barranco.jpg)](https://wikitravel.org/en/Lima/Barranco)
+[![Barranco-photo](../../assets/img/Lima-Barranco.jpg)](https://wikitravel.org/en/Lima/Barranco){:target="_blank"}
 
-![Miraflores-photo](../../assets/img/Lima-Moderna.jpg)(https://wikitravel.org/en/Lima/Miraflores)
+[![Miraflores-photo](../../assets/img/Lima-Moderna.jpg)](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"}
 
 
 
