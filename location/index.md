@@ -14,7 +14,7 @@ Lima is the capital of Peru, one of the world’s most varied metropolis.
 
 [![Lima-photo](../../assets/img/Lima-Plaza-de-armas.jpg)](https://wikitravel.org/en/Lima){:target="_blank"}
 
-Lima is a hub from where it is possible to access the rest of Peru, a multicultural nation, filled with traditions, vast natural reserves, and the home of many UNESCO World Heritage sites. 
+Lima is a hub from where it is possible to access the rest of Peru, a multicultural nation, filled with traditions, [vast natural reserves](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Peru), and the home of [many UNESCO World Heritage sites](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Peru). 
 
 [![Machupicchu-photo](../../assets/img/Machupicchu.jpg)](https://wikitravel.org/en/Machu_Picchu){:target="_blank"}
 
