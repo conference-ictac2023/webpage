@@ -11,8 +11,9 @@ hosted by UTEC, Lima - Peru.
 
 ### Important dates
 
- - Submission deadline: 16 Jun, 2023 (AoE)
- - Notification: 18 Aug, 2023 (AoE)
+ - __Submission deadline:__ 16 Jun, 2023 (AoE)
+ - __Notification:__ 18 Aug, 2023 (AoE)
+ <!-- __Camera ready:__ 04 Oct, 2023 (AoE) -->
 
 
 # About ICTAC
