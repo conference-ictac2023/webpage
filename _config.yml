@@ -79,7 +79,7 @@ conference:
       - name: Committees
         relative_url: /committees/
       - name: Past Editions
-        relative_url: /past-editions/
+        url: https://ictac.isp.uni-luebeck.de/previous-events
 
   # Link Preview for Sharing
   link_preview:
