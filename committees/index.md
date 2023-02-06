@@ -15,32 +15,8 @@ title: "Committees"
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html){:target="_blank"}, University of Oslo, Norway
 
 
-# Local Organisation Committee 
-
- - [Juan Gutierrez](https://utec.edu.pe/en/page/30/profesores/991){:target="_blank"} - Local Organiser, University of Engineering and Technology - UTEC, Lima - Peru
- - [Yamilet Serrano](http://){:target="_blank"} - Financial Chair, University of Engineering and Technology - UTEC, Lima - Peru
- - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
- - Maor Roizman Gheiler - Webpage, University of Engineering and Technology - UTEC, Lima - Peru
-
-
-# Publicity Chairs
-
- - [Violet Ka I Pun](https://ict.hvl.no/people/violetpun/){:target="_blank"}, Western Norway University of Applied Sciences, Norway
- - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
-
-
-# Training school Chairs
-
- - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark 
- - [Alex Cuadros](http://){:target="_blank"}, San Pablo Catholic University, Arequipa - Peru
-
-
-# Ph.D. Symposium Chair
-
- - [Wilber Ramos](http://){:target="_blank"}, The National University of Saint Augustine, Arequipa - Peru
-
-
 # Program Committee
+
  - [Wolfgang Ahrendt](https://www.cse.chalmers.se/~ahrendt/){:target="_blank"}, Chalmers University of Technology, Sweden
  - [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/){:target="_blank"}, Indian Institute of Technology Bombay, India
  - [Elvira Albert](https://costa.fdi.ucm.es/~elvira/){:target="_blank"}, Universidad Complutense de Madrid, Spain
@@ -72,10 +48,30 @@ title: "Committees"
  - [Heike Wehrheim](https://uol.de/informatik/formale-methoden/team/heike-wehrheim){:target="_blank"}, University of Oldenburg, Germany
 
 
+# Local Organisation Committee 
+
+ - [Juan Gutierrez](https://utec.edu.pe/en/page/30/profesores/991){:target="_blank"} - Local Organiser, University of Engineering and Technology - UTEC, Lima - Peru
+ - [Yamilet Serrano](http://){:target="_blank"} - Financial Chair, University of Engineering and Technology - UTEC, Lima - Peru
+ - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
+ - Maor Roizman Gheiler - Webpage, University of Engineering and Technology - UTEC, Lima - Peru
 
 
+# Publicity Chairs
 
-  
+ - [Violet Ka I Pun](https://ict.hvl.no/people/violetpun/){:target="_blank"}, Western Norway University of Applied Sciences, Norway
+ - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
+
+
+# Training school Chairs
+
+ - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark 
+ - [Alex Cuadros](http://){:target="_blank"}, San Pablo Catholic University, Arequipa - Peru
+
+
+# Ph.D. Symposium Chair
+
+ - [Wilber Ramos](http://){:target="_blank"}, The National University of Saint Augustine, Arequipa - Peru
+
 
 # Steering Committee
 
