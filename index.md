@@ -17,7 +17,7 @@ hosted by UTEC, Lima - Peru.
 
 # About ICTAC
 
-The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.
+The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https://ictac.isp.uni-luebeck.de/about){:target="_blank"}) was founded in 2004. It takes place every year preferably in a developing country. The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.
 
 
 ### Past Editions
