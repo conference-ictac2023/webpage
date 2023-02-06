@@ -11,17 +11,18 @@ hosted by UTEC, Lima - Peru.
 
 ### Important dates
 
-TBD
+ - Submission deadline: 16 Jun, 2023 (AoE)
+ - Notification: 18 Aug, 2023 (AoE)
 
 
 # About ICTAC
 
 The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.
 
+
 ### Past Editions
 
-- [ICTAC 2022](https://viam.science.tsu.ge/clas2022/ictac/index.html){:target="_blank"}, Tbilisi, Georgia, September 27-30, 2022
-- [Previous Events](https://ictac.isp.uni-luebeck.de/previous-events){:target="_blank"}
+- [See ICTAC webpage](https://ictac.isp.uni-luebeck.de/previous-events){:target="_blank"}
 
 
 
