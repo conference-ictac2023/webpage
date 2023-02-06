@@ -5,9 +5,9 @@ title: "Call for Papers"
 
 # Important Dates
 
-  - Submission deadline: 16 Jun, 2023 (AoE)
-  - Notification: 18 Aug, 2023 (AoE)
-  <!-- Camera ready: 04 Oct, 2023 (AoE) -->
+  - __Submission deadline:__ 16 Jun, 2023 (AoE)
+  - __Notification:__ 18 Aug, 2023 (AoE)
+  <!-- __Camera ready:__ 04 Oct, 2023 (AoE) -->
 
 # Scope
 
@@ -40,11 +40,9 @@ The ICTAC conference series aims at bringing together researchers and practition
 
   We solicit submissions, related to the topics of ICTAC, in the following categories:
 
-  A. original research contributions;
-  
-  B. short papers, with original work in progress or with proposals of new ideas and emerging challenges; and
-  
-  C. tool papers on tools that support formal techniques for software	modeling, system design, and verification.
+  - __A__ - original research contributions;
+  - __B__ - short papers, with original work in progress or with proposals of new ideas and emerging challenges; and
+  - __C__ - tool papers on tools that support formal techniques for software	modeling, system design, and verification.
 
   Submissions must not exceed 16 pages (excluding bibliography of maximum 2 pages). Short and tool papers should not exceed 8 pages.
 
