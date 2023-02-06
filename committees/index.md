@@ -41,7 +41,7 @@ title: "Committees"
 
 
 # Program Committee
- - [Wolfgang Ahrendt](https://www.cse.chalmers.se/~ahrendt/){:target="_blank"}, Chalmers University of Technology, Sweeden
+ - [Wolfgang Ahrendt](https://www.cse.chalmers.se/~ahrendt/){:target="_blank"}, Chalmers University of Technology, Sweden
  - [S. Akshay](https://www.cse.iitb.ac.in/~akshayss/){:target="_blank"}, Indian Institute of Technology Bombay, India
  - [Elvira Albert](https://costa.fdi.ucm.es/~elvira/){:target="_blank"}, Universidad Complutense de Madrid, Spain
  - [Kyungmin Bae](http://sevlab.postech.ac.kr/~kmbae/){:target="_blank"}, Pohang University of Science and Technology, Korea
@@ -50,7 +50,7 @@ title: "Committees"
  - [Pedro R. D'Argenio](https://cs.famaf.unc.edu.ar/~dargenio/){:target="_blank"}, National Univerisity of Córdoba, Argentina
  - [Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/){:target="_blank"}, Indian Institute of Science, India
  - [Besik Dundua](https://www.kiu.edu.ge/?m=325){:target="_blank"}, Kutaisi International University, Georgia
- - [Kim Guldstrand Larsen](https://vbn.aau.dk/en/persons/103881){:target="_blank"}, Aalborg University, Denmak
+ - [Kim Guldstrand Larsen](https://vbn.aau.dk/en/persons/103881){:target="_blank"}, Aalborg University, Denmark
  - [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/){:target="_blank"}, The University of Edinburgh, United Kingdom
  - [Sebastian Junges](https://sjunges.github.io/){:target="_blank"}, Radboud University, Netherlands
  - [Jan Kretinsky](https://www7.in.tum.de/~kretinsk/){:target="_blank"}, Technical University of Munich, Germany
