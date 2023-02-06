@@ -22,9 +22,9 @@ Lima is the capital of Peru, one of the world’s most varied metropolis. Lima i
 
 Peru is a multicultural nation, filled with traditions, [vast natural reserves](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Peru), and the home of [many UNESCO World Heritage sites](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Peru). Spanish is its official language. 
 
-[![Machupicchu-photo](../../assets/img/Machupicchu.jpg)](https://wikitravel.org/en/Machu_Picchu){:target="_blank"}
-
 [![Caral-photo](../../assets/img/Caral.jpg)](https://wikitravel.org/en/Caral){:target="_blank"}
+
+[![Machupicchu-photo](../../assets/img/Machupicchu.jpg)](https://wikitravel.org/en/Machu_Picchu){:target="_blank"}
 
 [![Vinicunca-photo](../../assets/img/Vinicunca.jpg)](https://wikitravel.org/en/Rainbow_Mountains){:target="_blank"}
 
