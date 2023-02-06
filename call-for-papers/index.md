@@ -4,7 +4,6 @@ title: "Call for Papers"
 ---
 
 # Important Dates
-IMPORTANT DATES
 
   - Submission deadline: 16 Jun, 2023 (AoE)
   - Notification: 18 Aug, 2023 (AoE)
@@ -12,7 +11,7 @@ IMPORTANT DATES
 
 # Scope
 
-  The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.
+The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.
 
 # Topics
 
