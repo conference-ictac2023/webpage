@@ -5,9 +5,9 @@ title: "Call for Papers"
 
 # Important Dates
 
-  - __Submission deadline:__ 16 Jun, 2023 (AoE)
-  - __Notification:__ 18 Aug, 2023 (AoE)
-  <!-- __Camera ready:__ 04 Oct, 2023 (AoE) -->
+ - __Submission deadline:__ 16 June 2023 (AoE)
+ - __Notification:__ 10 September 2023 (AoE)
+ - __Camera ready:__  25 September 2023 (AoE) 
 
 # Scope
 
