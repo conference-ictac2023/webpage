@@ -29,11 +29,15 @@ title: "Committees"
  - [Kim Guldstrand Larsen](https://vbn.aau.dk/en/persons/103881){:target="_blank"}, Aalborg University, Denmark
  - [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/){:target="_blank"}, The University of Edinburgh, United Kingdom
  - [Jana	Hofmann](https://www.react.uni-saarland.de/people/hofmann.html){:target="_blank"}, Microsoft Research, United Kingdom
+ - [Zoltán	Horváth](https://people.inf.elte.hu/hz/index_eng.html){:target="_blank"}, Eötvös Loránd University, Hungary
  - [Sebastian Junges](https://sjunges.github.io/){:target="_blank"}, Radboud University, Netherlands
+ - [Patrick Koopmann](https://lat.inf.tu-dresden.de/~koopmann/){:target="_blank"}, Technical University of Dresden, Germany
  - [Jan Kretinsky](https://www7.in.tum.de/~kretinsk/){:target="_blank"}, Technical University of Munich, Germany
  - [Sławomir Lasota](https://www.mimuw.edu.pl/~sl/){:target="_blank"}, University of Warsaw, Poland
+ - [Mircea	Marin](https://staff.fmi.uvt.ro/~mircea.marin/){:target="_blank"}, West University of Timisoara, Romania
  - [Mieke Massink](http://www1.isti.cnr.it/~Massink/){:target="_blank"}, CNR-ISTI, Italy
  - [Stefan Mitsch](https://www.cs.cmu.edu/~smitsch/){:target="_blank"}, Carnegie Mellon University, United States
+ - [Eugenio	Moggi](https://person.dibris.unige.it/moggi-eugenio/){:target="_blank"}, University of Genova, Italy
  - [Rosemary Monahan](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rosemary-monahan){:target="_blank"}, Maynooth University, Ireland
  - [Joël Ouaknine](https://people.mpi-sws.org/~joel/){:target="_blank"}, Max Planck Institute for Software Systems, Germany
  - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html){:target="_blank"}, Carnegie Mellon University and NASA, United States
@@ -44,6 +48,7 @@ title: "Committees"
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/){:target="_blank"}, University of Grenoble Alpes, France
  - [Augusto Sampaio](https://www.cin.ufpe.br/~acas/){:target="_blank"}, Federal university of Pernambuco, Brazil
  - [Cesar Sanchez](https://software.imdea.org/~cesar/){:target="_blank"}, IMDEA Software Institute, Spain
+ - [Gerardo	Schneider](https://www.gu.se/en/about/find-staff/gerardoschneider){:target="_blank"}, University of Gothenburg, Sweden
  - [Martina Seidl](http://fmv.jku.at/seidl/){:target="_blank"}, Johannes Kepler University Linz, Austria
  - [Tarmo Uustalu](https://www.ioc.ee/~tarmo/){:target="_blank"}, Tallinn University of Technology and Reykjavik University, Estonia and Iceland
  - [Heike Wehrheim](https://uol.de/informatik/formale-methoden/team/heike-wehrheim){:target="_blank"}, University of Oldenburg, Germany
