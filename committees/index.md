@@ -46,7 +46,7 @@ title: "Committees"
  - [Stefan Ratschan](https://www.cs.cas.cz/~ratschan/){:target="_blank"}, Czech Academy of Sciences, Czech Republic
  - [Mikheil Rukhaia](https://www.logic.at/staff/mrukhaia/){:target="_blank"}, Tbilisi State University, Georgia
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/){:target="_blank"}, University of Grenoble Alpes, France
- - [Augusto Sampaio](https://www.cin.ufpe.br/~acas/){:target="_blank"}, Federal university of Pernambuco, Brazil
+ - [Augusto Sampaio](https://www.cin.ufpe.br/~acas/){:target="_blank"}, Federal University of Pernambuco, Brazil
  - [Cesar Sanchez](https://software.imdea.org/~cesar/){:target="_blank"}, IMDEA Software Institute, Spain
  - [Gerardo	Schneider](https://www.gu.se/en/about/find-staff/gerardoschneider){:target="_blank"}, University of Gothenburg, Sweden
  - [Martina Seidl](http://fmv.jku.at/seidl/){:target="_blank"}, Johannes Kepler University Linz, Austria
@@ -84,7 +84,7 @@ title: "Committees"
  - [Martin Leucker](https://www.isp.uni-luebeck.de/leucker){:target="_blank"} - Chair, University of Lübeck, Germany
  - [Zhiming Liu](http://), Southwest University, China
  - [Tobias Nipkow](http://), Technical University of Munich, Germany
- - [Augusto Sampaio](https://www.cin.ufpe.br/~acas/){:target="_blank"},Federal university of Pernambuco, Brazil
+ - [Augusto Sampaio](https://www.cin.ufpe.br/~acas/){:target="_blank"},Federal University of Pernambuco, Brazil
  - [Natarajan Shankar](http://www.csl.sri.com/users/shankar/){:target="_blank"}, SRI, USA
  - [Tarmo Uustalu](https://cs.ioc.ee/~tarmo/){:target="_blank"}, Tallinn University of Technology and Reykjavik University, Estonia and Iceland
 
