@@ -16,7 +16,7 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b>  Ana Cavalcanti <br/>
         <b>Affiliation:</b> Univerity of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/">https://www-users.york.ac.uk/~alcc500/</a> 
+         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/">https://www-users.york.ac.uk/~alcc500/</a> <br/>
         <b>Topic:</b> TBD </p> 
     </div>
 </div>
@@ -30,7 +30,7 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b> Pedro R. D'Argenio <br/>
         <b>Affiliation:</b> National Univerisity of Córdoba, Argentina <br/>
-        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/">https://cs.famaf.unc.edu.ar/~dargenio/</a> 
+        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/>
         <b>Topic:</b> TBD </p> 
     </div>
 </div>
