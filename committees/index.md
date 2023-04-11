@@ -23,7 +23,6 @@ title: "Committees"
  - [Kyungmin Bae](http://sevlab.postech.ac.kr/~kmbae/){:target="_blank"}, Pohang University of Science and Technology, Korea
  - [Ezio Bartocci](http://www.eziobartocci.com/){:target="_blank"}, Technical Univeristy of Wien, Austria
  - [Marcello Bonsangue](https://www.universiteitleiden.nl/en/staffmembers/marcello-bonsangue){:target="_blank"}, Leiden University, Netherlands
- - [Pedro R. D'Argenio](https://cs.famaf.unc.edu.ar/~dargenio/){:target="_blank"}, National Univerisity of Córdoba, Argentina
  - [Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/){:target="_blank"}, Indian Institute of Science, India
  - [Besik Dundua](https://www.kiu.edu.ge/?m=325){:target="_blank"}, Kutaisi International University, Georgia
  - [Kim Guldstrand Larsen](https://vbn.aau.dk/en/persons/103881){:target="_blank"}, Aalborg University, Denmark
