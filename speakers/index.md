@@ -21,8 +21,8 @@ title: ""
     </div>
 </div>
 <div class="row justify-content-start p-3">
-    <div class="col-sm-2">
-      <!--    <a href="/2022/speakers/PedroDArgenio/">
+      <!-- <div class="col-sm-2">
+       <a href="/2022/speakers/PedroDArgenio/">
             <div class="speakers-hover"></div>
             <img src="/2022/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="150"/>
         </a>
