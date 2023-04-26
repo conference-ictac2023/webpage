@@ -44,11 +44,6 @@ defaults:
       type: speakers
     values:
       layout: speaker
-    - scope:
-      path: ""
-      type: school
-    values:
-      layout: speaker
   - scope:
       path: ""
       type: rooms
