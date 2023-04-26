@@ -11,7 +11,7 @@ Formal Methods are logic-based techniques for the specification, development, an
 They contribute to reliability and trustworthiness of systems and 
 they deal with models of systems that capture their dynamic aspects (e.g., processes, transitions).
 
-We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in computer science that want to get a taste of selected formal methods. 
+We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in the field of computer science and mathematics that want to get a taste of selected formal methods. The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2023.   
 
 If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023.
 
