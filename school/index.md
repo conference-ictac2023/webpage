@@ -13,6 +13,8 @@ they deal with models of systems that capture their dynamic aspects (e.g., proce
 
 We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in computer science that want to get a taste of selected formal methods. 
 
+If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023!
+
 ## Lectures
 
 <div class="container">
@@ -48,13 +50,4 @@ We plan to organize a training school on applied formal methods targeting master
   <b> ... </b>
 </div>
   
-  
- # Training school Chairs
 
- - Marco Muñiz  Aalborg University, Denmark 
- - Alex Cuadros, San Pablo Catholic University, Arequipa - Peru
- - Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
-  
-  # Local Organiser
-
- - Juan Gutierrez, University of Engineering and Technology - UTEC, Lima - Peru
