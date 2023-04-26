@@ -49,5 +49,3 @@ If you want to give a lecture on applied formal methods, please contact the gene
 <div class="row justify-content-start p-3">
   <b> ... </b>
 </div>
-  
-
