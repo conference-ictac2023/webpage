@@ -51,10 +51,10 @@ We plan to organize a training school on applied formal methods targeting master
   
  # Training school Chairs
 
- - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark 
- - [Alex Cuadros](http://){:target="_blank"}, San Pablo Catholic University, Arequipa - Peru
- - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html){:target="_blank"}, University of Oslo, Norway
+ - Marco Muñiz  Aalborg University, Denmark 
+ - Alex Cuadros, San Pablo Catholic University, Arequipa - Peru
+ - Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
   
   # Local Organiser
 
- - [Juan Gutierrez](https://utec.edu.pe/en/page/30/profesores/991){:target="_blank"} - Local Organiser, University of Engineering and Technology - UTEC, Lima - Peru
+ - Juan Gutierrez, University of Engineering and Technology - UTEC, Lima - Peru
