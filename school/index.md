@@ -13,7 +13,7 @@ they deal with models of systems that capture their dynamic aspects (e.g., proce
 
 We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in computer science that want to get a taste of selected formal methods. 
 
-If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023!
+If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023.
 
 ## Lectures
 
@@ -46,5 +46,4 @@ If you want to give a lecture on applied formal methods, please contact the gene
         <b>Topic:</b> TBD </p> 
     </div>
 </div>
-  
-<b> ... </b>
+
