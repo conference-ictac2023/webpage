@@ -15,7 +15,7 @@ We plan to organize a training school on applied formal methods targeting master
 
 If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023.
 
-## Lectures
+## Lecturers
 
 <div class="container">
 <div class="row justify-content-start p-3">
