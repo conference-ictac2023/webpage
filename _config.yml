@@ -74,10 +74,12 @@ conference:
       #   relative_url: /talks/
       - name: Invited Speakers
         relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
       - name: Committees
         relative_url: /committees/
+      - name: Training School
+        relative_url: /school/
+      - name: Location
+        relative_url: /location/
       - name: Past Editions
         relative_url: /past-editions/
 
