@@ -1,5 +1,5 @@
 ---
-layout: school-overview
+layout: speaker-overview
 title: ""
 ---
 
@@ -11,8 +11,7 @@ Formal Methods are logic-based techniques for the specification, development, an
 They contribute to reliability and trustworthiness of systems and 
 they deal with models of systems that capture their dynamic aspects (e.g., processes, transitions).
 
-We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures 
-that want to get a taste of selected formal methods. 
+We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in computer science that want to get a taste of selected formal methods. 
 
 ## Lectures
 
