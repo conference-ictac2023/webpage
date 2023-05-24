@@ -10,9 +10,9 @@ hosted by UTEC, Lima - Peru.
  -->
 ### About protests in Peru.
  
-As ICTAC 2023 organisers, we are aware of the current political situation in Peru and the protests that have been happening in the country. We want to let you know that at the moment protests in Lima are sporadic and pacific and its air and land communication routes are operative. Currently we continue our plan to organise ICTAC physically at UTEC. If the situation changes and this is no longer the case, we will work closely with the ICTAC Steering Committee to choose the best feasible solution.
+We are continuously monitoring the political situation in Peru, which faced violent protests in 2022 also affecting travelers. To the best of our knowledge, this situation has calmed down. If protests erupt again, we will work closely with the ICTAC Steering Committee to choose the best feasible solution.
  
-Lima - Peru, March 2023
+Lima - Peru, May 2023
 
 
 ## Important dates
