@@ -45,5 +45,19 @@ If you want to give a lecture on applied formal methods, please contact the gene
         <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/>
         <b>Topic:</b> TBD </p> 
     </div>
+</div>  
+<div class="row justify-content-start p-3">
+      <!-- <div class="col-sm-2">
+       <a href="/2022/speakers/ChristianColombo/">
+            <div class="speakers-hover"></div>
+            <img src="/2022/assets/img/people/small-ChristianColombo.jpg" alt="Christian Colombo" title="Christian Colombo" width="150"/>
+        </a>
+    </div> -->
+    <div class="col-sm-10">
+        <p><b>Name:</b> Christian Colombo <br/>
+        <b>Affiliation:</b> University of Malta, Malta <br/>
+        <b>Homepage:</b> <a href="https://www.um.edu.mt/profile/christiancolombo"> https://www.um.edu.mt/profile/christiancolombo</a> <br/>
+        <b>Topic:</b> TBD </p> 
+    </div>
 </div>
 
