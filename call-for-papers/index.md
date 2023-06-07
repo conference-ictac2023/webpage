@@ -5,7 +5,8 @@ title: "Call for Papers"
 
 # Important Dates
 
- - __Submission deadline:__ 16 June 2023 (AoE)
+ - __Abstract deadline:__  25 June 2023 (AoE)
+ - __Submission deadline:__ ~~16 June 2023~~ 02 July 2023 (AoE)
  - __Notification:__ 10 September 2023 (AoE)
  - __Camera ready:__  25 September 2023 (AoE) 
 
@@ -74,8 +75,10 @@ The ICTAC conference series aims at bringing together researchers and practition
   each accepted paper must register for the conference by the early registration
   date, and present the paper.
 
-  A special journal issue is planned for extended versions of selected papers
-  from ICTAC 2023.
+  We will have a special issue at the journal (TCS) Theoretical Computer 
+  Science: [https://www.sciencedirect.com/journal/theoretical-computer-science](https://www.sciencedirect.com/journal/theoretical-computer-science){:target="_blank"}.
+  We will invite selected accepted papers from ICTAC 2023 to submit an extended 
+  versions of their contribution to the special issue.
 
 <!-- 
 
