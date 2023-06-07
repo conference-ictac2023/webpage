@@ -8,6 +8,18 @@ The 20th International Colloquium on Theoretical Aspects of Computing will
 take place in Lima - Peru, on 04-08 December 2023. ICTAC 2023 will be
 hosted by UTEC, Lima - Peru.
  -->
+### Updates
+
+- The submission deadline for ICTAC has been extended by two weeks. __New firm 
+  deadlines are 25 June (abstract) and 02 July (papers).__ However, authors are 
+  encouraged to submit abstracts as soon as possible to ease the planning of 
+  the reviewing process.
+
+- Authors of a selected subset of accepted papers will be invited to submit
+  an extended version of their papers to a special issue in the journal
+  Theoretical Computer Science (TCS):
+  https://www.sciencedirect.com/journal/theoretical-computer-science
+ 
 ### About protests in Peru.
  
 We are continuously monitoring the political situation in Peru, which faced violent protests in 2022 also affecting travelers. To the best of our knowledge, this situation has calmed down. If protests erupt again, we will work closely with the ICTAC Steering Committee to choose the best feasible solution.
@@ -17,7 +29,8 @@ Lima - Peru, May 2023
 
 ## Important dates
 
- - __Submission deadline:__ 16 June 2023 (AoE)
+ - __Abstract deadline:__  25 June 2023 (AoE)
+ - __Submission deadline:__ ~~16 June 2023~~ 02 July 2023 (AoE)
  - __Notification:__ 10 September 2023 (AoE)
  - __Camera ready:__  25 September 2023 (AoE) 
 
@@ -38,6 +51,7 @@ The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https:
 {:style="text-align:center;"}
 [![logo](assets/img/logo-utec.jpg "logo")](https://utec.edu.pe/en){:target="blank"}
 [![logo](assets/img/logo-uio.jpg "logo")](https://www.uio.no/english/){:target="blank"}
+[![logo](assets/img/logo-fme.jpg "logo")](https://www.fmeurope.org/){:target="blank"}
 [![logo](assets/img/logo-adapt-transp.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
