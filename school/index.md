@@ -18,7 +18,21 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
 If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023.
 
 ## Lecturers
-
+<div class="container">
+<div class="row justify-content-start p-3">
+  <!--  <div class="col-sm-2">
+        <a href="/2023/speakers/MarijnHeule/">
+            <div class="speakers-hover"></div>
+            <img src="/2023/assets/img/people/small-MarijnHeule.jpg" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="150"/>
+        </a>
+    </div> -->
+    <div class="col-sm-10">
+        <p><b>Name:</b>  Marijn J.H. Heule <br/>
+        <b>Affiliation:</b> Carnegie Mellon University, USA <br/>
+         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/">https://www.cs.cmu.edu/~mheule/</a> <br/>
+        <b>Topic:</b> TBD </p> 
+    </div>
+</div>
 <div class="container">
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
