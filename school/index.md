@@ -33,7 +33,6 @@ If you want to give a lecture on applied formal methods, please contact the gene
         <b>Topic:</b> TBD </p> 
     </div>
 </div>
-<div class="container">
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
         <a href="/2022/speakers/AnaCavalcanti/">
