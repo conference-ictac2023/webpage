@@ -20,7 +20,6 @@ title: ""
         <b>Topic:</b> TBD </p> 
     </div>
 </div>
-<div class="container">
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
         <a href="/2023/speakers/AnaCavalcanti/">
