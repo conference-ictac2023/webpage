@@ -69,14 +69,8 @@ title: "Committees"
 
 # Training school Chairs
 
- - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark 
- - [Alex Cuadros](http://){:target="_blank"}, San Pablo Catholic University, Arequipa - Peru
-
-
-# Ph.D. Symposium Chair
-
- - [Wilber Ramos](http://){:target="_blank"}, The National University of Saint Augustine, Arequipa - Peru
-
+ - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html){:target="_blank"}, University of Oslo, Norway
+ - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark
 
 # Steering Committee
 
