@@ -1,7 +1,7 @@
----
+<!--   ---
 layout: speaker-overview
 title: ""
----
+--- -->
 
 # Training School on Applied Formal Methods 
 
