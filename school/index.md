@@ -21,9 +21,9 @@ If you want to give a lecture on applied formal methods, please contact the gene
 <div class="container">
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
-        <a href="/2023/speakers/MarijnHeule/">
+        <a href="/webpage/speakers/MarijnHeule/">
             <div class="speakers-hover"></div>
-            <img src="/2023/assets/img/people/small-MarijnHeule.jpg" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="150"/>
+            <img src="/webpage/assets/img/people/small-MarijnHeule.jpg" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="150"/>
         </a>
     </div> -->
     <div class="col-sm-10">
@@ -35,9 +35,9 @@ If you want to give a lecture on applied formal methods, please contact the gene
 </div>
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
-        <a href="/2022/speakers/AnaCavalcanti/">
+        <a href="/webpage/speakers/AnaCavalcanti/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-AnaCavalcanti.jpg" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="150"/>
+            <img src="/webpage/assets/img/people/small-AnaCavalcanti.jpg" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="150"/>
         </a>
     </div> -->
     <div class="col-sm-10">
@@ -49,9 +49,9 @@ If you want to give a lecture on applied formal methods, please contact the gene
 </div>
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
-       <a href="/2022/speakers/PedroDArgenio/">
+       <a href="/webpage/speakers/PedroDArgenio/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="150"/>
+            <img src="/webpage/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="150"/>
         </a>
     </div> -->
     <div class="col-sm-10">
@@ -63,9 +63,9 @@ If you want to give a lecture on applied formal methods, please contact the gene
 </div>  
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
-       <a href="/2022/speakers/ChristianColombo/">
+       <a href="/webpage/speakers/ChristianColombo/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-ChristianColombo.jpg" alt="Christian Colombo" title="Christian Colombo" width="150"/>
+            <img src="/webpage/assets/img/people/small-ChristianColombo.jpg" alt="Christian Colombo" title="Christian Colombo" width="150"/>
         </a>
     </div> -->
     <div class="col-sm-10">
