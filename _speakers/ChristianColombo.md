@@ -1,11 +1,3 @@
----
-name: Christian Colombo
-first_name: Christian
-last_name:  Colombo
-links:
-  - name: Personal homepage
-    absolute_url: https://www.um.edu.mt/profile/christiancolombo
----
 
 ![Christian Colombo's photo](../../assets/img/people/ChristianColombo.png){:class="photo-speaker"}
 
@@ -25,6 +17,10 @@ Generating Online Monitors from Tests Automatically [MCST] (2015-2017);
 LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), 
 Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
 and DETECTIF [MCST REP-2022-007] (2022-2023).
+
+## Personal homepage
+
+https://www.um.edu.mt/profile/christiancolombo
 
 ## TBD
 
