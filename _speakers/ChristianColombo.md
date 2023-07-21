@@ -1,3 +1,11 @@
+---
+name: Christian Colombo
+first_name: Christian 
+last_name: Colombo
+links:
+  - name: Personal homepage
+    absolute_url: https://www.um.edu.mt/profile/christiancolombo
+---
 
 ![Christian Colombo's photo](../../assets/img/people/ChristianColombo.png){:class="photo-speaker"}
 
