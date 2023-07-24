@@ -59,10 +59,10 @@ The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https:
 [![logo](assets/img/logo-utec.png "logo")](https://utec.edu.pe/en){:target="blank"}
 [![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
 
-
+{:style="text-align:center;"}
 [![logo](assets/img/logo-fme.jpg "logo")](https://www.fmeurope.org/){:target="blank"}
 [![logo](assets/img/logo-malta.png "logo")](https://www.um.edu.mt/ict/){:target="blank"}
 [![logo](assets/img/logo-adapt-transp.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
