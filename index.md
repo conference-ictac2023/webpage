@@ -11,7 +11,9 @@ hosted by UTEC, Lima - Peru.
 
 ### News: Check the invited speakers and lecturers at ICTAC 2023!
 
-We are excited to announce our [invited speakers](https://ictac2023.compsust.utec.edu.pe/speakers/){:target="_blank"} invited speakers at ICTAC 2023: Marijn J.H. Heule  from CMU - USA,  Ana Cavalcanti  from the University of York, UK and Pedro R. D'Argenio from the National University of Córdoba, Argentina.  These recognized speakers will also give lectures at the [training school](https://ictac2023.compsust.utec.edu.pe/school/){:target="_blank"}. Christian Colombo from the University of Malta will also give a lecture at the training school. Stay tuned! more details about the topics will be announced soon!
+We are excited to announce our [invited speakers](https://ictac2023.compsust.utec.edu.pe/speakers/){:target="_blank"}  at ICTAC 2023: Marijn J.H. Heule  from Carnegie Mellon University - USA,  Ana Cavalcanti  from the University of York - UK and Pedro R. D'Argenio from the National University of Córdoba - Argentina.  These recognized speakers will also give a lecture at the [training school](https://ictac2023.compsust.utec.edu.pe/school/){:target="_blank"}. Christian Colombo from the University of Malta will also give a lecture at the training school. 
+
+Stay tuned! More details about the topics will be announced soon!
  
 <!-- ### News: deadline extended and special issue journal 
 
