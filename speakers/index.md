@@ -15,7 +15,7 @@ title: ""
     </div> -->
   <div class="col-sm-2">
             <div class="speakers-hover"></div>
-            <img src="/assets/img/people/MarijnHeule.png" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="350"/>
+            <img src="/assets/img/people/MarijnHeule.png" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="450"/>
     </div>
     <div class="col-sm-10">
         <p><b>Name:</b>  Marijn J.H. Heule <br/>
@@ -33,9 +33,11 @@ title: ""
         <p><b>Topic:</b> TBD </p> 
     </div>
 </div>
- <div class="col-sm-30">  <p>  &nbsp; &#9;  </p>  <p> &nbsp;  &#9;  </p> 
- </div
- 
+
+
+  <div class="col-sm-10">
+        <p><b>Invited Speaker Sponsored by <a href="https://www.fmeurope.org/"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
+   </div>
  <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
         <a href="/2023/speakers/AnaCavalcanti/">
@@ -45,7 +47,7 @@ title: ""
     </div> -->
   <div class="col-sm-2">
             <div class="speakers-hover"></div>
-            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="350"/>
+            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="450"/>
     </div>
     <div class="col-sm-10">
         <p><b>Name:</b>  Ana Cavalcanti <br/>
@@ -62,8 +64,7 @@ title: ""
         <p><b>Topic:</b> TBD </p> 
     </div>
 </div>
- <div class="col-sm-30">  <p>  &nbsp; &#9;  </p>  <p> &nbsp;  &#9;  </p> 
- </div
+
 
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
@@ -74,7 +75,7 @@ title: ""
     </div> -->
    <div class="col-sm-2">
             <div class="speakers-hover"></div>
-            <img src="/assets/img/people/PedroDArgenio.png" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="350"/>
+            <img src="/assets/img/people/PedroDArgenio.png" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="450"/>
     </div>
     <div class="col-sm-10">
         <p><b>Name:</b> Pedro R. D'Argenio <br/>
