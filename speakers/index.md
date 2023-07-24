@@ -81,7 +81,7 @@ title: ""
         <p><b>Bio:</b> <br/>
          Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
          He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
-         and obtained his PhD at the University of Twente (Netherlands) were he also did his postdoc.  He has also worked at the Université de 
+         and obtained his Ph.D. at the University of Twente (Netherlands) where he also did his postdoc.  He has also worked at the Université de 
          Provence (FR), and was Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
          He is a former Director of the Doctoral Program in Computer Science and former Associate Dean of Science and Technology at FAMAF, UNC.  
          He is currently the Chair of the IFIP WG 1.8 on Concurrency Theory. 
