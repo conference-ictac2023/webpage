@@ -13,8 +13,7 @@ title: ""
             <img src="/2023/assets/img/people/small-MarijnHeule.jpg" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="150"/>
         </a>
     </div> -->
-  <div class="col-sm-2">
-           
+  <div class="col-sm-2">        
             <img src="/assets/img/people/MarijnHeule.png" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="450"/>
     </div>
     <div class="col-sm-10">
@@ -45,8 +44,7 @@ title: ""
             <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="250"/>
         </a>
     </div> -->
-  <div class="col-sm-2">
-            
+  <div class="col-sm-2">  
             <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="450"/>
     </div>
     <div class="col-sm-10">
@@ -73,8 +71,7 @@ title: ""
             <img src="/2023/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="250"/>
         </a>
     </div> -->
-   <div class="col-sm-2">
-           
+   <div class="col-sm-2">   
             <img src="/assets/img/people/PedroDArgenio.png" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="450"/>
     </div>
     <div class="col-sm-10">
