@@ -8,7 +8,12 @@ The 20th International Colloquium on Theoretical Aspects of Computing will
 take place in Lima - Peru, on 04-08 December 2023. ICTAC 2023 will be
 hosted by UTEC, Lima - Peru.
  -->
-### News: deadline extended and special issue journal 
+
+### News: Check the invited speakers and lecturers at ICTAC 2023!
+
+We are excited to announce our [invited speakers](https://ictac2023.compsust.utec.edu.pe/speakers/){:target="_blank"} invited speakers at ICTAC 2023: Marijn J.H. Heule  from CMU - USA,  Ana Cavalcanti  from the University of York, UK and Pedro R. D'Argenio from the National University of Córdoba, Argentina.  These recognized speakers will also give lectures at the [training school](https://ictac2023.compsust.utec.edu.pe/school/){:target="_blank"}. Christian Colombo from the University of Malta will also give a lecture at the training school. Stay tuned! more details about the topics will be announced soon!
+ 
+<!-- ### News: deadline extended and special issue journal 
 
 - The submission deadline for ICTAC has been extended by two weeks. __New firm 
   deadlines are 25 June (abstract) and 02 July (papers).__ However, authors are 
@@ -18,7 +23,7 @@ hosted by UTEC, Lima - Peru.
 - Authors of a selected subset of accepted papers will be invited to submit
   an extended version of their papers to a special issue in the journal
   Theoretical Computer Science (TCS):
-  https://www.sciencedirect.com/journal/theoretical-computer-science
+  https://www.sciencedirect.com/journal/theoretical-computer-science  -->
  
 ### About protests in Peru.
  
