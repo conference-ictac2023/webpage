@@ -59,7 +59,18 @@ title: ""
           object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
           algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
          <br/> </p> 
-        <p><b>Topic:</b> TBD </p> 
+        <p><b>Learning in RoboStar. </b>  <br/>
+        The RoboStar framework supports a model-based approach in the development of control software for robotics applications.
+        It provides domain-specific tool-independent notations for modelling and simulation, and techniques for automatic 
+        generation of artefacts. In this talk, we focus on the RoboStar results on verification in the presence of artificial
+        neural networks (ANN).  Existing techniques and tools for ANN verification are concerned with component-level properties.
+        In RoboStar, we deal with properties that may depend on all software components, including traditional and ANN 
+        components.   Our current focus is on trained neural networks for control, used in the context of behavioural models 
+        described using RoboChart, a domain-specific modelling language for robotics with support for formal verification. 
+        Our proof approach is based on refinement and provides deductive guarantees on behaviour. 
+        ANNs can therefore be treated as reliable, white-box components. We describe our modelling notation and a strategy 
+        for automated proof based on Isabelle and Marabou.
+         <br/> </p> 
     </div>
 </div>
 
