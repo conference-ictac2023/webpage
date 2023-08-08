@@ -74,6 +74,8 @@ conference:
         relative_url: /speakers/
       - name: Training School
         relative_url: /school/
+      - name: Tutorials
+        relative_url: /tutorials/
       - name: Location
         relative_url: /location/
       - name: Committees
