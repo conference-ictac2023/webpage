@@ -33,7 +33,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
     <div class="col-sm-10">
         <p><b>Name:</b>  Marijn J.H. Heule <br/>
         <b>Affiliation:</b> Carnegie Mellon University, USA <br/>
-         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
+         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
          <p><b>Bio:</b>  <br/>
          Marijn Heule is an Associate Professor of Computer Science at Carnegie Mellon University. 
          His contributions to automated reasoning have enabled him and others to solve hard problems 
@@ -64,7 +64,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
     <div class="col-sm-10">
         <p><b>Name:</b>  Ana Cavalcanti <br/>
         <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
+         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
          <p><b>Bio:</b>  <br/>
          Ana Cavalcanti is a Professor at the University of York and a Royal Society - Wolfson Research Merit Award holder. 
           In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
@@ -80,9 +80,9 @@ If you want to give a lecture on applied formal methods, please contact the gene
       (using C, C++, or some proprietary language and API). Reactive robotics simulators do not normally generate code for deployment. 
       Instead, simulation code is often reused after changes. So, there is a potential loss of properties observed via simulation: 
       because of the possibility of changes introducing errors, and because of the reality gap. 
-      The [RoboStar](https://robostar.cs.york.ac.uk/){:target="_blank"} technology supports a model-based, rather than (simulation) code, 
+      The <a href="https://robostar.cs.york.ac.uk/" target="_blank"> RoboStar </a> technology supports a model-based, rather than (simulation) code, 
       approach to development. Models are written using domain-specific notations in line with those accepted by roboticists. 
--       In this lecture, we will focus on modelling and verification using RoboChart, our design notation, and its tool. In [RoboChart](https://robostar.cs.york.ac.uk/robotool/){:target="_blank"}, software controllers are described by timed state machines. The semantics is defined using a process algebra, namely, [tock-CSP](https://robostar.cs.york.ac.uk/assets/tick-tock-report.pdf){:target="_blank"}, which we use for verification.
+       In this lecture, we will focus on modelling and verification using RoboChart, our design notation, and its tool. In <a href="https://robostar.cs.york.ac.uk/robotool/" target="_blank">RoboChart</a>, software controllers are described by timed state machines. The semantics is defined using a process algebra, namely, <a href="https://robostar.cs.york.ac.uk/assets/tick-tock-report.pdf" target="_blank"> tock-CSP</a>, which we use for verification.
        <br/> </p> 
     </div>
 </div>
