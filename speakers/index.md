@@ -19,7 +19,7 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b>  Marijn J.H. Heule <br/>
         <b>Affiliation:</b> Carnegie Mellon University, USA <br/>
-         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
+         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
          <p><b>Bio:</b>  <br/>
          Marijn Heule is an Associate Professor of Computer Science at Carnegie Mellon University. 
          His contributions to automated reasoning have enabled him and others to solve hard problems 
@@ -35,7 +35,7 @@ title: ""
 
 
   <div class="col-sm-10">
-        <p><b>Invited Speaker Sponsored by <a href="https://www.fmeurope.org/"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
+        <p><b>Invited Speaker Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
    </div>
  <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
@@ -50,7 +50,7 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b>  Ana Cavalcanti <br/>
         <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
+         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
          <p><b>Bio:</b>  <br/>
          Ana Cavalcanti is a Professor at the University of York and a Royal Society - Wolfson Research Merit Award holder. 
           In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
@@ -88,7 +88,7 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b> Pedro R. D'Argenio <br/>
         <b>Affiliation:</b> National University of Córdoba, Argentina <br/>
-        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
+        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/" target="_blank">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
         <p><b>Bio:</b> <br/>
          Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
          He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
