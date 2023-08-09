@@ -73,7 +73,17 @@ If you want to give a lecture on applied formal methods, please contact the gene
           object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
           algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
          <br/> </p> 
-        <p><b>Topic of the Lecture:</b> TBD </p> 
+        <p><b>Software Engineering for Robotics: RoboStar technology</b>  </p> 
+      The use of simulations to support the design of software for robotic systems is pervasive. 
+      Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
+      to convey a design and guide the development of a simulation. This involves writing code for a specific simulator 
+      (using C, C++, or some proprietary language and API). Reactive robotics simulators do not normally generate code for deployment. 
+      Instead, simulation code is often reused after changes. So, there is a potential loss of properties observed via simulation: 
+      because of the possibility of changes introducing errors, and because of the reality gap. 
+      The [RoboStar](https://robostar.cs.york.ac.uk/){:target="_blank"} technology supports a model-based, rather than (simulation) code, 
+      approach to development. Models are written using domain-specific notations in line with those accepted by roboticists. 
+-       In this lecture, we will focus on modelling and verification using RoboChart, our design notation, and its tool. In [RoboChart](https://robostar.cs.york.ac.uk/robotool/){:target="_blank"}, software controllers are described by timed state machines. The semantics is defined using a process algebra, namely, [tock-CSP](https://robostar.cs.york.ac.uk/assets/tick-tock-report.pdf){:target="_blank"}, which we use for verification.
+       <br/> </p> 
     </div>
 </div>
 
