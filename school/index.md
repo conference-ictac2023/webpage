@@ -49,7 +49,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
 
 
   <div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.fmeurope.org/"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
+        <p><b>Lecturer Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
    </div>
  <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
@@ -73,7 +73,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
           object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
           algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
          <br/> </p> 
-        <p><b>Software Engineering for Robotics: RoboStar technology</b>  </p> 
+        <p><b>Software Engineering for Robotics: RoboStar technology</b>  <br/> 
       The use of simulations to support the design of software for robotic systems is pervasive. 
       Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
       to convey a design and guide the development of a simulation. This involves writing code for a specific simulator 
@@ -101,7 +101,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
     <div class="col-sm-10">
         <p><b>Name:</b> Pedro R. D'Argenio <br/>
         <b>Affiliation:</b> National University of Córdoba, Argentina <br/>
-        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
+        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/" target="_blank">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
         <p><b>Bio:</b> <br/>
          Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
          He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
@@ -116,7 +116,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
 </div>
 
  <div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.um.edu.mt/ict/"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
+        <p><b>Lecturer Sponsored by <a href="https://www.um.edu.mt/ict/" target="_blank"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
    </div>
 <div class="row justify-content-start p-3">
       <div class="col-sm-2">
