@@ -23,7 +23,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
     <div class="col-sm-10">
         <p><b>Name:</b>  Ina Schaefer <br/>
         <b>Affiliation:</b> Karlsruhe IT, Germany <br/>
-         <b>Homepage:</b> <a href="https://www.informatik.kit.edu/english/1315_12917.php" target="_blank">https://www.informatik.kit.edu/english/1315_12917.php</a> <br/> </p> 
+         <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/english/team_schaefer.php" target="_blank">https://tva.kastel.kit.edu/english/team_schaefer.php</a> <br/> </p> 
           <!--   <p><b>Bio:</b>  <br/> 
          <br/> </p> -->
     </div>
