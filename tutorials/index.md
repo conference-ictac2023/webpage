@@ -26,7 +26,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <b>Homepage:</b> <a href="https://www.informatik.kit.edu/english/1315_12917.php" target="_blank">https://www.informatik.kit.edu/english/1315_12917.php</a> <br/> </p> 
           <!--   <p><b>Bio:</b>  <br/> 
          <br/> </p> -->
-      </div>
+    </div>
  <!--  <div class="col-sm-2">  
             <img src="/assets/img/people/MaximilianKodetzki.png" alt="Maximilian Kodetzki" title="Maximilian Kodetzki" width="450"/>
     </div> -->
@@ -36,9 +36,10 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/english/team_kodetzki.php" target="_blank">https://tva.kastel.kit.edu/english/team_kodetzki.php</a> <br/> </p> 
           <!--   <p><b>Bio:</b>  <br/>
          <br/> </p> -->
-        </div>
+    </div>
+    <div class="col-sm-10">
         <p><b>Tutorial:</b> TBD  <br/> 
-       <br/> </p> 
+       <br/> </p>
     </div>
 </div>
 
@@ -68,6 +69,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
           <!--   <p><b>Bio:</b>  <br/>
          <br/> </p> -->
         </div>
+     <div class="col-sm-10">
         <p><b>Tutorial:</b> TBD  <br/> 
        <br/> </p> 
     </div>
