@@ -61,6 +61,7 @@ The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https:
 
 {:style="text-align:center;"}
 [![logo](assets/img/logo-fme.jpg "logo")](https://www.fmeurope.org/){:target="blank"}
+[![logo](assets/img/logo-sigsoft.png "logo")](https://www.sigsoft.org/){:target="blank"}
 [![logo](assets/img/logo-malta.png "logo")](https://www.um.edu.mt/ict/){:target="blank"}
 [![logo](assets/img/logo-adapt-transp.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
 
