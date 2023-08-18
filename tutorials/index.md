@@ -38,7 +38,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <br/> </p> -->
     </div>
     <div class="col-sm-10">
-        <p><b>Tutorial:</b> TBD  <br/> 
+        <p><b>Tutorial:</b> The Correctness-by-Construction Approach to Programming  <br/> 
        <br/> </p>
     </div>
 </div>
@@ -70,7 +70,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <br/> </p> -->
         </div>
      <div class="col-sm-10">
-        <p><b>Tutorial:</b> TBD  <br/> 
+        <p><b>Tutorial:</b> Model-based Testing  <br/> 
        <br/> </p> 
     </div>
 </div>
