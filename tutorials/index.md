@@ -50,7 +50,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
         due to the implemented variability and the exponential explosion of software products.    
          <br/> </p> 
     </div>
-    <div class="col-sm-10">
+    <div class="col-sm-12">
         <p><b>The Correctness-by-Construction Approach to Programming Using CorC </b> <br/>
          The Correctness-by-Construction tutorial focuses on an incremental programming approach to develop provable correct software. 
         The purpose of the tutorial is to influence the participants' approaches to algorithm development using a technique that balances 
@@ -103,7 +103,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
         More recently, she works on testing  underwater robotic systems in the REMARO ITN where she is vice-coordinator for the project.
          <br/> </p> 
         </div>
-     <div class="col-sm-10">
+     <div class="col-sm-12">
         <p><b>Testing Cyber-Physical Systems: Synergizing Model and AI-based Approaches </b>   <br/> 
         One of the systematic and automated approaches for testing Cyber-Physical Systems (CPSs) is through Model-Based Testing (MBT). 
         This method involves creating an abstract representation of a CPS, which is then utilized by an automated testing tool to generate 
