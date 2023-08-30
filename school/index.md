@@ -137,7 +137,17 @@ If you want to give a lecture on applied formal methods, please contact the gene
           Open Payments Ecosystem [H2020] (2015-2017), Generating Online Monitors from Tests Automatically [MCST] (2015-2017); 
           LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
           and DETECTIF [MCST REP-2022-007] (2022-2023). </p> 
-        <p><b>Topic of the Lecture:</b> TBD </p> 
+        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring</b> <br/> 
+        Runtime verification is a lightweight formal methods technique that synthesizes executable monitors from unambiguous behavior descriptions.
+        Such monitors are then automatically combined with the system under scrutiny to check its correctness at runtime. 
+        Drawing on two decades of experience, this session will start by covering the theoretical bases of runtime verification, 
+        particularly the specification and detection of any behavior violations at runtime. Next, we will have a hands-on session 
+        where participants will be invited to try out Java and AspectJ code in their IDEs, using a financial transaction case study 
+        (see <a href="https://github.com/ccol002/rv-book" target="_blank">https://github.com/ccol002/rv-book</a> if you are curious!).
+        The last part of the session will focus on runtime verification in the context of cybersecurity; 
+        showing how it can monitor the execution of security protocols, enforce isolation of a trusted execution environment, 
+        and extract evidence that would otherwise be hard to obtain.
+       <br/>   </p>  
     </div>
 </div>
 
