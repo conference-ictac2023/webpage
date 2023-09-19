@@ -5,8 +5,8 @@ description: >-
 # baseurl: "/website" # the subpath of your site, e.g. /blog
 # url: "https://https://ictac-2023.vercel.app" # the base hostname & protocol for your site, e.g. https://example.com
 
- theme: jekyll-theme-conference
-# remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
+# theme: jekyll-theme-conference
+ remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
 
 # Build settings
 markdown: kramdown
@@ -144,15 +144,15 @@ conference:
  #   map_provider: "OpenStreetMap.Mapnik"
   #  default_zoom: 17
 
-# talks:
+ talks:
     # Talk categories
- #   main_categories:
+    main_categories:
      # - name: Modeling & Composition
      #   color: info
      # - name: Verification
      #   color: info
- #     - name: Invited Talk
-  #      color: success
+      - name: Invited Talk
+        color: info
 
     # Hide icons on talk overview page
   #  hide_icons: false
