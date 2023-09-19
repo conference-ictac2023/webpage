@@ -24,7 +24,7 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: true
+    output: false
     permalink: /:collection/:title/
   speakers:
     output: true
