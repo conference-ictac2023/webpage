@@ -27,7 +27,7 @@ title: ""
   </tr>
   <tr style="text-align: center">
     <td colspan="2" style="border:1px solid black;">
-      <a href="https://ictac2023.compsust.utec.edu.pe/school/" > ICTAC 2023 Training school on Applied Formal Methods </a> 
+      <a href="https://ictac2023.compsust.utec.edu.pe/school/" > ICTAC 2023 Training School on Applied Formal Methods </a> 
     </td>
   </tr>
 </table> 
