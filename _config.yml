@@ -144,22 +144,28 @@ conference:
     map_provider: "OpenStreetMap.Mapnik"
     default_zoom: 17
 
- talks:
+  talks:
     # Talk categories
     main_categories:
-      - name: Modeling & Composition
+      - name: Logics & Semantics
         color: info
-      - name: Verification
-        color: info
-      - name: Invited Talk
-        color: info
+      - name: Types & Choreographies
+        color: warning
+        # color: danger
+        # color: success
+      - name: Modelling & Verification
+        color: success
+      - name: Invited Talks
+        color: danger
+      - name: Organisation
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false
 
   speakers:
     # Show first and last name
-   show_firstname: true
+    show_firstname: true
 
   location:
     # Disable links to locations
@@ -171,14 +177,14 @@ conference:
     # Show map on location main page
     map: false
     # Show navbar with list of rooms (currently only "Zoom")
-    hide: true
+    hide: false
 
   program:
     # URL of program page
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
-     show_alltimes: true
+    show_alltimes: true
