@@ -1,4 +1,9 @@
-# Overview of the Program for ICTAC 2023
+---
+layout: program
+---
+
+
+<!-- # Overview of the Program for ICTAC 2023
 
  <table style="border:2px solid black;">
   <tr style="text-align: center"> 
@@ -21,4 +26,4 @@
       <a href="https://ictac2023.compsust.utec.edu.pe/school/" > ICTAC 2023 Training school on Applied Formal Methods </a> 
     </td>
   </tr>
-</table> 
+</table> -->
