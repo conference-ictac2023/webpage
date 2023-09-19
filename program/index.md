@@ -1,7 +1,5 @@
 # Overview of the Program for ICTAC 2023
 
-
-
  <table style="border:2px solid black;" >
   <tr style="text-align: center border:1px solid black;"> 
     <td style="text-align: center border:1px solid black;"><b> Monday </b> <br/> Dec 4th  </td>
@@ -24,5 +22,3 @@
     </td>
   </tr>
 </table> 
-
-</body>
