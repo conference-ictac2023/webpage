@@ -19,16 +19,16 @@ Miraflores district (see [map](https://maps.app.goo.gl/cvBgGfg6p5TYNrFC8){:targe
 
 # Traveling to Lima
 
-Flights to Lima arrive at [Jorge Chavez International Airport](https://www.lima-airport.com/en/){:target="_blank"} in [Callao](https://en.wikivoyage.org/wiki/Callao){:target="_blank"} district, which is around 13km to the city center and about 17km to Barranco. Several international airlines operate regular direct or connecting flights to Lima's airport from many cities in the world.
+Flights to Lima arrive at [Jorge Chavez International Airport](https://www.lima-airport.com/en/){:target="_blank"} in [Callao](https://en.wikipedia.org/wiki/Callao){:target="_blank"} district, which is around 17km to 25km to Barranco and Miraflores. Several international airlines operate regular direct or connecting flights to Lima's airport from many cities in the world.
 In addition to local fights, there are various intercity buses that run along the Pan American Highway (Panamericana), which is Peru's only international highway running from north to south along the coastline of Peru. The Central Highway runs from east to west and links the Peruvian highlands with Lima. 
 
 # From the Airport to Miraflores and Barranco
 
-The best way to reach Miraflores and Barranco from the airport is via [Authorozed taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}.
+The best way to reach Miraflores and Barranco from the airport is via [authorozed taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}. Please be aware that Callao district is not touristic, therefore it is advised to use the transport recommended by the airport.
 
 # Get Around in Lima
 
-Taxis are relatively inexpensive and a popular way to get around in Lima. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, which is a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however expect to queue to enter the buses. 
+Taxis are relatively inexpensive and a popular way to get around in Lima. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, which is a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however, expect to queue to enter the buses. 
 
 # Miraflores and Barranco
 
@@ -39,15 +39,18 @@ Taxis are relatively inexpensive and a popular way to get around in Lima. Public
 <img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="400" height="auto">
 
 
-# Lima
+# Lima and its Weather in December 
 
-Lima is the capital of Peru, one of the world’s most varied metropolis. Lima is full of riches from the colonial era, and is hailed as the gastronomic capital of Latin America. Lima is a hub from where it is possible to access the rest of Peru. With more than 9 million inhabitants, Lima is home to many academic institutions, ranging from old and well-established universities to young, modern, and progressive universities such as [UTEC](https://utec.edu.pe/en){:target="_blank"}. 
+Lima is the capital of Peru, one of the world’s most varied metropolises with more than 9 million inhabitants. Lima is full of riches from the colonial era and is hailed as the gastronomic capital of Latin America. Lima is a hub from where it is possible to access the rest of Peru. 
+
+As the summer approaches the South Hemisphere, the weather continues to get warmer in Lima. It is expected for the temperature to be above 20°C.
+Please check the [weather forecast](https://www.accuweather.com/en/pe/lima/264120/december-weather/264120?year=2023){:target="_blank"} for more information.
 
 [![Lima-photo](../../assets/img/Lima-Plaza-de-armas.jpg)](https://wikitravel.org/en/Lima){:target="_blank"}
 
 # Peru
 
-Peru is a multicultural nation, filled with traditions, [vast natural reserves](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Peru), and the home of [many UNESCO World Heritage sites](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Peru). Spanish is its official language. 
+Peru is a multicultural nation, filled with traditions, [vast natural reserves](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Peru), and the home of [many UNESCO World Heritage sites](https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Peru). Spanish is its official language. Please be aware that the temperature varies in the different areas of Peru. Be prepared with your clothing in case you plan to explore the country!
 
 [![Caral-photo](../../assets/img/Caral.jpg)](https://wikitravel.org/en/Caral){:target="_blank"}
 
