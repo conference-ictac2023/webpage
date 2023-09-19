@@ -38,8 +38,8 @@ Taxis are relatively inexpensive and a popular way to get around in Lima. Public
 [Miraflores](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"} is a residential and upscale shopping district south of downtown Lima. It has several hotels, restaurants, bars, nightclubs, and department stores. Miraflores is one of the main tourist destinations in Lima. 
 [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} is considered to be the most romantic and bohemian district of Lima. In the 19th century, it was a very fashionable beach resort. Today, Barranco's beaches are very popular for the surfing community.
 
-<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="auto" height="100">
-<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="auto" height="100">
+<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="450" height="auto">
+<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="550" height="auto">
 
 # Lima and its Weather in December 
 
