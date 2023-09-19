@@ -93,12 +93,26 @@ title: ""
          Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
          He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
          and obtained his Ph.D. at the University of Twente (Netherlands) where he also did his postdoc.  He has also worked at the Université de 
-         Provence (FR), and was Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
+         Provence (FR), and was a Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
          He is a former Director of the Doctoral Program in Computer Science and former Associate Dean of Science and Technology at FAMAF, UNC.  
          He is currently the Chair of the IFIP WG 1.8 on Concurrency Theory. 
          Prof. D'Argenio is a leading researcher in formal techniques for dependable systems, contributing in areas such as model checking, 
          process semantics, fault tolerance, security, and testing. He has led and participated in numerous Argentine and European research projects. <br/> </p> 
-        <p><b>Topic:</b> TBD </p> 
+        <p><b>Optimal Route Synthesis in Space DTN using Markov Decision Processes.</b> <br/>
+        Delay-tolerant networks (DTN) are time-evolving networks that do not provide continuous and instantaneous end-to-end communication. 
+        Instead, the topological configuration of DTN changes continuously: connections are available only during some time intervals and thus 
+        the network may suffer from frequent partitions and high delay. In this sense, the DTN paradigm is fundamental to understand deep-space 
+        and near-Earth communications. A particular characteristic of space networks is that, due to the orbital and periodic behavior of the 
+        different agents (e.g. satellites and terrestrial or lunar stations), contact times and durations between nodes can be accurately predicted. 
+        This type of DTNs is called scheduled and expected contacts can be imprinted in a contact plan that exhaustively describes the future network
+        connectivity.  In addition, the contacts may suffer of some quantifiable failure that can be included in the contact plan.
+        Thus, this behavior can be encoded in a Markov decision process (MDP) where the non-determinism corresponds precisely to the routing decisions. 
+        With this model at hand, we have developed and studied several offline techniques for deriving optimal and near-optimal routing solutions that 
+        ensure maximum likelihood of end-to-end message delivery. In particular, we have devised an analytical solution that exhaustively explores the 
+        MDP very much like probabilistic model checking does, and have also explored simulation-based techniques using lightweight scheduler sampling (LSS).
+        The objective of this presentation is to report this research as well as current ongoing developments for multi-objective routing optimization 
+        on space DTN.
+        <br/> </p> 
     </div>
 </div>
 
