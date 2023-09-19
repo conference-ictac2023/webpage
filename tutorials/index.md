@@ -145,7 +145,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <br/> </p> 
     </div>   
     <div class="col-sm-12">
-        <p> <b>The Semantically Reflected Digital Twin.</b> <br/>
+        <p> <b>The Semantically Lifted Digital Twin.</b> <br/>
          Digital twin applications use digital artefacts to twin physical systems. 
          The purpose is to continuously mirror the structure and behavior of the physical system, such that users can analyse the physical system 
          by means of the digital twin for e.g., to give support for decision making, for systematic reconfiguration, etc. 
