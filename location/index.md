@@ -5,14 +5,20 @@ layout: location
 
 __ICTAC 2023 will be held in Lima - Peru, hosted by [UTEC](https://utec.edu.pe/en){:target="_blank"}.__ 
 
+[UTEC campus is located in Barranco](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"}
+
+
 
 # UTEC Location
 
-[UTEC campus is located in Barranco](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"} and the vicinities of Miraflores, which are touristic districts in Lima.
+[UTEC campus](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"} is located in [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} and the vicinities of [Miraflores](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"}, which are touristic districts in Lima.
 
-[![Barranco-photo](../../assets/img/Lima-Barranco.jpg)](https://wikitravel.org/en/Lima/Barranco){:target="_blank"}
+__Address:__ Jr. Medrano Silva 165, Barranco 15063, Peru. 
 
-[![Miraflores-photo](../../assets/img/Lima-Moderna.jpg)](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"}
+__Webpage:__ [https://utec.edu.pe/en](https://utec.edu.pe/en){:target="_blank"}
+
+<img src="/assets/img/Lima-Barranco.jpg" alt="Barranco-photo" width="500" height="auto">
+<img src="/assets/img/Lima-Moderna.jpg " alt="Miraflores-photo" width="500" height="auto">
 
 
 # Lima
