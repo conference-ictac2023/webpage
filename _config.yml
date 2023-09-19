@@ -144,22 +144,22 @@ conference:
     map_provider: "OpenStreetMap.Mapnik"
     default_zoom: 17
 
-  talks:
+#  talks:
     # Talk categories
-    main_categories:
-      - name: Modeling & Composition
-        color: info
-      - name: Verification
-        color: info
-      - name: Invited Talk
+  #  main_categories:
+   #   - name: Modeling & Composition
+    #    color: info
+    #  - name: Verification
+    #    color: info
+    #  - name: Invited Talk
         color: success
-
+#
     # Hide icons on talk overview page
-    hide_icons: false
+#    hide_icons: false
 
-  speakers:
+#  speakers:
     # Show first and last name
-    show_firstname: true
+ #   show_firstname: true
 
   location:
     # Disable links to locations
