@@ -36,8 +36,8 @@ Taxis are relatively inexpensive and a popular way to get around in Lima. Public
 [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} is considered to be the most romantic and bohemian district of Lima. In the 19th century, it was a very fashionable beach resort. Today, Barranco's beaches are very popular for the surfing community.
 
 <p style="text-align:center;">
-<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="auto" height="250">
-<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="auto" height="250">
+<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="auto" height="100">
+<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="auto" height="100">
 </p>
 
 # Lima and its Weather in December 
