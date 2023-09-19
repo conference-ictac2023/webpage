@@ -76,8 +76,8 @@ conference:
         relative_url: /school/
       - name: Tutorials
         relative_url: /tutorials/
-      - name: Location
-        relative_url: /location/
+      - name: Practical Information
+        relative_url: /practical-information/
       - name: Committees
         relative_url: /committees/
       - name: Call for Papers
