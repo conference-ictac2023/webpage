@@ -66,8 +66,8 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
-      # - name: Program
-     #   relative_url: /program/
+       - name: Program
+        relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
       - name: Invited Speakers
