@@ -1,9 +1,9 @@
-title: ICTAC 2023
+itle: ICTAC 2023
 preposition: at
 description: >-
   20th International Colloquium on Theoretical Aspects of Computing, 04-08 December 2023, Lima, Peru
-# baseurl: "/website" # the subpath of your site, e.g. /blog
-# url: "https://https://ictac-2023.vercel.app" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://conference-ictac2023.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # theme: jekyll-theme-conference
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
@@ -65,23 +65,19 @@ conference:
     #   name: Digital Society Switzerland
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
-  links:
+    links:
+      - name: Call for Papers
+        relative_url: /call-for-papers/
       # - name: Program
-      #  relative_url: /program/
+      #   relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
       - name: Invited Speakers
         relative_url: /speakers/
-      - name: Training School
-        relative_url: /school/
-      - name: Tutorials
-        relative_url: /tutorials/
       - name: Location
         relative_url: /location/
       - name: Committees
         relative_url: /committees/
-      - name: Call for Papers
-        relative_url: /call-for-papers/
       - name: Past Editions
         relative_url: /past-editions/
 
@@ -118,20 +114,20 @@ conference:
   #     color: warning
   #     pages_only: true
 
-  # # Live indications
-  # live:
-  #   date: 01.01.2020
-  #   timezone: GMT+1
-  #   stop:       240  # in minutes
-  #   streaming:
-  #     enable: true
-  #     pause:     60  # in minutes
-  #     prepend:    5  # in minutes
-  #     extend:     5  # in minutes
-  #   demo:
-  #     enable: false
-  #     duration: 300  # in seconds
-  #     pause:     10  # in seconds
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
 
   map:
     # Initial map center point
@@ -171,14 +167,14 @@ conference:
     # Show map on location main page
     map: false
     # Show navbar with list of rooms (currently only "Zoom")
-    hide: false
+    hide: true
 
   program:
     # URL of program page
     url: '/program'
 
     # Time steps in program table
-    time_steps: 30 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
