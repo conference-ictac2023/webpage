@@ -24,7 +24,7 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
     output: true
@@ -155,30 +155,30 @@ conference:
         color: info
 
     # Hide icons on talk overview page
-  #  hide_icons: false
+    hide_icons: false
 
- # speakers:
+  speakers:
     # Show first and last name
-  #  show_firstname: true
+   show_firstname: true
 
-#  location:
+  location:
     # Disable links to locations
- #   hide: false
+    hide: false
     # URL of location / room overview page
- #   url: '/location'
+    url: '/location'
     # Main page title shown on location/room navigation bar
- #   navbar_title: 'Location'
+    navbar_title: 'Location'
     # Show map on location main page
- #   map: false
+    map: false
     # Show navbar with list of rooms (currently only "Zoom")
-#    hide: true
+    hide: true
 
-#  program:
+  program:
     # URL of program page
-#    url: '/program'
+    url: '/program'
 
     # Time steps in program table
- #   time_steps: 15 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
     # show_alltimes: true
