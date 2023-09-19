@@ -11,7 +11,7 @@ __Webpage:__ [https://utec.edu.pe/en](https://utec.edu.pe/en){:target="_blank"}
 
 __Virtual Tour:__ [video](https://recorridovirtual.utec.edu.pe/){:target="_blank"}
 
-<img src="/assets/img/Campus_UTEC_Lima.jpg" alt="UTEC-photo" width="500" height="auto">
+<p style="text-align:center;"> <img src="/assets/img/Campus_UTEC_Lima.jpg" alt="UTEC-photo" width="500" height="auto"> </p>
 
 # Accommodation
 
@@ -35,9 +35,10 @@ Taxis are relatively inexpensive and a popular way to get around in Lima. Public
 [Miraflores](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"} is a residential and upscale shopping district south of downtown Lima. It has several hotels, restaurants, bars, nightclubs, and department stores. Miraflores is one of the main tourist destinations in Lima. 
 [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} is considered to be the most romantic and bohemian district of Lima. In the 19th century, it was a very fashionable beach resort. Today, Barranco's beaches are very popular for the surfing community.
 
-<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="400" height="auto">
-<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="400" height="auto">
-
+<p style="text-align:center;">
+<img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="auto" height="250">
+<img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="auto" height="250">
+</p>
 
 # Lima and its Weather in December 
 
