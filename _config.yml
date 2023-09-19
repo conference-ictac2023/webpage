@@ -133,24 +133,24 @@ conference:
   #    duration: 300  # in seconds
    #   pause:     10  # in seconds
 
-#  map:
+  map:
     # Initial map center point
- #   home_coord: 47.37808, 8.53935
+    home_coord: 47.37808, 8.53935
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
- #   map_provider: "OpenStreetMap.Mapnik"
-  #  default_zoom: 17
+    map_provider: "OpenStreetMap.Mapnik"
+    default_zoom: 17
 
  talks:
     # Talk categories
     main_categories:
-     # - name: Modeling & Composition
-     #   color: info
-     # - name: Verification
-     #   color: info
+      - name: Modeling & Composition
+        color: info
+      - name: Verification
+        color: info
       - name: Invited Talk
         color: info
 
@@ -181,4 +181,4 @@ conference:
     time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    # show_alltimes: true
+     show_alltimes: true
