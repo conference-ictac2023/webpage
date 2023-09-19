@@ -112,7 +112,7 @@ If you want to give a lecture on applied formal methods, please contact the gene
          Prof. D'Argenio is a leading researcher in formal techniques for dependable systems, contributing in areas such as model checking, 
          process semantics, fault tolerance, security, and testing. He has led and participated in numerous Argentine and European research projects. <br/> </p> 
         <p><b>Probabilistic Model Checking. </b> <br/> 
-          Model checking is a powerful tool to verify automatically if a model satisfies a given property. They normally provide a boolean answer to a
+          Model checking is a powerful tool to verify automatically if a model satisfies a given property. They normally provide a Boolean answer to a
           qualitative question. However, probabilistic features normally appear in systems of usually crucial characteristics.  
           For example, it is common to use randomized protocols to solve contention situations in networks or to understand fault models through the 
           stochastic behaviors of faults.  In this last case, for instance, the statement "the system does not fail" might be impossible to verify 
