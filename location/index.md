@@ -15,7 +15,7 @@ __Webpage:__ [https://utec.edu.pe/en](https://utec.edu.pe/en){:target="_blank"}
 
 __Virtual Tour:__ [video](https://recorridovirtual.utec.edu.pe/){:target="_blank"}
 
-<img src="/assets/img/Campus_UTEC_Lima.png" alt="UTEC-photo" width="700" height="auto">
+<img src="/assets/img/Campus_UTEC_Lima.jpg" alt="UTEC-photo" width="700" height="auto">
 
 
 # Lima
