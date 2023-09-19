@@ -51,7 +51,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <br/> </p> 
     </div>
     <div class="col-sm-12">
-        <p><b>The Correctness-by-Construction Approach to Programming Using CorC </b> <br/>
+        <p><b>The Correctness-by-Construction Approach to Programming Using CorC. </b> <br/>
          The Correctness-by-Construction tutorial focuses on an incremental programming approach to develop provable correct software. 
         The purpose of the tutorial is to influence the participants' approaches to algorithm development using a technique that balances 
         between formal methods and a "hack into correctness" style. 
@@ -104,7 +104,7 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
          <br/> </p> 
         </div>
      <div class="col-sm-12">
-        <p><b>Testing Cyber-Physical Systems: Synergizing Model and AI-based Approaches </b>   <br/> 
+        <p><b>Testing Cyber-Physical Systems: Synergizing Model and AI-based Approaches. </b>   <br/> 
         One of the systematic and automated approaches for testing Cyber-Physical Systems (CPSs) is through Model-Based Testing (MBT). 
         This method involves creating an abstract representation of a CPS, which is then utilized by an automated testing tool to generate 
         executable test cases. This process enables the CPS to be thoroughly and systematically tested. 
@@ -114,5 +114,43 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
         The second part will present how these techniques are used to test real-world CPSs, such as communication systems, 
         automated warehouses, and robots.
        <br/> </p> 
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-10">
+        <p><b>Lecturer Sponsored by <a href="https://www.uio.no/english/" target="_blank"> University of Oslo </a></b>  <br/> </p> 
+   </div> 
+ <div class="row justify-content-start p-3">
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/EinarBrochJohnsen.jpg" alt="Einar Broch Johnsen" title="Einar Broch Johnsen" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b> Einar Broch Johnsen <br/>
+        <b>Affiliation:</b> University of Oslo, Norway <br/>
+         <b>Homepage:</b> <a href="https://ebjohnsen.org/" target="_blank">https://ebjohnsen.org/</a> <br/> </p> 
+            <p><b>Bio:</b>  <br/> 
+            Einar Broch Johnsen is a professor at the Department of Informatics, University of Oslo. He is active in formal methods for distributed 
+            and concurrent systems, including object-oriented and actor languages, manycore computing, cloud computing and digital twins. 
+            He is one of the main developers of the ABS modeling language.   
+             He has been prominently involved in many national and European research projects; in particular, he was the strategy director of Sirius, 
+             a center for research-driven innovation on scalable data access, he was the coordinator of the EU FP7 project Envisage (2013-2016) 
+             on formal methods for cloud computing and the scientific coordinator of the EU H2020 project HyVar (2015-2018) on hybrid variability systems.
+             Einar Broch Johnsen is member of IFIP WG2.2 “Formal Description of Programming Concepts”. He was board member of Sintef ICT (2009-2015). 
+             He is currently member of the Scientific Council of the dScience centre at University of Oslo, board member of Formal Methods Europe, 
+            editorial board member of the journals Formal Aspects of Computing and Journal of Logical and Algebraic Methods in Programming, 
+                    and steering committee member of various conference series.
+         <br/> </p> 
+    </div>   
+    <div class="col-sm-12">
+        <p> <b>The Semantically Reflected Digital Twin.</b> <br/>
+         Digital twin applications use digital artefacts to twin physical systems. 
+         The purpose is to continuously mirror the structure and behavior of the physical system, such that users can analyse the physical system 
+         by means of the digital twin for e.g., to give support for decision making, for systematic reconfiguration, etc. 
+         In this tutorial, we discuss what is a digital twin, and how it can be built in a framework that integrates semantic technology and simulation units.
+         We also discuss how a digital twin can systematically reconfigure over time to mirror a changing physical system.  
+       <br/> </p>
     </div>
 </div>
