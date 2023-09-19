@@ -173,9 +173,9 @@ conference:
     # Show navbar with list of rooms (currently only "Zoom")
     hide: true
 
-  program:
+#  program:
     # URL of program page
-    url: '/program'
+  #  url: '/program'
 
     # Time steps in program table
     time_steps: 15 # in minutes
