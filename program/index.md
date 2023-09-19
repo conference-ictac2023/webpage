@@ -1,4 +1,5 @@
-<html>
+# Overview of the Program for ICTAC 2023
+
 <head>
 <style>
 table, th, td {
@@ -8,8 +9,6 @@ table, th, td {
 </style>
 </head>
 <body>
-
-# Overview of the Program for ICTAC 2023
 
  <table>
   <tr style="text-align: center"> 
@@ -35,4 +34,3 @@ table, th, td {
 </table> 
 
 </body>
-</html>
