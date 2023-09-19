@@ -64,19 +64,23 @@ conference:
     #   name: Digital Society Switzerland
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
-    links:
-      - name: Call for Papers
-        relative_url: /call-for-papers/
+  links:
       # - name: Program
-      #   relative_url: /program/
+      #  relative_url: /program/
       # - name: Talks
       #   relative_url: /talks/
       - name: Invited Speakers
         relative_url: /speakers/
+      - name: Training School
+        relative_url: /school/
+      - name: Tutorials
+        relative_url: /tutorials/
       - name: Location
         relative_url: /location/
       - name: Committees
         relative_url: /committees/
+      - name: Call for Papers
+        relative_url: /call-for-papers/
       - name: Past Editions
         relative_url: /past-editions/
 
