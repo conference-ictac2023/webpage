@@ -154,3 +154,39 @@ If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
        <br/> </p>
     </div>
 </div>
+
+
+
+
+<div class="col-sm-10">
+        <p><b>Lecturer Sponsored by <a href="https://www.isti.cnr.it/en/" target="_blank"> Istituto di Scienza e Tecnologie dell'Informazione </a></b>  <br/> </p> 
+   </div> 
+ <div class="row justify-content-start p-3">
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/MauriceHterBeek.jpg" alt="Maurice H. ter Beek" title="Maurice H. ter Beek" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b> Maurice H. ter Beek <br/>
+        <b>Affiliation:</b> Istituto di Scienza e Tecnologie dell'Informazione, Italy <br/>
+         <b>Homepage:</b> <a href="http://fmt.isti.cnr.it/~mtbeek/" target="_blank">http://fmt.isti.cnr.it/~mtbeek/</a> <br/> </p> 
+            <p><b>Bio:</b>  <br/> 
+            Maurice ter Beek is senior researcher at ISTI-CNR (Pisa, Italy) and head of the Formal Methods and Tools lab. 
+            He obtained his Ph.D. at Leiden University (The Netherlands). He has authored over 150 peer-reviewed papers, edited over 30 proceedings 
+            and special issues of journals, and serves on the editorial boards of the journals Formal Aspects of Computing: 
+            Applicable Formal Methods, International Journal on Software Tools for Technology Transfer, Journal of Logical and Algebraic Methods in Programming,
+           PeerJ Computer Science, Science of Computer Programming, and ERCIM News. 
+           He works on formal methods and model-checking tools for the specification and verification of safety-critical software systems, 
+           focusing in particular on applications in service computing, software product line engineering and railway systems. 
+          He is member of the Steering Committees of the COORDINATION, FMICS (currently chair), iFM, SPLC and VaMoS conference series, and regular PC 
+          member of the ABZ, COORDINATION, FM, FMICS, FormaliSE, iFM, SEFM, SPLC and VaMoS conference series, among others. 
+        He is a board member of Formal Methods Europe (FME).
+         <br/> </p> 
+    </div>   
+    <div class="col-sm-12">
+        <p> <b>Formal Methods and Tools for Software Product Lines.</b> <br/>
+         TBA 
+       <br/> </p>
+    </div>
+</div>
+
+
