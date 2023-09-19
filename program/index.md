@@ -1,3 +1,13 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
 
 # Overview of the Program for ICTAC 2023
 
@@ -14,7 +24,7 @@
       <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
     </td>
     <td colspan="3" rowspan="2" >
-      ICTAC 2023 Main Conference </a> 
+      ICTAC 2023 Main Conference 
     </td>
   </tr>
   <tr style="text-align: center">
@@ -24,3 +34,5 @@
   </tr>
 </table> 
 
+</body>
+</html>
