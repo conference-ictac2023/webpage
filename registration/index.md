@@ -55,13 +55,13 @@ layout: location
 </div> 
 
  <ul>
-  <li>'ICTAC full access' registration fee covers the main conference and all co-located events. </li>
-  <li>'ICTAC main conference' registration fee covers the main conference including a reception on Tuesday 5th of December. </li>
-  <li>'School/tutorials' registration fee covers the co-located events on the 4th and 5th of December. </li>
+  <li>'ICTAC full access' registration fee covers the main conference (Dec 6 to 8) and all co-located events (Dec 4 and 5). </li>
+  <li>'ICTAC main conference' registration fee covers the main conference (Dec 6 to 8) including a reception on Dec 5. </li>
+  <li>'School/tutorials' registration fee covers the co-located events (Dec 4 and 5). </li>
   <li>  All prices are in Peruvian Nuevo Sol (Sol.) </li>
 </ul> 
 
-## Early registration deadline: 
+## Early Registration Deadline: 
 
 TBD
 
@@ -72,12 +72,12 @@ Proceed to the <a href="" > registration and payment site </a> (Not yet operativ
 # More Information
 
 <ul>
-  <li> <b>What is covered? </b> Main conference registration fees cover attendance to all sessions for three days main conference (lunches, coffee breaks, conference banquet, reception, and guided tour). Co-located events cover all sessions of the co-located events (lunches, coffee breaks, and reception) </li>
+  <li> <b>What is covered? </b> Main conference registration fees cover attendance to all sessions for three days main conference (lunches, coffee breaks, reception on Dec 5, guided tour on Dec 6 and conference banquet on Dec 7). Co-located events cover all sessions of the co-located events (lunches, coffee breaks, and reception on Dec 5) </li>
    <li> <b>Author registration. </b> Each paper must have at least one author register for the conference (which is a regular, i.e., non-student registration) before the early registration deadline.</li>
     <li> <b>Student/Locals registration. </b> Participants must be (1) full-time students to be registered as students and must provide valid evidence of their full-time student status (e.g. a scan of their student card) or (2) Peruvian resident/citizen and must provide valid evidence (e.g. a scan of their DNI). Please email Juan Gutiérrez Alva (jgutierreza@utec.edu.pe) with your evidence after your registration. This kind of registration without the proper evidence will be canceled. Cancellations may incur financial penalties. </li>
     <li> <b> Extra conference banquet tickets. </b>  Participants can pay for extra conference banquet tickets. </li>
    <li> Online registration supports Credit Cards. See the actual registration service page for further information. The registration service has also their own customer support concerning technical issues. For further requests concerning the registration, please contact Jesus Bellido (jbellido@utec.edu.pe>). </li>
-    <li>  <b> Invitation letters. </b> If you require any (visa) invitation letter or attendance certificate, please do the registration first and then email Juan Gutiérrez Alva (jgutierreza@utec.edu.pe) for the details.</li>
-   <li> <b> Cancellations. </b> Please contact Juan Gutiérrez Alva (jgutierreza@utec.edu.pe). Cancellations may incur financial penalties. </li>
+    <li>  <b> Invitation letters. </b> If you require any (visa) invitation letter or attendance certificate, please do the registration first and then email Jesus Bellido (jbellido@utec.edu.pe>) for the details.</li>
+   <li> <b> Cancellations. </b> Please contact Jesus Bellido (jbellido@utec.edu.pe>). Cancellations may incur financial penalties. </li>
 </ul> 
 
