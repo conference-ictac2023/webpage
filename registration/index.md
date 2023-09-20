@@ -58,7 +58,7 @@ layout: location
   <li>'ICTAC full access' registration fee covers the main conference (Dec 6 to 8) and all co-located events (Dec 4 and 5). </li>
   <li>'ICTAC main conference' registration fee covers the main conference (Dec 6 to 8) including a reception on Dec 5. </li>
   <li>'School/tutorials' registration fee covers the co-located events (Dec 4 and 5). </li>
-  <li>  All prices are in Peruvian Nuevo Sol (Sol.) </li>
+  <li>  All prices are in Peruvian Nuevo Sol (PEN) </li>
 </ul> 
 
 ## Early Registration Deadline: 
