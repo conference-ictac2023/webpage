@@ -18,9 +18,9 @@ layout: location
 		</tr>
 		<tr style="text-align: center">
 			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Regular </b></td>
-			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Student </b></td>
+			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Student/Locals</b></td>
 			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Regular </b></td>
-			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Student </b></td>
+			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 200px;"><b>Student/Locals</b></td>
 		</tr>
 		<tr style="text-align: center">
 			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 400px;"><b>ICTAC full access (5 days)</b></td>
@@ -37,7 +37,7 @@ layout: location
 			<td style="border:1px solid black;width: 200px;">TBD</td>
 		</tr>
 		<tr style="text-align: center">
-			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 400px;"><b>School/tutorial (2 days)</b></td>
+			<td bgcolor="#D3D3D3" style="border:1px solid black;width: 400px;"><b>School/Tutorials (2 days)</b></td>
 			<td style="border:1px solid black;width: 200px;">TBD</td>
 			<td style="border:1px solid black;width: 200px;">TBD</td>
 			<td style="border:1px solid black;width: 200px;">TBD</td>
@@ -74,7 +74,7 @@ Proceed to the <a href="" > registration and payment site </a> (Not yet operativ
 <ul>
   <li> <b>What is covered? </b> Main conference registration fees cover attendance to all sessions for three days main conference (lunches, coffee breaks, conference banquet, reception, and guided tour). Co-located events cover all sessions of the co-located events (lunches, coffee breaks, and reception) </li>
    <li> <b>Author registration. </b> Each paper must have at least one author register for the conference (which is a regular, i.e., non-student registration) before the early registration deadline.</li>
-    <li> <b>Student registration. </b> Participants must be full-time students to be registered as students and must provide valid evidence of their full-time student status (e.g. a scan of their student card) by emailing Juan Gutiérrez Alva (jgutierreza@utec.edu.pe). </li>
+    <li> <b>Student/Locals registration. </b> Participants must be (1) full-time students to be registered as students and must provide valid evidence of their full-time student status (e.g. a scan of their student card) or (2) Peruvian resident/citizen and must provide valid evidence (e.g. a scan of their DNI). Please email Juan Gutiérrez Alva (jgutierreza@utec.edu.pe) with your evidence after your registration. This kind of registration without the proper evidence will be canceled. Cancellations may incur financial penalties. </li>
     <li> <b> Extra conference banquet tickets. </b>  Participants can pay for extra conference banquet tickets. </li>
    <li> Online registration supports Credit Cards. See the actual registration service page for further information. The registration service has also their own customer support concerning technical issues. For further requests concerning the registration, please contact Jesus Bellido (jbellido@utec.edu.pe>). </li>
     <li>  <b> Invitation letters. </b> If you require any (visa) invitation letter or attendance certificate, please do the registration first and then email Juan Gutiérrez Alva (jgutierreza@utec.edu.pe) for the details.</li>
