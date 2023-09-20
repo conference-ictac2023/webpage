@@ -65,9 +65,9 @@ layout: location
 
 TBD
 
-# Payment
+# Registration and Payment
 
-Proceed to the <a href="" > registration and payment site </a> (Not yet operative).
+Proceed to the <a href="" > registration and payment site </a> (this link will be operative from TBD).
 
 # More Information
 
