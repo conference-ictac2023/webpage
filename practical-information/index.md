@@ -15,7 +15,7 @@ __Virtual Tour:__ [video](https://recorridovirtual.utec.edu.pe/){:target="_blank
 
 # Accommodation
 
-Miraflores district (see [map](https://maps.app.goo.gl/cvBgGfg6p5TYNrFC8){:target="_blank"}) is full of hotels, which are within walking distance to the conference venue (around 1.5km). In particular:
+Miraflores district (see [map](https://www.google.com/maps/search/Miraflores+Peru+hotels/){:target="_blank"}) is full of hotels, which are within walking distance to the conference venue. In particular (around 1.5km):
  - [ibis Lima Larco Miraflores](https://all.accor.com/hotel/6971/index.en.shtml){:target="_blank"}
  - [ibis budget Lima Miraflores](https://all.accor.com/hotel/A8F5/index.en.shtml){:target="_blank"}
  - [Radisson Red Miraflores](https://www.choicehotels.com/peru/miraflores/radisson-red-hotels/pe005){:target="_blank"}
