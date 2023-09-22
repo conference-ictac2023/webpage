@@ -84,8 +84,8 @@ conference:
         relative_url: /committees/
       - name: Call for Papers
         relative_url: /call-for-papers/
-      - name: Past Editions
-        relative_url: /past-editions/
+      #- name: Past Editions
+      #  relative_url: /past-editions/
 
   # Link Preview for Sharing
   link_preview:
