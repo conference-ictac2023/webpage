@@ -1,7 +1,6 @@
 <!--  ---
 layout: location
 --- -->
-# PAGE UNDER CONSTRUCTION
 
 # Registration Fee
 
