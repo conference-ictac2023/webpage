@@ -64,6 +64,82 @@ title: ""
 </table> 
 </body> 
 
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
+## Overview of the Main Conference
+
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
+<body>
+<table style="border:2px solid black;">
+	<thead>
+		<tr>
+			<th  rowspan="3">Time</th>
+			<th  colspan="3">Main Conference </th>
+		</tr>
+            	<tr>
+			<th  colspan="3">Room: A707</th>
+		</tr>
+            	<tr>
+			<th>Wednesday Dec 06</th>
+			<th>Thursday Dec 07</th>
+			<th>Friday Dec 08</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>08:00 - 09:00</td>
+			<td colspan="3" > Registration </td>
+		</tr>
+		<tr>
+			<td>09:00 - 10:00</td>
+			<td>Invited Speaker</td>
+			<td>Invited Speaker</td>
+			<td>Invited Speaker</td>
+		</tr>
+		<tr>
+			<td>10:00 - 10:30</td>
+			<td colspan="3">Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:30 - 12:00</td>
+			<td>Block 1</td>
+			<td>Block 3</td>
+			<td>Block 6</td>
+		</tr>
+		<tr>
+			<td>12:00 - 14:00</td>
+			<td colspan="3">Lunch</td>
+		</tr>
+		<tr>
+			<td>14:00 - 15:30</td>
+			<td>Block 2</td>
+			<td>Block 4</td>
+			<td>Block 7</td>
+		</tr>
+		<tr>
+			<td>15:30 - 16:00</td>
+			<td rowspan="2"> - </td>
+			<td colspan="2">Coffee Break</td>
+		</tr>
+		<tr>
+			<td>16:00 - 17:30</td>
+			<td>Block 5</td>
+			<td>Block 8</td>
+		</tr>
+	</tbody>
+</table>
+</body> 
+
+
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
 ## Overview of the Training School and Tutorials 
 
 <div class="col-sm-10">
@@ -89,7 +165,11 @@ title: ""
 			<th>Tuesday Dec 05</th>
 		</tr>
 	</thead>
-	<tbody>
+	<body>
+		<tr>
+			<td>08:00 - 09:00</td>
+			<td colspan="4">Registration</td>
+		</tr>
 		<tr>
 			<td>09:00 - 10:30</td>
 			<td>Lecture 1 - Part I</td>
