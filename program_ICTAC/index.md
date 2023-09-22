@@ -62,43 +62,16 @@ title: ""
   </tr>
 </tbody>
 </table> 
+</body> 
 
-# Overview of the Training School and Tutorials 
+## Overview of the Training School and Tutorials 
 
 <div class="col-sm-10">
         <p> <br/> </p> 
 </div> 
 
-<head>
-	<style>
-	table {
-		border:1px solid #b3adad;
-		border-collapse:collapse;
-		padding:5px;
-		}
-	table th {
-		border:1px solid #b3adad;
-		padding:5px;
-		background: #f0f0f0;
-		color: #313030;
-		width: 300px;
-		}
-	table td {
-		border:1px solid #b3adad;
-		text-align:center;
-		padding:5px;
-		background: #ffffff;
-		color: #313030;
-		}
-	table tr{
-		text-align: center;
-		}
-</style>
-</head>
-</body> 
-
 <body>
-<table>
+<table style="border:2px solid black;">
 	<thead>
 		<tr>
 			<th  rowspan="3">Time</th>
