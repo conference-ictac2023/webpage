@@ -15,7 +15,7 @@ We plan to organize a training school on applied formal methods targeting master
 
 The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2023.   
 
-If you want to give a lecture on applied formal methods, please contact the general chairs of ICTAC 2023.
+<b>There is a limited number of free registrations and a limited number of registrations with a minimum payment for Peruvian residents/citizens. </b> Please contact Cristian Lopez del Alamo (clopezd@utec.edu.pe) for further information. 
 
 ## Lecturers
 
