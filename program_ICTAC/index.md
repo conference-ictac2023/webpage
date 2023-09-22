@@ -39,11 +39,11 @@ title: ""
  <table style="border:2px solid black;">
 <thead>
   <tr style="text-align: center"> 
-    <th style="width: 300px;"><b> Monday </b> <br/> Dec 4th  </th>
-    <th style="width: 300px;"><b> Tuesday </b> <br/> Dec 5th  </th>
-    <th  style="width: 300px;"><b> Wednesday</b> <br/> Dec 6th </th>
-    <th  style="width: 300px;"><b> Thrusday</b> <br/> Dec 7th </th>
-    <th  style="width: 300px;"><b> Friday</b> <br/> Dec 8th </th>
+    <th style="width: 300px;"><b> Monday </b> <br/> Dec 04  </th>
+    <th style="width: 300px;"><b> Tuesday </b> <br/> Dec 05  </th>
+    <th  style="width: 300px;"><b> Wednesday</b> <br/> Dec 06 </th>
+    <th  style="width: 300px;"><b> Thrusday</b> <br/> Dec 07 </th>
+    <th  style="width: 300px;"><b> Friday</b> <br/> Dec 08 </th>
   </tr>
 </thead>
 <tbody>
