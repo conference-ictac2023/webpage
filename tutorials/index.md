@@ -9,8 +9,6 @@ We plan to offer a series of tutorials targeting the participants of the confere
 
 The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 2023.   
 
-If you want to give a tutorial, please contact the PC Chairs of ICTAC 2023.
-
 # Speakers
 
 <div class="col-sm-10">
