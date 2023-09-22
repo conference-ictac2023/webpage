@@ -9,15 +9,41 @@ title: ""
         <p> <br/> </p> 
 </div> 
 
+<head>
+<style>
+	table {
+		border:1px solid #b3adad;
+		border-collapse:collapse;
+		padding:5px;
+		}
+	table th {
+		border:1px solid #b3adad;
+		padding:5px;
+		background: #f0f0f0;
+		color: #313030;
+		width: 300px;
+		}
+	table td {
+		border:1px solid #b3adad;
+		text-align:center;
+		padding:5px;
+		background: #ffffff;
+		color: #313030;
+		}
+	</style>
+</head>
+<body>
  <table style="border:2px solid black;">
- <tbody>
+<thead>
   <tr style="text-align: center"> 
-    <td bgcolor="#D3D3D3" style="border:1px solid black;width: 300px;"><b> Monday </b> <br/> Dec 4th  </td>
-    <td bgcolor="#D3D3D3" style="border:1px solid black;width: 300px;"><b> Tuesday </b> <br/> Dec 5th  </td>
-    <td bgcolor="#D3D3D3" style="border:1px solid black;width: 300px;"><b> Wednesday</b> <br/> Dec 6th </td>
-    <td bgcolor="#D3D3D3" style="border:1px solid black;width: 300px;"><b> Thrusday</b> <br/> Dec 7th </td>
-    <td bgcolor="#D3D3D3" style="border:1px solid black;width: 300px;"><b> Friday</b> <br/> Dec 8th </td>
+    <th style="width: 300px;"><b> Monday </b> <br/> Dec 4th  </th>
+    <th style="width: 300px;"><b> Tuesday </b> <br/> Dec 5th  </th>
+    <th  style="width: 300px;"><b> Wednesday</b> <br/> Dec 6th </th>
+    <th  style="width: 300px;"><b> Thrusday</b> <br/> Dec 7th </th>
+    <th  style="width: 300px;"><b> Friday</b> <br/> Dec 8th </th>
   </tr>
+</thead>
+<tbody>
   <tr style="text-align: center" >
     <td colspan="2" style="border:1px solid black;">
       <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
@@ -34,7 +60,11 @@ title: ""
 </tbody>
 </table> 
 
-# Overview of the Training school and Tutorials 
+# Overview of the Training School and Tutorials 
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
 <head>
 	<style>
 		table {
@@ -47,6 +77,7 @@ title: ""
 			padding:5px;
 			background: #f0f0f0;
 			color: #313030;
+			width: 300px;
 		}
 		table td {
 			border:1px solid #b3adad;
@@ -57,6 +88,8 @@ title: ""
 		}
 	</style>
 </head>
+</body> 
+
 <body>
 	<table>
 		<thead>
