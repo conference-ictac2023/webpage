@@ -19,7 +19,7 @@ title: ""
 	table th {
 		border:1px solid #b3adad;
 		padding:5px;
-		background: #f0f0f0;
+		background: #D3D3D3;
 		color: #313030;
 		width: 300px;
 		}
@@ -77,11 +77,8 @@ title: ""
 <body>
 <table style="border:2px solid black;">
 	<thead>
-		<tr>
-			<th  rowspan="3">Time</th>
-			<th  colspan="3">Main Conference </th>
-		</tr>
             	<tr>
+	     		<th  rowspan="2">Time</th>
 			<th  colspan="3">Room: A707</th>
 		</tr>
             	<tr>
