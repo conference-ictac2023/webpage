@@ -66,6 +66,8 @@ conference:
     #   # img: ''
     #   url: 'https://digitale-gesellschaft.ch/'
     links:
+      - name: Registration
+        relative_url: /registration/
       - name: Program
         relative_url: /program_ICTAC/
       # - name: Talks
