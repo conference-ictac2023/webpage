@@ -34,7 +34,7 @@ title: ""
 </tbody>
 </table> 
 
-<!--  # Training school and Tutorials
+# Overview of the Training school and Tutorials 
 <head>
 	<style>
 		table {
@@ -121,4 +121,4 @@ title: ""
 			</tr>
 		</tbody>
 	</table>
-</body> -->
+</body> 
