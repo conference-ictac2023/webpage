@@ -165,7 +165,7 @@ title: ""
 			<th>Tuesday Dec 05</th>
 		</tr>
 	</thead>
-	<body>
+	<tbody>
 		<tr>
 			<td>08:00 - 09:00</td>
 			<td colspan="4">Registration</td>
