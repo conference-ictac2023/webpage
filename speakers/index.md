@@ -29,7 +29,19 @@ title: ""
          LPAR, and IJCAI-JAIR. He is one of the editors of the Handbook of Satisfiability. 
          This 1500+ page handbook (second edition) has become the reference for SAT research.
          <br/></p> 
-        <p><b>Topic:</b> TBD </p> 
+        <p><b>Without Loss of Satisfaction.</b> <br/>
+        The success of automated reasoning presents us with an interesting peculiarity: while modern solving tools can handle gigantic real-world instances, 
+         they often fail miserably on supposedly easy problems. Their poor performance is frequently caused by using reasoning techniques that can only learn 
+         logically implied facts. In recent years, a couple of new proof systems for propositional logic have been proposed to overcome this issue by 
+         facilitating the learning of facts that are not logically implied, but preserve satisfaction. Moreover, these systems are surprisingly strong, 
+         even without the introduction of new definitions, which is the key feature of short proofs presented in the proof-complexity literature.<br/>
+         We demonstrate the effectiveness of reasoning "without loss of satisfaction" using three problems that are hard for automated-reasoning approaches. 
+         First, we present short proofs of mutilated chessboard problems that are completely different from proofs based on the classical argument. 
+         We can produce them automatically and they are understandable. Second, our proofs of the chromatic number of Mycielski graphs show that these proof systems 
+         can compactly express arguments that go beyond symmetry breaking. Finally, we illustrate the impact on the proof size using Ramsey number problems. 
+         Resolution proofs of Ramsey number four consist of about a billion resolution steps. In contrast, our "without loss of satisfaction" proof uses just 38 steps. 
+         None of these proofs introduce new variables.         
+        <br/> </p> 
     </div>
 </div>
 
