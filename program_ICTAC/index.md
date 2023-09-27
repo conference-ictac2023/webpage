@@ -169,8 +169,8 @@ title: ""
 		</tr>
 		<tr>
 			<td>09:00 - 10:30</td>
-			<td>Lecture 1 - Part I</td>
-			<td>Lecture 3 - Part I</td>
+			<td>Pedro R. D'Argenio <br/> Probabilistic Model Checking <br/> Part I</td>
+			<td>Marijn J.H. Heule <br/> Satisfiability Checking <br/> Part I</td>
 			<td>Tutorial 1 - Part I</td>
 			<td>Tutorial 3 - Part I</td>
 		</tr>
@@ -180,8 +180,8 @@ title: ""
 		</tr>
 		<tr>
 			<td>11:00 - 12:30</td>
-			<td>Lecture 1 - Part II</td>
-			<td>Lecture 3 - Part II</td>
+			<td>Pedro R. D'Argenio <br/> Probabilistic Model Checking <br/> Part II</td>
+			<td>Marijn J.H. Heule <br/> Satisfiability Checking <br/> Part II</td>
 			<td>Tutorial 1 - Part II</td>
 			<td>Tutorial 3 - Part II</td>
 		</tr>
@@ -191,8 +191,8 @@ title: ""
 		</tr>
 		<tr>
 			<td>14:00 - 15:30</td>
-			<td>Lecture 2 - Part I</td>
-			<td>Lecture 4 - Part I</td>
+			<td>Christian Colombo <br/>  The Theory & Practice of Runtime Verification <br/> Part I</td>
+			<td>Ana Cavalcanti <br/> Software Engineering for Robotics <br/> Part I</td>
 			<td>Tutorial 2 - Part I</td>
 			<td>Tutorial 4 - Part I</td>
 		</tr>
@@ -202,8 +202,8 @@ title: ""
 		</tr>
 		<tr>
 			<td>16:00 - 17:30</td>
-			<td>Lecture 2 - Part II</td>
-			<td>Lecture 4 - Part II</td>
+			<td>Christian Colombo <br/>  The Theory & Practice of Runtime Verification <br/> Part II</td>
+			<td>Ana Cavalcanti <br/> Software Engineering for Robotics <br/> Part II</td>
 			<td>Tutorial 2 - Part II</td>
 			<td>Tutorial 4 - Part II</td>
 		</tr>
