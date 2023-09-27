@@ -49,7 +49,9 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
 
 
   <div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
+        <p><b>Lecture Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b> and  
+          <a href="https://www.york.ac.uk/" target="_blank"> The University of York</a></b>
+          <br/> </p> 
    </div>
  <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
@@ -70,9 +72,36 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
           In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
           She has published more than 100 papers and chaired the Programme Committee of various well-established international conferences. 
           Her main research interest is the theory and practice of formal methods. She has a long-term interest in refinement, safety-critical systems, 
-          object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
+          object-orientation, concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
           algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
          <br/> </p> 
+       <p><b>Name:</b>  Ziggy Attala <br/>
+        <b>Affiliation:</b> University of York, United Kingdom <br/>
+         <b>Homepage:</b> <a href="https://www.cs.york.ac.uk/people/?username=ziggy" target="_blank">https://www.cs.york.ac.uk/people/?username=ziggy</a>           <br/> </p> 
+         <p><b>Bio:</b>  <br/>
+         Ziggy Attala is currently finishing his Ph.D. in the verification of RoboChart models with integrated artificial neural network 
+        components at the University of York, supervised by Ana Cavalcanti and Jim Woodcock. 
+        His undergraduate dissertation, supervised by Arno Pauly in Swansea University, concerned how machine learning models can 
+        outlearn and recognize other machine learning models. His research interests include formal methods,
+       machine learning, and the verification of artificial neural networks.
+         <br/> </p> 
+        <p><b>Name:</b> Jim Woodcock <br/>
+        <b>Affiliation:</b> University of York, United Kingdom <br/>
+         <b>Homepage:</b> <a href="https://pure.york.ac.uk/portal/en/persons/jim-woodcock" target="_blank">https://pure.york.ac.uk/portal/en/persons/jim-woodcock</a> <br/> </p> 
+         <p><b>Bio:</b>  <br/>
+          Jim Woodcock is the Anniversary Professor of Software Engineering at the University of York, a Fellow of the Royal Academy of Engineering, 
+          a Chartered Engineer, a Chartered IT Professional, and an award-winning researcher and teacher. 
+          He is also the Professor of Software Engineering of Mobile and Autonomous Robots at Aarhus University and Professor of Cyber-Physical 
+          Systems at China's Southwest University. He has 45 years of experience in formal methods and has dedicated his research career to 
+          searching for the mathematical principles that are essential to the practice of software engineering. His specific research interests 
+          are in unifying theories of programming (UTP), robotics, digital twins, and industrial applications. He leads the team creating UTP 
+          theories for state-rich concurrent programming, including timing and probability and is developing the Isabelle/UTP theorem prover. 
+          He applied the Z notation to the IBM CICS project, helping to gain a Queen's Award for Technological Achievement. 
+          He created the theory and practical verification for NatWest Bank's Mondex smartcard system, the first commercial product 
+          to achieve ITSEC Level E6 (Common Criteria EAL 7). For the last decade, he has researched the theory and practice of cyber-physical 
+          systems and robotics and, recently, their probabilistic semantics. He is Editor-in-Chief of the ACM journal Formal Aspects of 
+          Computing and Editor-in-Chief of the CUP journal Research Directions: Cyber-Physical Systems.
+         <br/> </p>       
         <p><b>Software Engineering for Robotics: RoboStar technology</b>  <br/> 
       The use of simulations to support the design of software for robotic systems is pervasive. 
       Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
