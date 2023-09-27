@@ -52,7 +52,7 @@ title: ""
       <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
     </td>
     <td colspan="3" rowspan="2" style="border:1px solid black;">
-      ICTAC 2023 Main Conference 
+      <a href="https://easychair.org/smart-program/ICTAC2023/" target="_blank"> ICTAC 2023 Main Conference Program </a> 
     </td>
   </tr>
   <tr style="text-align: center">
