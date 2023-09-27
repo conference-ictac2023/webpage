@@ -123,7 +123,7 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
 
 
   <div class="col-sm-10">
-        <p><b>Lecture Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b> and  
+        <p><b>Lecture Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a> and  
           <a href="https://www.york.ac.uk/" target="_blank"> The University of York</a></b>
           <br/> </p> 
    </div>
