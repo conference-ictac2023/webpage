@@ -3,7 +3,7 @@ layout: speaker-overview
 title: ""
 --- -->
 
-# Training School on Applied Formal Methods 
+# ICTAC2023 Training School on Applied Formal Methods 
 
 ## About the  school
 
