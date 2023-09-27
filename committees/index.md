@@ -67,7 +67,7 @@ title: "Committees"
  - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
 
 
-# Training school Chairs
+# Training School and Tutorials Chairs
 
  - [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html){:target="_blank"}, University of Oslo, Norway
  - [Marco Muñiz](https://homes.cs.aau.dk/~muniz/){:target="_blank"}, Aalborg University, Denmark
