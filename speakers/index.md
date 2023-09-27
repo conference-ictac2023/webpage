@@ -45,48 +45,6 @@ title: ""
     </div>
 </div>
 
-
-  <div class="col-sm-10">
-        <p><b>Invited Speaker Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
-   </div>
- <div class="row justify-content-start p-3">
-  <!--  <div class="col-sm-2">
-        <a href="/2023/speakers/AnaCavalcanti/">
-            <div class="speakers-hover"></div>
-            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="250"/>
-        </a>
-    </div> -->
-  <div class="col-sm-2">  
-            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="450"/>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b>  Ana Cavalcanti <br/>
-        <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-         Ana Cavalcanti is a Professor at the University of York and a Royal Society - Wolfson Research Merit Award holder. 
-          In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
-          She has published more than 100 papers and chaired the Programme Committee of various well-established international conferences. 
-          Her main research interest is the theory and practice of formal methods. She has a long-term interest in refinement, safety-critical systems, 
-          object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
-          algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
-         <br/> </p> 
-        <p><b>Learning in RoboStar. </b>  <br/>
-        The RoboStar framework supports a model-based approach in the development of control software for robotics applications.
-        It provides domain-specific tool-independent notations for modelling and simulation, and techniques for automatic 
-        generation of artefacts. In this talk, we focus on the RoboStar results on verification in the presence of artificial
-        neural networks (ANN).  Existing techniques and tools for ANN verification are concerned with component-level properties.
-        In RoboStar, we deal with properties that may depend on all software components, including traditional and ANN 
-        components.   Our current focus is on trained neural networks for control, used in the context of behavioural models 
-        described using RoboChart, a domain-specific modelling language for robotics with support for formal verification. 
-        Our proof approach is based on refinement and provides deductive guarantees on behaviour. 
-        ANNs can therefore be treated as reliable, white-box components. We describe our modelling notation and a strategy 
-        for automated proof based on Isabelle and Marabou.
-         <br/> </p> 
-    </div>
-</div>
-
-
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
        <a href="/2023/speakers/PedroDArgenio/">
@@ -128,5 +86,43 @@ title: ""
     </div>
 </div>
 
-
+ <div class="col-sm-10">
+        <p><b>Invited Speaker Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a></b>  <br/> </p> 
+   </div>
+ <div class="row justify-content-start p-3">
+  <!--  <div class="col-sm-2">
+        <a href="/2023/speakers/AnaCavalcanti/">
+            <div class="speakers-hover"></div>
+            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="250"/>
+        </a>
+    </div> -->
+  <div class="col-sm-2">  
+            <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="450"/>
+    </div>
+    <div class="col-sm-10">
+        <p><b>Name:</b>  Ana Cavalcanti <br/>
+        <b>Affiliation:</b> University of York, United Kingdom <br/>
+         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
+         <p><b>Bio:</b>  <br/>
+         Ana Cavalcanti is a Professor at the University of York and a Royal Society - Wolfson Research Merit Award holder. 
+          In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
+          She has published more than 100 papers and chaired the Programme Committee of various well-established international conferences. 
+          Her main research interest is the theory and practice of formal methods. She has a long-term interest in refinement, safety-critical systems, 
+          object-orientation , concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
+          algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
+         <br/> </p> 
+        <p><b>Learning in RoboStar. </b>  <br/>
+        The RoboStar framework supports a model-based approach in the development of control software for robotics applications.
+        It provides domain-specific tool-independent notations for modelling and simulation, and techniques for automatic 
+        generation of artefacts. In this talk, we focus on the RoboStar results on verification in the presence of artificial
+        neural networks (ANN).  Existing techniques and tools for ANN verification are concerned with component-level properties.
+        In RoboStar, we deal with properties that may depend on all software components, including traditional and ANN 
+        components.   Our current focus is on trained neural networks for control, used in the context of behavioural models 
+        described using RoboChart, a domain-specific modelling language for robotics with support for formal verification. 
+        Our proof approach is based on refinement and provides deductive guarantees on behaviour. 
+        ANNs can therefore be treated as reliable, white-box components. We describe our modelling notation and a strategy 
+        for automated proof based on Isabelle and Marabou.
+         <br/> </p> 
+    </div>
+</div>
 
