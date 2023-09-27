@@ -19,6 +19,80 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
 
 ## Lecturers
 
+<div class="row justify-content-start p-3">
+      <!-- <div class="col-sm-2">
+       <a href="/2023/speakers/PedroDArgenio/">
+            <div class="speakers-hover"></div>
+            <img src="/2023/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="250"/>
+        </a>
+    </div> -->
+   <div class="col-sm-2">   
+            <img src="/assets/img/people/PedroDArgenio.png" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="450"/>
+    </div>
+    <div class="col-sm-10">
+        <p><b>Name:</b> Pedro R. D'Argenio <br/>
+        <b>Affiliation:</b> National University of Córdoba, Argentina <br/>
+        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/" target="_blank">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
+        <p><b>Bio:</b> <br/>
+         Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
+         He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
+         and obtained his Ph.D. at the University of Twente (Netherlands) where he also did his postdoc.  He has also worked at the Université de 
+         Provence (FR), and was Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
+         He is a former Director of the Doctoral Program in Computer Science and former Associate Dean of Science and Technology at FAMAF, UNC.  
+         He is currently the Chair of the IFIP WG 1.8 on Concurrency Theory. 
+         Prof. D'Argenio is a leading researcher in formal techniques for dependable systems, contributing in areas such as model checking, 
+         process semantics, fault tolerance, security, and testing. He has led and participated in numerous Argentine and European research projects. <br/> </p> 
+        <p><b>Probabilistic Model Checking. </b> <br/> 
+          Model checking is a powerful tool to verify automatically if a model satisfies a given property. They normally provide a Boolean answer to a
+          qualitative question. However, probabilistic features normally appear in systems of usually crucial characteristics.  
+          For example, it is common to use randomized protocols to solve contention situations in networks or to understand fault models through the 
+          stochastic behaviors of faults.  In this last case, for instance, the statement "the system does not fail" might be impossible to verify 
+          while rather the appropriate question could be "99% of the time the system does not fail".
+          In this tutorial, we will introduce the fundamentals and algorithms to address the verification of this type of quantitative properties.  
+          In particular, we will discuss the verification of quantitative and qualitative properties on discrete-time Markov chains as well as on 
+          the more versatile setting of Markov decision process.
+           <br/> </p> 
+    </div>
+</div>
+
+ <div class="col-sm-10">
+        <p><b>Lecturer Sponsored by <a href="https://www.um.edu.mt/ict/" target="_blank"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
+   </div>
+<div class="row justify-content-start p-3">
+      <div class="col-sm-2">
+            <img src="/assets/img/people/ChristianColombo.png" alt="Christian Colombo" title="Christian Colombo" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b> Christian Colombo <br/>
+        <b>Affiliation:</b> University of Malta, Malta <br/>
+        <b>Homepage:</b> <a href="https://www.um.edu.mt/profile/christiancolombo" target="_blank"> https://www.um.edu.mt/profile/christiancolombo</a> <br/> </p> 
+        <p><b>Bio:</b> <br/>
+         Christian Colombo obtained his Ph.D. in Computer Science from the University of  Malta in 2013 and currently holds the position 
+          of Associate Professor within the Department of Computer Science. His main areas of research are runtime verification, 
+          software testing, compensating transactions, and domain-specific languages, focusing on the creation of dependable software 
+          systems by verifying them against formal specifications at runtime. The applications of this body of research span mobile device security, 
+          payment gateway systems, social network privacy policies, and tax compliance, amongst others. He is actively involved in outreach activities 
+          both at the department and faculty level, engaging with potential future students, industry, and the general public. 
+          He has been closely involved in a number of funded projects: Dependability and Error-Recovery in Security Intensive Financial Systems [MCST] (2008-2011), 
+          Open Payments Ecosystem [H2020] (2015-2017), Generating Online Monitors from Tests Automatically [MCST] (2015-2017); 
+          LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
+          and DETECTIF [MCST REP-2022-007] (2022-2023). </p> 
+        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring</b> <br/> 
+        Runtime verification is a lightweight formal methods technique that synthesizes executable monitors from unambiguous behavior descriptions.
+        Such monitors are then automatically combined with the system under scrutiny to check its correctness at runtime. 
+        Drawing on two decades of experience, this session will start by covering the theoretical bases of runtime verification, 
+        particularly the specification and detection of any behavior violations at runtime. Next, we will have a hands-on session 
+        where participants will be invited to try out Java and AspectJ code in their IDEs, using a financial transaction case study 
+        (see <a href="https://github.com/ccol002/rv-book" target="_blank">https://github.com/ccol002/rv-book</a> if you are curious!).
+        The last part of the session will focus on runtime verification in the context of cybersecurity; 
+        showing how it can monitor the execution of security protocols, enforce isolation of a trusted execution environment, 
+        and extract evidence that would otherwise be hard to obtain.
+       <br/>   </p>  
+    </div>
+</div>
+
+
+
 <div class="container">
 <div class="row justify-content-start p-3">
   <!--  <div class="col-sm-2">
@@ -117,75 +191,5 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
 </div>
 
 
-<div class="row justify-content-start p-3">
-      <!-- <div class="col-sm-2">
-       <a href="/2023/speakers/PedroDArgenio/">
-            <div class="speakers-hover"></div>
-            <img src="/2023/assets/img/people/small-PedroDArgenio.jpg" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="250"/>
-        </a>
-    </div> -->
-   <div class="col-sm-2">   
-            <img src="/assets/img/people/PedroDArgenio.png" alt="Pedro R. D'Argenio" title="Pedro R. D'Argenio" width="450"/>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b> Pedro R. D'Argenio <br/>
-        <b>Affiliation:</b> National University of Córdoba, Argentina <br/>
-        <b>Homepage:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/" target="_blank">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
-        <p><b>Bio:</b> <br/>
-         Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
-         He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
-         and obtained his Ph.D. at the University of Twente (Netherlands) where he also did his postdoc.  He has also worked at the Université de 
-         Provence (FR), and was Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
-         He is a former Director of the Doctoral Program in Computer Science and former Associate Dean of Science and Technology at FAMAF, UNC.  
-         He is currently the Chair of the IFIP WG 1.8 on Concurrency Theory. 
-         Prof. D'Argenio is a leading researcher in formal techniques for dependable systems, contributing in areas such as model checking, 
-         process semantics, fault tolerance, security, and testing. He has led and participated in numerous Argentine and European research projects. <br/> </p> 
-        <p><b>Probabilistic Model Checking. </b> <br/> 
-          Model checking is a powerful tool to verify automatically if a model satisfies a given property. They normally provide a Boolean answer to a
-          qualitative question. However, probabilistic features normally appear in systems of usually crucial characteristics.  
-          For example, it is common to use randomized protocols to solve contention situations in networks or to understand fault models through the 
-          stochastic behaviors of faults.  In this last case, for instance, the statement "the system does not fail" might be impossible to verify 
-          while rather the appropriate question could be "99% of the time the system does not fail".
-          In this tutorial, we will introduce the fundamentals and algorithms to address the verification of this type of quantitative properties.  
-          In particular, we will discuss the verification of quantitative and qualitative properties on discrete-time Markov chains as well as on 
-          the more versatile setting of Markov decision process.
-           <br/> </p> 
-    </div>
-</div>
 
- <div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.um.edu.mt/ict/" target="_blank"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
-   </div>
-<div class="row justify-content-start p-3">
-      <div class="col-sm-2">
-            <img src="/assets/img/people/ChristianColombo.png" alt="Christian Colombo" title="Christian Colombo" width="450"/>
-    </div> 
-    <div class="col-sm-10">
-        <p><b>Name:</b> Christian Colombo <br/>
-        <b>Affiliation:</b> University of Malta, Malta <br/>
-        <b>Homepage:</b> <a href="https://www.um.edu.mt/profile/christiancolombo" target="_blank"> https://www.um.edu.mt/profile/christiancolombo</a> <br/> </p> 
-        <p><b>Bio:</b> <br/>
-         Christian Colombo obtained his Ph.D. in Computer Science from the University of  Malta in 2013 and currently holds the position 
-          of Associate Professor within the Department of Computer Science. His main areas of research are runtime verification, 
-          software testing, compensating transactions, and domain-specific languages, focusing on the creation of dependable software 
-          systems by verifying them against formal specifications at runtime. The applications of this body of research span mobile device security, 
-          payment gateway systems, social network privacy policies, and tax compliance, amongst others. He is actively involved in outreach activities 
-          both at the department and faculty level, engaging with potential future students, industry, and the general public. 
-          He has been closely involved in a number of funded projects: Dependability and Error-Recovery in Security Intensive Financial Systems [MCST] (2008-2011), 
-          Open Payments Ecosystem [H2020] (2015-2017), Generating Online Monitors from Tests Automatically [MCST] (2015-2017); 
-          LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
-          and DETECTIF [MCST REP-2022-007] (2022-2023). </p> 
-        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring</b> <br/> 
-        Runtime verification is a lightweight formal methods technique that synthesizes executable monitors from unambiguous behavior descriptions.
-        Such monitors are then automatically combined with the system under scrutiny to check its correctness at runtime. 
-        Drawing on two decades of experience, this session will start by covering the theoretical bases of runtime verification, 
-        particularly the specification and detection of any behavior violations at runtime. Next, we will have a hands-on session 
-        where participants will be invited to try out Java and AspectJ code in their IDEs, using a financial transaction case study 
-        (see <a href="https://github.com/ccol002/rv-book" target="_blank">https://github.com/ccol002/rv-book</a> if you are curious!).
-        The last part of the session will focus on runtime verification in the context of cybersecurity; 
-        showing how it can monitor the execution of security protocols, enforce isolation of a trusted execution environment, 
-        and extract evidence that would otherwise be hard to obtain.
-       <br/>   </p>  
-    </div>
-</div>
 
