@@ -11,6 +11,55 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
 
 ## Speakers
 
+
+  <div class="col-sm-10">
+        <p><b>Lecturers Sponsored by <a href="https://www.simula.no/" target="_blank"> Simula Research Laboratory</a> and <a href="https://en.itu.dk/" target="_blank"> ITU- (IT University of Copenhagen) </a></b>  <br/> </p> 
+   </div> 
+ <div class="row justify-content-start p-3">
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/ShaukatAli.jpg" alt="Shaukat Ali" title="Shaukat Ali" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b>  Shaukat Ali <br/>
+        <b>Affiliation:</b> Simula Research Laboratory, Norway <br/>
+         <b>Homepage:</b> <a href="https://www.simula.no/people/shaukat" target="_blank">https://www.simula.no/people/shaukat</a> <br/> </p> 
+        <p><b>Bio:</b>  <br/> 
+        Shaukat Ali is a Chief Research Scientist, Research Professor, and Head of the Department at Simula Research Laboratory, Norway. 
+        He is also an adjunct associate professor at Oslo Metropolitan University, Oslo, Norway. He focuses on devising novel methods 
+        for verifying and validating classical and quantum software systems. 
+        He has led many national and European projects related to testing, search-based software engineering, model-based system engineering, 
+        and quantum software engineering.
+         <br/> </p> 
+      </div>
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/MahsaVarshosaz.png" alt="Mahsa Varshosaz" title="Mahsa Varshosaz" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b>  Mahsa Varshosaz <br/>
+        <b>Affiliation:</b> IT University of Copenhagen, Denmark <br/>
+         <b>Homepage:</b> <a href="http://mahsavarshosaz.net/" target="_blank">http://mahsavarshosaz.net/</a> <br/> </p> 
+         <p><b>Bio:</b>  <br/>
+        Mahsa Varshosaz is an assistant professor at IT University of Copenhagen. Her research is focused on quality assurance and safety of
+        software systems. She is interested in both theoretical and practical aspects of modeling, testing, and verification of systems 
+        and the challenges in the application of such techniques in different domains. 
+        She has experience developing and applying modeling and model-based testing techniques for families of software systems. 
+        More recently, she works on testing  underwater robotic systems in the REMARO ITN where she is vice-coordinator for the project.
+         <br/> </p> 
+        </div>
+     <div class="col-sm-12">
+        <p><b>Testing Cyber-Physical Systems: Synergizing Model and AI-based Approaches. </b>   <br/> 
+        One of the systematic and automated approaches for testing Cyber-Physical Systems (CPSs) is through Model-Based Testing (MBT). 
+        This method involves creating an abstract representation of a CPS, which is then utilized by an automated testing tool to generate 
+        executable test cases. This process enables the CPS to be thoroughly and systematically tested. 
+        Given the complexity of real-world CPS, there is a further need to optimize testing with Artificial Intelligence (AI)-based approaches 
+        such as genetic algorithms. This tutorial will have two main parts. 
+        The first part will cover the basics of MBT and relevant AI-based approaches for test optimization. 
+        The second part will present how these techniques are used to test real-world CPSs, such as communication systems, 
+        automated warehouses, and robots.
+       <br/> </p> 
+    </div>
+</div>
+
 <div class="col-sm-10">
         <p><b>Lecturers Sponsored by <a href="https://www.kit.edu/" target="_blank"> KIT (Karlsruhe Institute of Technology) </a></b>  <br/> </p> 
    </div> 
@@ -66,58 +115,6 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
 </div>
 
 
-
-  <div class="col-sm-10">
-        <p><b>Lecturers Sponsored by <a href="https://www.simula.no/" target="_blank"> Simula Research Laboratory</a> and <a href="https://en.itu.dk/" target="_blank"> ITU- (IT University of Copenhagen) </a></b>  <br/> </p> 
-   </div> 
- <div class="row justify-content-start p-3">
-   <div class="col-sm-2">  
-            <img src="/assets/img/people/ShaukatAli.jpg" alt="Shaukat Ali" title="Shaukat Ali" width="450"/>
-    </div> 
-    <div class="col-sm-10">
-        <p><b>Name:</b>  Shaukat Ali <br/>
-        <b>Affiliation:</b> Simula Research Laboratory, Norway <br/>
-         <b>Homepage:</b> <a href="https://www.simula.no/people/shaukat" target="_blank">https://www.simula.no/people/shaukat</a> <br/> </p> 
-        <p><b>Bio:</b>  <br/> 
-        Shaukat Ali is a Chief Research Scientist, Research Professor, and Head of the Department at Simula Research Laboratory, Norway. 
-        He is also an adjunct associate professor at Oslo Metropolitan University, Oslo, Norway. He focuses on devising novel methods 
-        for verifying and validating classical and quantum software systems. 
-        He has led many national and European projects related to testing, search-based software engineering, model-based system engineering, 
-        and quantum software engineering.
-         <br/> </p> 
-      </div>
-   <div class="col-sm-2">  
-            <img src="/assets/img/people/MahsaVarshosaz.png" alt="Mahsa Varshosaz" title="Mahsa Varshosaz" width="450"/>
-    </div> 
-    <div class="col-sm-10">
-        <p><b>Name:</b>  Mahsa Varshosaz <br/>
-        <b>Affiliation:</b> IT University of Copenhagen, Denmark <br/>
-         <b>Homepage:</b> <a href="http://mahsavarshosaz.net/" target="_blank">http://mahsavarshosaz.net/</a> <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-        Mahsa Varshosaz is an assistant professor at IT University of Copenhagen. Her research is focused on quality assurance and safety of
-        software systems. She is interested in both theoretical and practical aspects of modeling, testing, and verification of systems 
-        and the challenges in the application of such techniques in different domains. 
-        She has experience developing and applying modeling and model-based testing techniques for families of software systems. 
-        More recently, she works on testing  underwater robotic systems in the REMARO ITN where she is vice-coordinator for the project.
-         <br/> </p> 
-        </div>
-     <div class="col-sm-12">
-        <p><b>Testing Cyber-Physical Systems: Synergizing Model and AI-based Approaches. </b>   <br/> 
-        One of the systematic and automated approaches for testing Cyber-Physical Systems (CPSs) is through Model-Based Testing (MBT). 
-        This method involves creating an abstract representation of a CPS, which is then utilized by an automated testing tool to generate 
-        executable test cases. This process enables the CPS to be thoroughly and systematically tested. 
-        Given the complexity of real-world CPS, there is a further need to optimize testing with Artificial Intelligence (AI)-based approaches 
-        such as genetic algorithms. This tutorial will have two main parts. 
-        The first part will cover the basics of MBT and relevant AI-based approaches for test optimization. 
-        The second part will present how these techniques are used to test real-world CPSs, such as communication systems, 
-        automated warehouses, and robots.
-       <br/> </p> 
-    </div>
-</div>
-
-
-
-
 <div class="col-sm-10">
         <p><b>Lecturer Sponsored by <a href="https://www.uio.no/english/" target="_blank"> University of Oslo </a></b>  <br/> </p> 
    </div> 
@@ -154,7 +151,35 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
 </div>
 
 
-
+<div class="col-sm-10">
+        <p><b>Lecturer Sponsored by <a href="https://www.uni-luebeck.de/en/university/" target="_blank"> The University of Lübeck </a></b>  <br/> </p> 
+   </div> 
+ <div class="row justify-content-start p-3">
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/MartinLeucker.jpeg" alt="Martin Leucker" title="Martin Leucker" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b> Martin Leucker <br/>
+        <b>Affiliation:</b>University of Lübeck, Germany <br/>
+         <b>Homepage:</b> <a href="https://www.isp.uni-luebeck.de/leucker" target="_blank">https://www.isp.uni-luebeck.de/leucker</a> <br/> </p> 
+            <p><b>Bio:</b>  <br/> 
+            Martin Leucker received the Ph.D. degree from RWTH Aachen University, Germany. 
+           He worked as a Postdoctoral Researcher with the University of Pennsylvania, USA; and Uppsala University, Sweden. 
+           He pursued his habilitation at TU München, Germany. He is currently a Professor with the University of Lübeck, 
+           Germany, heading the Institute of Software Engineering and Programming Languages. 
+           Moreover, he is the CEO of UniTransferKlinik Lübeck GmbH, which also focuses on regulatory affairs, 
+           especially for medical devices. He is the author of more than 130 peer-reviewed journal and conference 
+           articles ranging over software engineering, formal methods, and theoretical computer science. 
+           His research interests include software engineering; correct and reliable systems; 
+           and formal methods and theoretical computer science, both from a technical and a regulatory perspective.
+         <br/> </p> 
+    </div>   
+    <div class="col-sm-12">
+        <p> <b>Automata Learning with an Application to Learn and Verify Recurrent Neural Networks.</b> <br/>
+         TBA 
+       <br/> </p>
+    </div>
+</div>
 
 <div class="col-sm-10">
         <p><b>Lecturer Sponsored by <a href="https://www.isti.cnr.it/en/" target="_blank"> Istituto di Scienza e Tecnologie dell'Informazione </a></b>  <br/> </p> 
