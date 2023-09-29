@@ -171,8 +171,8 @@ title: ""
 			<td>09:00 - 10:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part I</td>
 			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking</b> <br/> Part I</td>
-			<td>Tutorial 1 - Part I</td>
-			<td>Tutorial 3 - Part I</td>
+			<td>Shaukat Ali <br/><b>Testing Cyber-Physical Systems </b> <br/>  Part I</td>
+			<td>Einar Broch Johnsen <br/><b>Semantically Lifted Digital Twin </b></td>
 		</tr>
 		<tr>
 			<td>10:30 - 11:00</td>
@@ -182,8 +182,8 @@ title: ""
 			<td>11:00 - 12:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part II</td>
 			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking <br/></b> Part II</td>
-			<td>Tutorial 1 - Part II</td>
-			<td>Tutorial 3 - Part II</td>
+			<td>Shaukat Ali <br/><b>Testing Cyber-Physical Systems </b> <br/>Part II</td>
+			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part I</td>
 		</tr>
 		<tr>
 			<td>12:30 - 14:00</td>
@@ -193,8 +193,8 @@ title: ""
 			<td>14:00 - 15:30</td>
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part I</td>
 			<td>Ana Cavalcanti <br/> <b>Software Engineering for Robotics</b> <br/> Part I</td>
-			<td>Tutorial 2 - Part I</td>
-			<td>Tutorial 4 - Part I</td>
+			<td>Ina Schaefer <br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part I</td>
+			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part II</td>
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
@@ -204,8 +204,8 @@ title: ""
 			<td>16:00 - 17:30</td>
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part II</td>
 			<td>Ana Cavalcanti <br/> <b>Software Engineering for Robotics</b> <br/> Part II</td>
-			<td>Tutorial 2 - Part II</td>
-			<td>Tutorial 4 - Part II</td>
+			<td>Ina Schaefer <br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part II</td>
+			<td> Maurice H. ter Beek <br/> <b>FM & Tools for Software Product Lines</b> <br/></td>
 		</tr>
 	</tbody>
 </table>
