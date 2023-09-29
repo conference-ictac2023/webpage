@@ -171,7 +171,7 @@ title: ""
 			<td>09:00 - 10:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part I</td>
 			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking</b> <br/> Part I</td>
-			<td>Shaukat Ali <br/><b>Testing Cyber-Physical Systems </b> <br/>  Part I</td>
+			<td>Shaukat Ali & Mahsa Varshosaz <br/><b>Testing Cyber-Physical Systems </b> <br/>  Part I</td>
 			<td>Einar Broch Johnsen <br/><b>Semantically Lifted Digital Twin </b></td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ title: ""
 			<td>11:00 - 12:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part II</td>
 			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking <br/></b> Part II</td>
-			<td>Shaukat Ali <br/><b>Testing Cyber-Physical Systems </b> <br/>Part II</td>
+			<td>Shaukat Ali & Mahsa Varshosaz <br/><b>Testing Cyber-Physical Systems </b> <br/>Part II</td>
 			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part I</td>
 		</tr>
 		<tr>
@@ -192,8 +192,8 @@ title: ""
 		<tr>
 			<td>14:00 - 15:30</td>
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part I</td>
-			<td>Ana Cavalcanti <br/> <b>Software Engineering for Robotics</b> <br/> Part I</td>
-			<td>Ina Schaefer <br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part I</td>
+			<td>Ana Cavalcanti & Ziggy Attala & Jim Woodcock<br/> <b>Software Engineering for Robotics</b> <br/> Part I</td>
+			<td>Ina Schaefer & Maximilian Kodetzki<br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part I</td>
 			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part II</td>
 		</tr>
 		<tr>
@@ -203,8 +203,8 @@ title: ""
 		<tr>
 			<td>16:00 - 17:30</td>
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part II</td>
-			<td>Ana Cavalcanti <br/> <b>Software Engineering for Robotics</b> <br/> Part II</td>
-			<td>Ina Schaefer <br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part II</td>
+			<td>Ana Cavalcanti & Ziggy Attala & Jim Woodcock<br/> <b>Software Engineering for Robotics</b> <br/> Part II</td>
+			<td>Ina Schaefer & Maximilian Kodetzki<br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part II</td>
 			<td> Maurice H. ter Beek <br/> <b>FM & Tools for Software Product Lines</b> <br/></td>
 		</tr>
 	</tbody>
