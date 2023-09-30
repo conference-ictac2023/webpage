@@ -183,7 +183,7 @@ title: ""
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part II</td>
 			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking <br/></b> Part II</td>
 			<td>Shaukat Ali <br/> Mahsa Varshosaz <br/><b>Testing Cyber-Physical Systems </b> <br/>Part II</td>
-			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part I</td>
+			<td>Maurice H. ter Beek <br/> <b>FM & Tools for Software Product Lines</b> <br/></td>
 		</tr>
 		<tr>
 			<td>12:30 - 14:00</td>
@@ -194,7 +194,7 @@ title: ""
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part I</td>
 			<td>Ana Cavalcanti <br/> Ziggy Attala <br/> Jim Woodcock<br/> <b>Software Engineering for Robotics</b> <br/> Part I</td>
 			<td>Ina Schaefer <br/> Maximilian Kodetzki<br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part I</td>
-			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part II</td>
+			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part I</td>
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
@@ -205,7 +205,7 @@ title: ""
 			<td>Christian Colombo <br/> <b>The Theory & Practice of Runtime Verification</b> <br/> Part II</td>
 			<td>Ana Cavalcanti <br/> Ziggy Attala <br/> Jim Woodcock<br/> <b>Software Engineering for Robotics</b> <br/> Part II</td>
 			<td>Ina Schaefer <br/> Maximilian Kodetzki<br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part II</td>
-			<td> Maurice H. ter Beek <br/> <b>FM & Tools for Software Product Lines</b> <br/></td>
+			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part II</td>
 		</tr>
 	</tbody>
 </table>
