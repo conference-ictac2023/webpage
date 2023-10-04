@@ -55,7 +55,7 @@ layout: location
 
 # Registration and Payment
 
-Proceed to the <a href="" > registration and payment site </a> (this link will be operative from the 1st of October).
+Proceed to the <a href="" > registration and payment site </a> (this link will be operative soon).
 
 # More Information
 
