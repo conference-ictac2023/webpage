@@ -117,7 +117,15 @@ The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2
          LPAR, and IJCAI-JAIR. He is one of the editors of the Handbook of Satisfiability. 
          This 1500+ page handbook (second edition) has become the reference for SAT research.
          <br/></p> 
-        <p><b>Topic of the Lecture:</b> TBD </p> 
+        <p><b>Satisfiability Solving.</b> <br/>
+         Satisfiability (SAT) solvers have become powerful search engines to solve a wide range of applications in fields such as formal verification, 
+         planning, and mathematics. This lecture on SAT solving consists of two parts. The first part focuses on an introduction that ranges from many 
+         applications of SAT to interesting theoretical aspects. It also covers basic solving techniques. 
+         The second part provides hands-on experience on how to use SAT solvers in practice. This part consists of various examples, 
+         such as how to encode a graph coloring problem into SAT and solving the resulting formula with a top-tier solver. 
+         Additionally, we demonstrate some tools to make it easier to use SAT. We conclude by presenting satisfiability modulo theory (SMT) 
+         solvers and how they can be used to solve problems. 
+         <br/> </p> 
     </div>
 </div>
 
