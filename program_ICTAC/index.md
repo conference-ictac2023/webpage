@@ -170,7 +170,7 @@ title: ""
 		<tr>
 			<td>09:00 - 10:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part I</td>
-			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking</b> <br/> Part I</td>
+			<td>Marijn J.H. Heule <br/> <b>Satisfiability Solving</b> <br/> Part I</td>
 			<td>Shaukat Ali <br/> Mahsa Varshosaz <br/><b>Testing Cyber-Physical Systems </b> <br/>  Part I</td>
 			<td>Einar Broch Johnsen <br/><b>Semantically Lifted Digital Twin </b></td>
 		</tr>
@@ -181,7 +181,7 @@ title: ""
 		<tr>
 			<td>11:00 - 12:30</td>
 			<td>Pedro R. D'Argenio <br/> <b>Probabilistic Model Checking</b> <br/> Part II</td>
-			<td>Marijn J.H. Heule <br/> <b>Satisfiability Checking <br/></b> Part II</td>
+			<td>Marijn J.H. Heule <br/> <b>Satisfiability Solving<br/></b> Part II</td>
 			<td>Shaukat Ali <br/> Mahsa Varshosaz <br/><b>Testing Cyber-Physical Systems </b> <br/>Part II</td>
 			<td>Maurice H. ter Beek <br/> <b>FM & Tools for Software Product Lines</b> <br/></td>
 		</tr>
