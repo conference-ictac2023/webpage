@@ -15,7 +15,7 @@ The ICTAC training school on applied formal methods will be held in Lima - Peru 
 
 <b>There is a limited number of free registrations and a limited number of registrations with a minimum payment for Peruvian residents/citizens. </b> Please contact Cristian Lopez del Alamo (clopezd@utec.edu.pe) for further information. 
 
-## Lecturers
+## Speakers
 
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
