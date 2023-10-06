@@ -8,12 +8,10 @@ title: ""
 ## About the  school
 
 <a href = "https://www.fmeurope.org/formalmethods/" target="_blank"> Formal Methods </a> are logic-based techniques for the specification, development, and verification of systems.
-They contribute to reliability and trustworthiness of systems and 
+They contribute to the reliability and trustworthiness of systems and 
 they deal with models of systems that capture their dynamic aspects (e.g., processes, transitions) and their properties (e.g, safety, liveness, fairness).
 
-We plan to organize a training school on applied formal methods targeting master students, Ph.D. students, early-stage researchers, and lectures in the field of computer science and mathematics that are not familiar with formal methods and want to get a taste of what formal methods is. We plan to do so, via various lectures on selected formal methods. 
-
-The ICTAC training school will be held in Lima - Peru at UTEC, December 04-05, 2023.   
+The ICTAC training school on applied formal methods will be held in Lima - Peru at UTEC, December 04-05, 2023 and it targets master students, Ph.D. students, early-stage researchers, and lectures in the field of computer science and mathematics that are not familiar with formal methods and want to get a taste of what formal methods is. We plan to do so, via various lectures on selected formal methods. 
 
 <b>There is a limited number of free registrations and a limited number of registrations with a minimum payment for Peruvian residents/citizens. </b> Please contact Cristian Lopez del Alamo (clopezd@utec.edu.pe) for further information. 
 
