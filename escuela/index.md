@@ -7,7 +7,7 @@ title: ""
 
 ## Sobre la Escuela de Capacitación
 
-<a href = "https://www.fmeurope.org/formalmethods/" target="_blank"> Metodos Formales </a> 
+<a href = "https://www.fmeurope.org/formalmethods/" target="_blank"> Métodos Formales </a> 
 son técnicas basadas en lógica para la especificación, desarrollo y verificación de sistemas.
 Contribuyen a la confiabilidad de sistemas y
 usan modelos de sistemas que capturan sus aspectos dinámicos (por ejemplo, procesos, transiciones) y sus propiedades (por ejemplo, 'safety', 'liveness', 'fairness').
@@ -57,37 +57,20 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
 </div>
 
  <div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.um.edu.mt/ict/" target="_blank"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
+        <p><b>Clase patrocinada por <a href="https://www.um.edu.mt/ict/" target="_blank"> The ICT faculty at The University of Malta</a></b>  <br/> </p> 
    </div>
 <div class="row justify-content-start p-3">
       <div class="col-sm-2">
             <img src="/assets/img/people/ChristianColombo.png" alt="Christian Colombo" title="Christian Colombo" width="450"/>
     </div> 
     <div class="col-sm-10">
-        <p><b>Name:</b> Christian Colombo <br/>
-        <b>Affiliation:</b> University of Malta, Malta <br/>
-        <b>Homepage:</b> <a href="https://www.um.edu.mt/profile/christiancolombo" target="_blank"> https://www.um.edu.mt/profile/christiancolombo</a> <br/> </p> 
-        <p><b>Bio:</b> <br/>
-         Christian Colombo obtained his Ph.D. in Computer Science from the University of  Malta in 2013 and currently holds the position 
-          of Associate Professor within the Department of Computer Science. His main areas of research are runtime verification, 
-          software testing, compensating transactions, and domain-specific languages, focusing on the creation of dependable software 
-          systems by verifying them against formal specifications at runtime. The applications of this body of research span mobile device security, 
-          payment gateway systems, social network privacy policies, and tax compliance, amongst others. He is actively involved in outreach activities 
-          both at the department and faculty level, engaging with potential future students, industry, and the general public. 
-          He has been closely involved in a number of funded projects: Dependability and Error-Recovery in Security Intensive Financial Systems [MCST] (2008-2011), 
-          Open Payments Ecosystem [H2020] (2015-2017), Generating Online Monitors from Tests Automatically [MCST] (2015-2017); 
-          LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
-          and DETECTIF [MCST REP-2022-007] (2022-2023). </p> 
-        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring</b> <br/> 
-        Runtime verification is a lightweight formal methods technique that synthesizes executable monitors from unambiguous behavior descriptions.
-        Such monitors are then automatically combined with the system under scrutiny to check its correctness at runtime. 
-        Drawing on two decades of experience, this session will start by covering the theoretical bases of runtime verification, 
-        particularly the specification and detection of any behavior violations at runtime. Next, we will have a hands-on session 
-        where participants will be invited to try out Java and AspectJ code in their IDEs, using a financial transaction case study 
-        (see <a href="https://github.com/ccol002/rv-book" target="_blank">https://github.com/ccol002/rv-book</a> if you are curious!).
-        The last part of the session will focus on runtime verification in the context of cybersecurity; 
-        showing how it can monitor the execution of security protocols, enforce isolation of a trusted execution environment, 
-        and extract evidence that would otherwise be hard to obtain.
+        <p><b>Nombre:</b> Christian Colombo <br/>
+        <b>Afiliación:</b> Universidad de Malta, Malta <br/>
+        <b>Página personal:</b> <a href="https://www.um.edu.mt/profile/christiancolombo" target="_blank"> https://www.um.edu.mt/profile/christiancolombo</a> <br/> </p> 
+        <p><b>Biografía:</b> <br/>
+      Christian Colombo obtuvo su Ph.D. en Ciencias de la Computación de la Universidad de Malta en 2013 y actualmente ocupa el puesto de Profesor Asociado dentro del Departamento de Ciencias de la Computación. Sus principales áreas de investigación son la verificación en tiempo de ejecución, testeo de software, transacciones de compensación y lenguajes de dominios específicos, centrándose en la creación de sistemas de software confiables verificándolos con especificaciones formales en tiempo de ejecución. Las aplicaciones de este conjunto de investigaciones abarcan la seguridad de dispositivos móviles, sistemas de pasarelas de pago, políticas de privacidad de redes sociales y cumplimiento tributario, entre otros. Participa activamente en actividades de divulgación tanto a nivel de departamento como de facultad, interactuando con futuros estudiantes potenciales, la industria y el público en general. Ha estado estrechamente involucrado en una serie de proyectos financiados: Confiabilidad y recuperación de errores en sistemas financieros intensivos en seguridad [MCST] (2008-2011), Ecosistema de pagos abiertos [H2020] (2015-2017), Generación automática de monitores en línea a partir de pruebas [ MCST] (2015-2017); LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Comunicación Segura en la Era Cuántica [Número de Proyecto SPS: G5448] (2018-2022), y DETECTIF [MCST REP-2022-007] (2022- 2023). </p> 
+        <p><b>La teoría y práctica de la verificación en tiempo de ejecución: <br/> Una introducción práctica a la técnica de métodos formales con aplicaciones en el monitoreo de la seguridad cibernética</b> <br/> 
+       La verificación en tiempo de ejecución es una técnica de métodos formales livianos que sintetiza monitores ejecutables a partir de descripciones de comportamiento no ambiguos. Dichos monitores luego se combinan automáticamente con el sistema bajo escrutinio para verificar su comportamiento correcto en tiempo de ejecución. Basándose en dos décadas de experiencia, esta sesión comenzará cubriendo las bases teóricas de la verificación en tiempo de ejecución, en particular la especificación y detección de cualquier infracción de comportamiento en tiempo de ejecución. A continuación, tendremos una sesión práctica en la que se invitará a los participantes a probar el código Java y AspectJ en sus IDE, utilizando un estudio de caso de transacción financiera (consulte el libro <a href="https://github.com/ccol002/rv -book" target="_blank">https://github.com/ccol002/rv-book</a> para mas información). La última parte de la sesión se centrará en la verificación de tiempo de ejecución en el contexto de la ciberseguridad; mostrando cómo puede monitorear la ejecución de protocolos de seguridad, imponer el aislamiento de un entorno de ejecución confiable y extraer evidencia que de otro modo sería difícil de obtener.
        <br/>   </p>  
     </div>
 </div>
