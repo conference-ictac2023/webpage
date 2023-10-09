@@ -141,7 +141,8 @@ title: ""
 		</tr>
 	</tbody>
 </table>
-	
+</body> 
+
 <div class="col-sm-10">
         <p> <br/> </p> 
 </div> 
@@ -210,4 +211,3 @@ title: ""
 </table>
 </body> 
  
-</body> 
