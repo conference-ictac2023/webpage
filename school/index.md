@@ -183,7 +183,7 @@ The ICTAC training school on applied formal methods will be held in Lima - Peru 
           systems and robotics and, recently, their probabilistic semantics. He is Editor-in-Chief of the ACM journal Formal Aspects of 
           Computing and Editor-in-Chief of the CUP journal Research Directions: Cyber-Physical Systems.
          <br/> </p>       
-        <p><b>Software Engineering for Robotics: RoboStar technology<./b>  <br/> 
+        <p><b>Software Engineering for Robotics: RoboStar technology.</b>  <br/> 
       The use of simulations to support the design of software for robotic systems is pervasive. 
       Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
       to convey a design and guide the development of a simulation. This involves writing code for a specific simulator 
