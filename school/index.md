@@ -2,6 +2,7 @@
 layout: speaker-overview
 title: ""
 --- -->
+<a href = "https://ictac2023.compsust.utec.edu.pe/escuela/" > Page in spanish. </a> 
 
 # ICTAC 2023 Training School on Applied Formal Methods 
 
@@ -75,7 +76,7 @@ The ICTAC training school on applied formal methods will be held in Lima - Peru 
           Open Payments Ecosystem [H2020] (2015-2017), Generating Online Monitors from Tests Automatically [MCST] (2015-2017); 
           LOCARD [H2020-SU-SEC-2018: 832735] (2019-2022), Secure Communication in the Quantum Era [SPS Project Number: G5448] (2018-2022), 
           and DETECTIF [MCST REP-2022-007] (2022-2023). </p> 
-        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring</b> <br/> 
+        <p><b>The Theory and Practice of Runtime Verification: <br/> A Hand-On Introduction to the Formal Methods Technique with Applications in Cyber Security Monitoring.</b> <br/> 
         Runtime verification is a lightweight formal methods technique that synthesizes executable monitors from unambiguous behavior descriptions.
         Such monitors are then automatically combined with the system under scrutiny to check its correctness at runtime. 
         Drawing on two decades of experience, this session will start by covering the theoretical bases of runtime verification, 
@@ -182,7 +183,7 @@ The ICTAC training school on applied formal methods will be held in Lima - Peru 
           systems and robotics and, recently, their probabilistic semantics. He is Editor-in-Chief of the ACM journal Formal Aspects of 
           Computing and Editor-in-Chief of the CUP journal Research Directions: Cyber-Physical Systems.
          <br/> </p>       
-        <p><b>Software Engineering for Robotics: RoboStar technology</b>  <br/> 
+        <p><b>Software Engineering for Robotics: RoboStar technology<./b>  <br/> 
       The use of simulations to support the design of software for robotic systems is pervasive. 
       Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
       to convey a design and guide the development of a simulation. This involves writing code for a specific simulator 
