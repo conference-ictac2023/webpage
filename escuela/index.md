@@ -18,7 +18,7 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
 
 <b>Existe un número limitado de inscripciones gratuitas y un número limitado de inscripciones con pago mínimo para residentes/ciudadanos peruanos. </b> Por favor contacte a Cristian López del Álamo (clopezd@utec.edu.pe) para mayor información.  Porfavor traer sus laptops ya que la mayoria de las clases son practicas. Las clases se dictaran en ingles.
 
-Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados. Mas información <a href = "https://ictac2023.compsust.utec.edu.pe/tutorials/" >aqui</a>.
+Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados, mas información <a href = "https://ictac2023.compsust.utec.edu.pe/tutorials/" >aquí</a>. El programa completo de ICTAC 2023 se encuentra <a href = "https://ictac2023.compsust.utec.edu.pe/program_ICTAC/" >aquí</a>.
 
 ## Ponentes
 
