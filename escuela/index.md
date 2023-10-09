@@ -16,6 +16,8 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
 
 <b>Existe un número limitado de inscripciones gratuitas y un número limitado de inscripciones con pago mínimo para residentes/ciudadanos peruanos. </b> Por favor contacte a Cristian López del Álamo (clopezd@utec.edu.pe) para mayor información.  Porfavor traer sus laptops ya que la mayoria de las clases son practicas. Las clases se dictaran en ingles.
 
+Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados. Mas información <a href = "https://ictac2023.compsust.utec.edu.pe/tutorials/" >aqui</a>.
+
 ## Catedraticos
 
 <div class="row justify-content-start p-3">
@@ -89,26 +91,14 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
             <img src="/assets/img/people/MarijnHeule.png" alt="Marijn J.H. Heule" title="Marijn J.H. Heule" width="450"/>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b>  Marijn J.H. Heule <br/>
-        <b>Affiliation:</b> Carnegie Mellon University, USA <br/>
-         <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-         Marijn Heule is an Associate Professor of Computer Science at Carnegie Mellon University. 
-         His contributions to automated reasoning have enabled him and others to solve hard problems 
-         in formal verification and mathematics. He has developed award-winning satisfiability (SAT) solvers. 
-         His preprocessing and proof-producing techniques are used in many state-of-the-art automated reasoning tools. 
-         Marijn won multiple best paper awards at international conferences, including at SAT, CADE, IJCAR, TACAS, HVC, 
-         LPAR, and IJCAI-JAIR. He is one of the editors of the Handbook of Satisfiability. 
-         This 1500+ page handbook (second edition) has become the reference for SAT research.
+        <p><b>Nombre:</b>  Marijn J.H. Heule <br/>
+        <b>Afiliación:</b> Universidad Carnegie Mellon, Estados Unidos de América<br/>
+         <b>Página personal:</b> <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">https://www.cs.cmu.edu/~mheule/</a> <br/> </p> 
+         <p><b>Biografía:</b>  <br/>
+         Marijn Heule es Profesor Asociado de Ciencias de la Computación en la Universidad Carnegie Mellon. Sus contribuciones al razonamiento automatizado le han permitido a él y a otros investigadores resolver problemas difíciles en verificación formal y matemática. Ha desarrollado solucionadores de satisfacibilidad (SAT) galardonados. Sus técnicas de preprocesamiento y producción de pruebas se utilizan en muchas herramientas de razonamiento automatizadas de última generación. Marijn ha ganado múltiples premios al mejor artículo en conferencias internacionales, incluidas SAT, CADE, IJCAR, TACAS, HVC, LPAR e IJCAI-JAIR. Es uno de los editores del 'Handbook of Satisfiability'. Este manual de más de 1500 páginas (segunda edición) se ha convertido en la referencia para la investigación de SAT.
          <br/></p> 
-        <p><b>Satisfiability Solving.</b> <br/>
-         Satisfiability (SAT) solvers have become powerful search engines to solve a wide range of applications in fields such as formal verification, 
-         planning, and mathematics. This lecture on SAT solving consists of two parts. The first part focuses on an introduction that ranges from many 
-         applications of SAT to interesting theoretical aspects. It also covers basic solving techniques. 
-         The second part provides hands-on experience on how to use SAT solvers in practice. This part consists of various examples, 
-         such as how to encode a graph coloring problem into SAT and solving the resulting formula with a top-tier solver. 
-         Additionally, we demonstrate some tools to make it easier to use SAT. We conclude by presenting satisfiability modulo theory (SMT) 
-         solvers and how they can be used to solve problems. 
+        <p><b>Resolución de satisfacción (satisfiability solving).</b> <br/>
+         Los solucionadores de satisfacibilidad (SAT) se han convertido en potentes motores de búsqueda para resolver una amplia gama de aplicaciones en campos como la verificación formal, la planificación y las matemáticas. Esta sesión sobre resolución de SAT consta de dos partes. La primera parte se centra en una introducción que abarca desde muchas aplicaciones del SAT hasta interesantes aspectos teóricos. También cubre técnicas básicas de resolución. La segunda parte proporciona experiencia práctica sobre cómo utilizar los solucionadores SAT en la práctica. Esta parte consta de varios ejemplos, incluyendo cómo codificar un problema de coloración de gráficos en SAT y resolver la fórmula resultante con un solucionador automático de primer nivel. Además, mostraremos algunas herramientas para facilitar el uso de SAT. Concluimos presentando los solucionadores de la teoría del módulo de satisfacibilidad (satisfiability modulo theory - SMT) y cómo se pueden utilizar para resolver problemas.
          <br/> </p> 
     </div>
 </div>
