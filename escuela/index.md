@@ -33,23 +33,25 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
         <b>Afiliación:</b> Universidad Nacional de Córdoba, Argentina <br/>
         <b>Página personal:</b> <a href="https://cs.famaf.unc.edu.ar/~dargenio/" target="_blank">https://cs.famaf.unc.edu.ar/~dargenio/</a> <br/> </p> 
         <p><b>Biografía:</b> <br/>
-         Pedro R. D'Argenio is a Full Professor in Computer Science at FAMAF, National University of Córdoba. 
-         He also holds a research post at CONICET.  He studied computer science at the National University of La Plata (Argentina), 
-         and obtained his Ph.D. at the University of Twente (Netherlands) where he also did his postdoc.  He has also worked at the Université de 
-         Provence (FR), and was Visiting Professor at the University of Twente (NL) and Saarland University (DE). 
-         He is a former Director of the Doctoral Program in Computer Science and former Associate Dean of Science and Technology at FAMAF, UNC.  
-         He is currently the Chair of the IFIP WG 1.8 on Concurrency Theory. 
-         Prof. D'Argenio is a leading researcher in formal techniques for dependable systems, contributing in areas such as model checking, 
-         process semantics, fault tolerance, security, and testing. He has led and participated in numerous Argentine and European research projects. <br/> </p> 
+         Pedro R. D'Argenio es Profesor Titular de Informática de FAMAF, Universidad Nacional de Córdoba. 
+         También ocupa un puesto de investigación en el CONICET. Estudió informática en la Universidad Nacional de La Plata (Argentina) y obtuvo su Ph.D. 
+          en la Universidad de Twente (Países Bajos) donde también realizó su postdoctorado. 
+         También trabajó en la Université de Provence (FR) y fue profesor invitado en la Universidad de Twente (NL) y la Universidad del Sarre (DE). 
+         Es ex Director del Programa de Doctorado en Ciencias de la Computación y ex Decano Asociado de Ciencia y Tecnología de FAMAF, UNC. 
+         Actualmente es el presidente del IFIP WG 1.8 sobre Teoría de la Concurrencia. El Profesor D'Argenio es un investigador líder en técnicas 
+         formales para sistemas confiables y contribuye en áreas como verificación de modelos (model checking), semántica de procesos, 
+          tolerancia a fallas, seguridad y testeo. 
+         Ha liderado y participado en numerosos proyectos de investigación argentinos y europeos. <br/> </p> 
         <p><b>Probabilistic Model Checking. </b> <br/> 
-          Model checking is a powerful tool to verify automatically if a model satisfies a given property. They normally provide a Boolean answer to a
-          qualitative question. However, probabilistic features normally appear in systems of usually crucial characteristics.  
-          For example, it is common to use randomized protocols to solve contention situations in networks or to understand fault models through the 
-          stochastic behaviors of faults.  In this last case, for instance, the statement "the system does not fail" might be impossible to verify 
-          while rather the appropriate question could be "99% of the time the system does not fail".
-          In this tutorial, we will introduce the fundamentals and algorithms to address the verification of this type of quantitative properties.  
-          In particular, we will discuss the verification of quantitative and qualitative properties on discrete-time Markov chains as well as on 
-          the more versatile setting of Markov decision process.
+            Model Checking es una herramienta poderosa para chequear automáticamente si un modelo satisface una propiedad determinada. 
+            Normalmente proporcionan una respuesta Booleana a una pregunta cualitativa. 
+         Sin embargo, las características probabilísticas normalmente aparecen en sistemas que generalmente tienen características cruciales.
+           Por ejemplo, es común utilizar protocolos aleatorios para resolver situaciones de contención en redes o para comprender modelos de fallas 
+       a través de comportamientos estocásticos de las fallas. En este último caso, por ejemplo, la afirmación "el sistema no falla" podría ser 
+      imposible de chequear, mientras que la pregunta apropiada podría ser "el 99% de las veces el sistema no falla". 
+      En esta clase introduciremos los fundamentos y algoritmos para abordar el chequeo de este tipo de propiedades cuantitativas. 
+      En particular, hablaremos sobre el chequeo de propiedades cuantitativas y cualitativas en cadenas de Markov de tiempo discreto, 
+      así como el entorno más versátil con el proceso de decisión de Márkov.
            <br/> </p> 
     </div>
 </div>
