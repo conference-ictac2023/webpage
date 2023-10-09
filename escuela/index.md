@@ -20,7 +20,7 @@ La escuela de capacitación ICTAC 2023 en métodos formales aplicados se realiza
 
 Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados. Mas información <a href = "https://ictac2023.compsust.utec.edu.pe/tutorials/" >aqui</a>.
 
-## Catedraticos
+## Ponentes
 
 <div class="row justify-content-start p-3">
       <!-- <div class="col-sm-2">
