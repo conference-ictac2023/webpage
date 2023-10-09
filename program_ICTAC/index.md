@@ -49,7 +49,7 @@ title: ""
 <tbody>
   <tr style="text-align: center" >
     <td colspan="2" style="border:1px solid black;">
-      <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
+      <a href="https://ictac2023.compsust.utec.edu.pe/school/" > ICTAC 2023 Training School on Applied Formal Methods </a>       
     </td>
     <td colspan="3" rowspan="2" style="border:1px solid black;">
       <a href="https://easychair.org/smart-program/ICTAC2023/" target="_blank"> ICTAC 2023 Main Conference Program </a> 
@@ -57,7 +57,7 @@ title: ""
   </tr>
   <tr style="text-align: center">
     <td colspan="2" style="border:1px solid black;">
-      <a href="https://ictac2023.compsust.utec.edu.pe/school/" > ICTAC 2023 Training School on Applied Formal Methods </a> 
+      <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
     </td>
   </tr>
 </tbody>
@@ -68,74 +68,6 @@ title: ""
         <p> <br/> </p> 
 </div> 
 
-## Overview of the Main Conference
-
-<div class="col-sm-10">
-        <p> <br/> </p> 
-</div> 
-
-<body>
-<table style="border:2px solid black;">
-	<thead>
-            	<tr>
-	     		<th  rowspan="2">Time</th>
-			<th  colspan="3">Room: A707</th>
-		</tr>
-            	<tr>
-			<th>Wednesday Dec 06</th>
-			<th>Thursday Dec 07</th>
-			<th>Friday Dec 08</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>08:00 - 09:00</td>
-			<td colspan="3" > Registration </td>
-		</tr>
-		<tr>
-			<td>09:00 - 10:00</td>
-			<td>Invited Speaker: <br/> <b> Marijn J.H. Heule </b> <br/> Without Loss of Satisfaction</td>
-			<td>Invited Speaker: <br/> <b> Pedro R. D'Argenio </b> <br/> Optimal Route Synthesis in Space DTN using Markov Decision Processes</td>
-			<td>Invited Speaker: <br/> <b> Ana Cavalcanti</b> <br/> Learning in RoboStar</td>
-		</tr>
-		<tr>
-			<td>10:00 - 10:30</td>
-			<td colspan="3">Coffee Break</td>
-		</tr>
-		<tr>
-			<td>10:30 - 12:00</td>
-			<td>Security & privacy</td>
-			<td>Logics & languages</td>
-			<td>Modeling languages</td>
-		</tr>
-		<tr>
-			<td>12:00 - 14:00</td>
-			<td colspan="3">Lunch</td>
-		</tr>
-		<tr>
-			<td>14:00 - 15:30</td>
-			<td>Proof complexity</td>
-			<td>Logics & languages</td>
-			<td>Verification</td>
-		</tr>
-		<tr>
-			<td>15:30 - 16:00</td>
-			<td rowspan="2"> - </td>
-			<td colspan="2">Coffee Break</td>
-		</tr>
-		<tr>
-			<td>16:00 - 17:30</td>
-			<td>Synthesis</td>
-			<td>Verification</td>
-		</tr>
-	</tbody>
-</table>
-</body> 
-
-
-<div class="col-sm-10">
-        <p> <br/> </p> 
-</div> 
 
 ## Overview of the Training School and Tutorials 
 
@@ -209,4 +141,73 @@ title: ""
 		</tr>
 	</tbody>
 </table>
+	
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
+## Overview of the Main Conference
+
+<div class="col-sm-10">
+        <p> <br/> </p> 
+</div> 
+
+<body>
+<table style="border:2px solid black;">
+	<thead>
+            	<tr>
+	     		<th  rowspan="2">Time</th>
+			<th  colspan="3">Room: A707</th>
+		</tr>
+            	<tr>
+			<th>Wednesday Dec 06</th>
+			<th>Thursday Dec 07</th>
+			<th>Friday Dec 08</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>08:00 - 09:00</td>
+			<td colspan="3" > Registration </td>
+		</tr>
+		<tr>
+			<td>09:00 - 10:00</td>
+			<td>Invited Speaker: <br/> <b> Marijn J.H. Heule </b> <br/> Without Loss of Satisfaction</td>
+			<td>Invited Speaker: <br/> <b> Pedro R. D'Argenio </b> <br/> Optimal Route Synthesis in Space DTN using Markov Decision Processes</td>
+			<td>Invited Speaker: <br/> <b> Ana Cavalcanti</b> <br/> Learning in RoboStar</td>
+		</tr>
+		<tr>
+			<td>10:00 - 10:30</td>
+			<td colspan="3">Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:30 - 12:00</td>
+			<td>Security & privacy</td>
+			<td>Logics & languages</td>
+			<td>Modeling languages</td>
+		</tr>
+		<tr>
+			<td>12:00 - 14:00</td>
+			<td colspan="3">Lunch</td>
+		</tr>
+		<tr>
+			<td>14:00 - 15:30</td>
+			<td>Proof complexity</td>
+			<td>Logics & languages</td>
+			<td>Verification</td>
+		</tr>
+		<tr>
+			<td>15:30 - 16:00</td>
+			<td rowspan="2"> - </td>
+			<td colspan="2">Coffee Break</td>
+		</tr>
+		<tr>
+			<td>16:00 - 17:30</td>
+			<td>Synthesis</td>
+			<td>Verification</td>
+		</tr>
+	</tbody>
+</table>
+</body> 
+ 
 </body> 
