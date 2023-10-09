@@ -105,7 +105,7 @@ Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados. Mas
 
 
   <div class="col-sm-10">
-        <p><b>Lecture Sponsored by <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a> and  
+        <p><b>Clase patrocinada por <a href="https://www.fmeurope.org/" target="_blank"> FME (Formal Methods Europe)</a> y 
           <a href="https://www.york.ac.uk/" target="_blank"> The University of York</a></b>
           <br/> </p> 
    </div>
@@ -120,54 +120,26 @@ Adicionalmente, se realizaran en paralelo una serie de tutoriales avanzados. Mas
             <img src="/assets/img/people/AnaCavalcanti.png" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="450"/>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b>  Ana Cavalcanti <br/>
-        <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-         Ana Cavalcanti is a Professor at the University of York and a Royal Society - Wolfson Research Merit Award holder. 
-          In 2003, she was awarded a Royal Society Industry Fellowship to work with QinetiQ on formal methods. 
-          She has published more than 100 papers and chaired the Programme Committee of various well-established international conferences. 
-          Her main research interest is the theory and practice of formal methods. She has a long-term interest in refinement, safety-critical systems, 
-          object-orientation, concurrency, and real-time applications. She has played a major role in the design and formalization of a state-rich process 
-          algebra, namely, Circus, and its development techniques using Hoare and He’s Unifying Theories of Programming.
+        <p><b>Nombre:</b>  Ana Cavalcanti <br/>
+        <b>Afiliación:</b> Universidad de York, Reino Unido <br/>
+         <b>Página personal:</b> <a href="https://www-users.york.ac.uk/~alcc500/" target="_blank">https://www-users.york.ac.uk/~alcc500/</a> <br/> </p> 
+         <p><b>Biografía:</b>  <br/>
+         Ana Cavalcanti es Profesora Titular de la Universidad de York y poseedora del premio Wolfson Research Merit Award de la Royal Society. En 2003, recibió una beca industrial de la Royal Society para trabajar con QinetiQ en métodos formales. Ha publicado más de 100 artículos y presidió el Comité de Programa de varias conferencias internacionales reconocidas. Su principal interés de investigación es la teoría y práctica de los métodos formales. Ella ha contribuido en temas tales como  refinamiento, sistemas críticos para la seguridad, la orientación a objetos, la concurrencia y las aplicaciones en tiempo real. Ha desempeñado un papel importante en el diseño y formalización de un álgebra de procesos rico en estados, conocido como Circus, y sus técnicas de desarrollo utilizan las teorías unificadoras de programación de Hoare y He.
          <br/> </p> 
-       <p><b>Name:</b>  Ziggy Attala <br/>
-        <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://www.cs.york.ac.uk/people/?username=ziggy" target="_blank">https://www.cs.york.ac.uk/people/?username=ziggy</a>           <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-         Ziggy Attala is currently finishing his Ph.D. in the verification of RoboChart models with integrated artificial neural network 
-        components at the University of York, supervised by Ana Cavalcanti and Jim Woodcock. 
-        His undergraduate dissertation, supervised by Arno Pauly in Swansea University, concerned how machine learning models can 
-        outlearn and recognize other machine learning models. His research interests include formal methods,
-       machine learning, and the verification of artificial neural networks.
+       <p><b>Nombre:</b>  Ziggy Attala <br/>
+        <b>Afiliación:</b>  Universidad de York, Reino Unido <br/>
+         <b>Página personal:</b> <a href="https://www.cs.york.ac.uk/people/?username=ziggy" target="_blank">https://www.cs.york.ac.uk/people/?username=ziggy</a>           <br/> </p> 
+         <p><b>Biografía:</b>  <br/>
+Ziggy Attala actualmente está terminando su doctorado en la Universidad de York. Su tema de tesis se centra en la verificación de modelos RoboChart con componentes integrados de redes neuronales artificiales. Sus asesores son Ana Cavalcanti y Jim Woodcock. Su tesis de pregrado, fue asesorada por Arno Pauly en la Universidad de Swansea, se centró en cómo los modelos de aprendizaje automático (machine learning) pueden aprender y reconocer otros modelos de aprendizaje automático. Sus intereses de investigación incluyen métodos formales,  machine learning, y la verificación de redes neuronales artificiales.
          <br/> </p> 
-        <p><b>Name:</b> Jim Woodcock <br/>
-        <b>Affiliation:</b> University of York, United Kingdom <br/>
-         <b>Homepage:</b> <a href="https://pure.york.ac.uk/portal/en/persons/jim-woodcock" target="_blank">https://pure.york.ac.uk/portal/en/persons/jim-woodcock</a> <br/> </p> 
-         <p><b>Bio:</b>  <br/>
-          Jim Woodcock is the Anniversary Professor of Software Engineering at the University of York, a Fellow of the Royal Academy of Engineering, 
-          a Chartered Engineer, a Chartered IT Professional, and an award-winning researcher and teacher. 
-          He is also the Professor of Software Engineering of Mobile and Autonomous Robots at Aarhus University and Professor of Cyber-Physical 
-          Systems at China's Southwest University. He has 45 years of experience in formal methods and has dedicated his research career to 
-          searching for the mathematical principles that are essential to the practice of software engineering. His specific research interests 
-          are in unifying theories of programming (UTP), robotics, digital twins, and industrial applications. He leads the team creating UTP 
-          theories for state-rich concurrent programming, including timing and probability and is developing the Isabelle/UTP theorem prover. 
-          He applied the Z notation to the IBM CICS project, helping to gain a Queen's Award for Technological Achievement. 
-          He created the theory and practical verification for NatWest Bank's Mondex smartcard system, the first commercial product 
-          to achieve ITSEC Level E6 (Common Criteria EAL 7). For the last decade, he has researched the theory and practice of cyber-physical 
-          systems and robotics and, recently, their probabilistic semantics. He is Editor-in-Chief of the ACM journal Formal Aspects of 
-          Computing and Editor-in-Chief of the CUP journal Research Directions: Cyber-Physical Systems.
+        <p><b>Nombre:</b> Jim Woodcock <br/>
+        <b>Afiliación:</b>  Universidad de York, Reino Unido<br/>
+         <b>Página personal:</b> <a href="https://pure.york.ac.uk/portal/en/persons/jim-woodcock" target="_blank">https://pure.york.ac.uk/portal/en/persons/jim-woodcock</a> <br/> </p> 
+         <p><b>Biografía:</b>  <br/>
+Jim Woodcock es Profesor Titular, muy reconocido en el area de ingeniería de software en la Universidad de York, es miembro de la Real Academia de Ingeniería, ingeniero colegiado, profesional colegiado de TI e investigador y profesor galardonado. También es profesor de Ingeniería de Software de Robots Móviles y Autónomos en la Universidad de Aarhus y Profesor de Sistemas Ciberfísicos en la Universidad del Sudoeste de China. Tiene 45 años de experiencia en métodos formales y ha dedicado su carrera investigadora a la búsqueda de los principios matemáticos que son esenciales para la práctica de la ingeniería de software. Sus intereses de investigación específicos están en las teorías unificadoras de programación (UTP), robótica, gemelos digitales y aplicaciones industriales. Dirige el equipo que crea teorías UTP para programación concurrente rica en estados, incluidos tiempos y probabilidades, y está desarrollando el demostrador de teoremas de Isabelle/UTP. Aplicó la notación Z al proyecto IBM CICS, lo que ayudó a obtener el 'Queen's Award for Technological Achievement'. Creó la verificación teórica y práctica para el sistema de tarjetas inteligentes Mondex de NatWest Bank, el primer producto comercial que alcanza el nivel E6 de ITSEC (Criterios comunes EAL 7). Durante la última década, ha investigado la teoría y la práctica de los sistemas ciberfísicos y la robótica, y recientemente, su semántica probabilística. Es editor en jefe de la revista ACM Formal Aspects of Computing y editor en jefe de la revista CUP Research Directions: Cyber-Physical Systems.
          <br/> </p>       
-        <p><b>Software Engineering for Robotics: RoboStar technology</b>  <br/> 
-      The use of simulations to support the design of software for robotic systems is pervasive. 
-      Typically, roboticists draw a state machine using an informal notation (not precise or machine-checkable) 
-      to convey a design and guide the development of a simulation. This involves writing code for a specific simulator 
-      (using C, C++, or some proprietary language and API). Reactive robotics simulators do not normally generate code for deployment. 
-      Instead, simulation code is often reused after changes. So, there is a potential loss of properties observed via simulation: 
-      because of the possibility of changes introducing errors, and because of the reality gap. 
-      The <a href="https://robostar.cs.york.ac.uk/" target="_blank"> RoboStar </a> technology supports a model-based, rather than (simulation) code, 
-      approach to development. Models are written using domain-specific notations in line with those accepted by roboticists. 
-       In this lecture, we will focus on modelling and verification using RoboChart, our design notation, and its tool. In <a href="https://robostar.cs.york.ac.uk/robotool/" target="_blank">RoboChart</a>, software controllers are described by timed state machines. The semantics is defined using a process algebra, namely, <a href="https://robostar.cs.york.ac.uk/assets/tick-tock-report.pdf" target="_blank"> tock-CSP</a>, which we use for verification.
+        <p><b>Ingeniería de Software para Robótica: tecnología RoboStar.</b>  <br/> 
+      El uso de simulaciones para respaldar el diseño de software para sistemas robóticos es generalizado. Normalmente, los expertos en robótica dibujan una máquina de estados utilizando una notación informal (no precisa ni verificable por una computadora) para transmitir un diseño y guiar el desarrollo de una simulación. Esto implica escribir código para un simulador específico (usando C, C++ o algún lenguaje propietario y API). Los simuladores de robótica reactiva normalmente no generan código para su implementación. En cambio, el código de simulación a menudo se reutiliza después de varios cambios. Por lo tanto, existe una pérdida potencial de propiedades observadas mediante la simulación: debido a la posibilidad de que los cambios introduzcan errores y debido a la brecha de la realidad. La tecnología <a href="https://robostar.cs.york.ac.uk/" target="_blank"> RoboStar </a> mantiene un enfoque de desarrollo basado en modelos, en lugar de código (simulación). Los modelos se escriben utilizando notaciones específicas de dominio conforme con las aceptadas por los expertos en robótica. En esta sesión, nos centraremos en el modelado y la verificación utilizando RoboChart, nuestra notación de diseño y sus herramientas. En <a href="https://robostar.cs.york.ac.uk/robotool/" target="_blank">RoboChart</a>, los controladores de software se describen mediante máquinas de estado cronometradas. La semántica se define mediante un álgebra de procesos, concretamente, <a href="https://robostar.cs.york.ac.uk/assets/tick-tock-report.pdf" target="_blank"> tock-CSP </a>, que utilizamos para la verificación.
        <br/> </p> 
     </div>
 </div>
