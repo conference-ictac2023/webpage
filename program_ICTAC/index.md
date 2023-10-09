@@ -94,9 +94,9 @@ title: ""
 		</tr>
 		<tr>
 			<td>09:00 - 10:00</td>
-			<td>Invited Speaker</td>
-			<td>Invited Speaker</td>
-			<td>Invited Speaker</td>
+			<td>Invited Speaker: <br/> <b> Marijn J.H. Heule </b> <br/> Without Loss of Satisfaction</td>
+			<td>Invited Speaker: <br/> <b> Pedro R. D'Argenio </b> <br/> Optimal Route Synthesis in Space DTN using Markov Decision Processes</td>
+			<td>Invited Speaker: <br/> <b> Ana Cavalcanti</b> <br/> Learning in RoboStar</td>
 		</tr>
 		<tr>
 			<td>10:00 - 10:30</td>
@@ -104,9 +104,9 @@ title: ""
 		</tr>
 		<tr>
 			<td>10:30 - 12:00</td>
-			<td>Block 1</td>
-			<td>Block 3</td>
-			<td>Block 6</td>
+			<td>Security & privacy</td>
+			<td>Logics & languages</td>
+			<td>Modeling languages</td>
 		</tr>
 		<tr>
 			<td>12:00 - 14:00</td>
@@ -114,9 +114,9 @@ title: ""
 		</tr>
 		<tr>
 			<td>14:00 - 15:30</td>
-			<td>Block 2</td>
-			<td>Block 4</td>
-			<td>Block 7</td>
+			<td>Proof complexity</td>
+			<td>Logics & languages</td>
+			<td>Verification</td>
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
@@ -125,8 +125,8 @@ title: ""
 		</tr>
 		<tr>
 			<td>16:00 - 17:30</td>
-			<td>Block 5</td>
-			<td>Block 8</td>
+			<td>Synthesis</td>
+			<td>Verification</td>
 		</tr>
 	</tbody>
 </table>
