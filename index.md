@@ -10,7 +10,7 @@ hosted by UTEC, Lima - Peru.
  -->
 ### News: Check the program for the ICTAC 2023 main conference!
 
-We have 22 accepted papers at ICTAC 2023, which will be presented during the main conference. Check the [program](https://easychair.org/smart-program/ICTAC2023/){:target="_blank"}!
+We have 22 accepted papers at ICTAC 2023, which will be presented during the main conference. Check the ICTAC 2023 [full program](https://ictac2023.compsust.utec.edu.pe/program_ICTAC/) and the [main conference program](https://easychair.org/smart-program/ICTAC2023/){:target="_blank"}!
 
 ### News: Check the invited speakers, lecturers and tutorials at ICTAC 2023!
 
