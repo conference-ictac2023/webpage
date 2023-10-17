@@ -64,7 +64,7 @@ Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJy
    <li> <b>Author registration. </b> Each paper must have at least one author register for the main conference (which is a regular, i.e., non-student registration) before the early registration deadline.</li>
     <li> <b>Student registration. </b> Participants must be full-time students to be registered as students and must provide valid evidence of their full-time student status (e.g. a scan of their student card).  Please email Juan Gutiérrez Alva  (jgutierreza@utec.edu.pe) with your evidence after your registration. This kind of registration without the proper evidence will be canceled. Cancellations may incur financial penalties. </li>
 
-   <li> Online registration supports Credit and Debit Cards. See the actual registration service page for further information. The registration service has also their own customer support concerning technical issues. For further requests concerning the registration, please contact Jesus Bellido (jbellido@utec.edu.pe>). </li>
+   <li> Online registration supports Credit and Debit Cards. See the actual registration and payment page for further information. For further requests and support concerning the registration form and payment page, please contact Gabriela Perea Vega (gperea@utec.edu.pe) and Jesús Bellido (jbellido@utec.edu.pe>). </li>
     <li>  <b> Invitation letters. </b> If you require any (visa) invitation letter or attendance certificate, please do the registration first and then email Jesus Bellido (jbellido@utec.edu.pe>) for the details.</li>
    <li> <b> Cancellations. </b> Please contact Jesus Bellido (jbellido@utec.edu.pe>). Cancellations may incur financial penalties. </li>
 </ul> 
