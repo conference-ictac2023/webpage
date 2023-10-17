@@ -55,7 +55,7 @@ layout: location
 
 # Registration and Payment
 
-Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" > registration and payment site </a> (operative now)
+Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" target="_blank"> registration and payment site </a> (operative now)
 
 # More Information
 
