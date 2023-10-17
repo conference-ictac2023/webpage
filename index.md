@@ -10,9 +10,9 @@ hosted by UTEC, Lima - Peru.
  -->
 ### News: Registration is open!
 
-Check the details [here](https://ictac2023.compsust.utec.edu.pe/registration/)! The early registration date is the 31st of October.
+Check the details [here](https://ictac2023.compsust.utec.edu.pe/registration/)! The early registration deadline is the 31st of October!
 
-### News: Check the program for the ICTAC 2023!
+### News: Check the program for ICTAC 2023!
 
 We have 22 accepted papers at ICTAC 2023, which will be presented during the main conference. Check the ICTAC 2023 [full program](https://ictac2023.compsust.utec.edu.pe/program_ICTAC/) and the [main conference program](https://easychair.org/smart-program/ICTAC2023/){:target="_blank"}!
 
