@@ -51,11 +51,11 @@ layout: location
 
 ## Early Registration Deadline: 
 
-23rd of October.
+31st of October.
 
 # Registration and Payment
 
-Proceed to the <a href="" > registration and payment site </a> (this link will be operative soon).
+Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" > registration and payment site </a> (operative now)
 
 # More Information
 
