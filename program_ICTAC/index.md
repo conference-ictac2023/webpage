@@ -149,6 +149,8 @@ title: ""
 
 ## Overview of the Main Conference
 
+For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC2023/" target="_blank">here</a>. 
+
 <div class="col-sm-10">
         <p> <br/> </p> 
 </div> 
