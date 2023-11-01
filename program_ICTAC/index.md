@@ -212,4 +212,58 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 	</tbody>
 </table>
 </body> 
- 
+
+## Accepted papers.
+
+ <ul>
+   <li> Rindo Nakanishi, Yoshiaki Takata and Hiroyuki Seki:
+     A game-theoretic approach to indistinguishability of winning objectives 
+     as user privacy </li>
+     <li> Florian Dorfhuber, Julia Eisentraut and Jan Kretinsky:
+     Learning Attack Trees by Genetic Algorithms </li> 	
+     <li> Suthee Ruangwises:
+     The Landscape of Computing Symmetric $n$-Variable Functions with $2n$ Cards </li>
+     <li> Stepan Kuznetsov:
+     On the complexity of reasoning in Kleene algebras with commutativity 
+     conditions </li>
+     <li> Matteo Cimini:
+     Towards the Complexity Analysis of Programming Language Proof Methods </li>
+     <li> Carlos G. Lopez Pombo, Agustín E. Martínez Suñé and Emilio Tuosto:
+     A Dynamic Temporal Logic for Quality of Service in Choreographic Models</li>
+     <li> Jan Tušil, Péter Bereczky and Dániel Horpácsi:
+     Interactive Matching Logic Proofs in Coq </li>
+     <li> Tom T.P. Franken, Thomas Neele and Jan Friso Groote:
+     An Autonomous Data Language </li>
+     <li> Karla Morris, Thai Son Hoang, Colin Snook and Michael Butler:
+     Formal Language Semantics for Triggered Enable Statecharts with a 
+     Run-to-Completion Scheduling	</li>
+     <li> Beniamino Accattoli, Giulio Guerrieri and Maico Leberle:
+     Strong Call-by-Value and Multi Types </li>
+     <li> Weihao Su, Rongchen Li, Chengyao Peng and Haiming Chen:
+     Algorithms for Checking Intersection Non-emptiness of Regular Expressions </li>
+     <li> Maurice ter Beek, Rolf Hennicker and José Proença:
+     Realisability of Global Models of Interaction </li>
+     <li> Matías Brizzio and César Sánchez:
+     Efficient Reactive Synthesis Using Mode Decomposition </li>
+     <li> Leo Lobski, Fabio Zanasi and Ella Gale:
+     A Categorical Approach to Synthetic Chemistry </li>
+     <li> Amazigh Amrane, Hugo Bazille, Uli Fahrenberg and Krzysztof Ziemianski:
+     Closure and Decision Properties for Higher-Dimensional Automata 	</li>
+     <li> Francesco Dagnino, Amin Farjudian and Eugenio Moggi:
+     Robustness in Metric Spaces over Continuous Quantales and the 
+     Hausdorff-Smyth Monad </li>
+     <li> Karam Kharraz, Martin Leucker, Shaun Azzopardi and Gerardo Schneider.
+     Synchronous Agents, Verification, and Blame — A Deontic View </li>
+     <li> Uwe Nestmann and Nadine Karsten:
+     Store Locally, Prove Globally </li>
+     <li> Erik Voogd, Åsmund Aqissiaq Arild Kløvstad and Einar Broch Johnsen:
+     Denotational Semantics for Symbolic Execution </li>
+     <li> Marian Johannes Begemann, Hannes Kallwies, Martin Leucker 
+     and Malte Schmitz:
+     TOOL PAPER: Tessla-ROS-Bridge - Runtime Verification of Robotic Systems </li>
+     <li> Anna Stramaglia, Jeroen J.A. Keiren and Thomas Neele:
+     Simplifying process parameters by unfolding algebraic data types	</li>
+     <li> Ida Sandberg Motzfeldt, Ingrid Chieh Yu, Crystal Chang Din, 
+     Violet Ka I Pun and Volker Stolz:
+     Modular Soundness Checking of Feature Model Evolution Plans </li>
+</ul>
