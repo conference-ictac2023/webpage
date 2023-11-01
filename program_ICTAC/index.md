@@ -213,7 +213,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 </table>
 </body> 
 
-## Accepted papers.
+## Accepted papers
 
  <ul>
    <li> Rindo Nakanishi, Yoshiaki Takata and Hiroyuki Seki:
