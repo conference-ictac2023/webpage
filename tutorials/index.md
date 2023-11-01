@@ -148,37 +148,6 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
     </div>
 </div>
 
-
-<div class="col-sm-10">
-        <p><b>Lecturer Sponsored by <a href="https://www.uni-luebeck.de/en/university/" target="_blank"> The University of Lübeck </a></b>  <br/> </p> 
-   </div> 
- <div class="row justify-content-start p-3">
-   <div class="col-sm-2">  
-            <img src="/assets/img/people/MartinLeucker.jpeg" alt="Martin Leucker" title="Martin Leucker" width="450"/>
-    </div> 
-    <div class="col-sm-10">
-        <p><b>Name:</b> Martin Leucker <br/>
-        <b>Affiliation:</b>University of Lübeck, Germany <br/>
-         <b>Homepage:</b> <a href="https://www.isp.uni-luebeck.de/leucker" target="_blank">https://www.isp.uni-luebeck.de/leucker</a> <br/> </p> 
-            <p><b>Bio:</b>  <br/> 
-            Martin Leucker received the Ph.D. degree from RWTH Aachen University, Germany. 
-           He worked as a Postdoctoral Researcher with the University of Pennsylvania, USA; and Uppsala University, Sweden. 
-           He pursued his habilitation at TU München, Germany. He is currently a Professor with the University of Lübeck, 
-           Germany, heading the Institute of Software Engineering and Programming Languages. 
-           Moreover, he is the CEO of UniTransferKlinik Lübeck GmbH, which also focuses on regulatory affairs, 
-           especially for medical devices. He is the author of more than 130 peer-reviewed journal and conference 
-           articles ranging over software engineering, formal methods, and theoretical computer science. 
-           His research interests include software engineering; correct and reliable systems; 
-           and formal methods and theoretical computer science, both from a technical and a regulatory perspective.
-         <br/> </p> 
-    </div>   
-    <div class="col-sm-12">
-        <p> <b>Automata Learning with an Application to Learn and Verify Recurrent Neural Networks.</b> <br/>
-         TBA 
-       <br/> </p>
-    </div>
-</div>
-
 <div class="col-sm-10">
         <p><b>Lecturer Sponsored by <a href="https://www.isti.cnr.it/en/" target="_blank"> Istituto di Scienza e Tecnologie dell'Informazione </a></b>  <br/> </p> 
    </div> 
@@ -205,6 +174,46 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
     </div>   
     <div class="col-sm-12">
         <p> <b>Formal Methods and Tools for Software Product Lines.</b> <br/>
+         In this tutorial, the participants are introduced to Software Product Lines (SPLs) and in particular 
+         the field of behavioral variability modeling and analysis. 
+         They are made familiar with Featured Transition Systems (FTSs), 
+         Modal Transition Systems (MTSs) with variability constraints, 
+         and family-based analysis of such models. After explaining ambiguities in FTSs, 
+         the participants are introduced to SAT solving, and they are shown how to use it for 
+         static analysis of FTSs to detect ambiguities. Finally, a toolchain built around the 
+         Variability Model Checker VMC is presented, and it demonstrates how to use VMC to perform an 
+         efficient kind of family-based model checking of deadlock-free FTSs and MTSs.
+          It also demonstrates how to use the front-end tool FTS4VMC to detect and remove ambiguities 
+          in an FTS, and to transform the resulting FTS into an MTS to make it amenable for analysis with VMC.
+       <br/> </p>
+    </div>
+</div>
+
+<div class="col-sm-10">
+        <p><b>Lecturer Sponsored by <a href="https://www.uni-luebeck.de/en/university/" target="_blank"> The University of Lübeck </a></b>  <br/> </p> 
+   </div> 
+ <div class="row justify-content-start p-3">
+   <div class="col-sm-2">  
+            <img src="/assets/img/people/MartinLeucker.jpeg" alt="Martin Leucker" title="Martin Leucker" width="450"/>
+    </div> 
+    <div class="col-sm-10">
+        <p><b>Name:</b> Martin Leucker <br/>
+        <b>Affiliation:</b>University of Lübeck, Germany <br/>
+         <b>Homepage:</b> <a href="https://www.isp.uni-luebeck.de/leucker" target="_blank">https://www.isp.uni-luebeck.de/leucker</a> <br/> </p> 
+            <p><b>Bio:</b>  <br/> 
+            Martin Leucker received the Ph.D. degree from RWTH Aachen University, Germany. 
+           He worked as a Postdoctoral Researcher with the University of Pennsylvania, USA; and Uppsala University, Sweden. 
+           He pursued his habilitation at TU München, Germany. He is currently a Professor with the University of Lübeck, 
+           Germany, heading the Institute of Software Engineering and Programming Languages. 
+           Moreover, he is the CEO of UniTransferKlinik Lübeck GmbH, which also focuses on regulatory affairs, 
+           especially for medical devices. He is the author of more than 130 peer-reviewed journal and conference 
+           articles ranging over software engineering, formal methods, and theoretical computer science. 
+           His research interests include software engineering; correct and reliable systems; 
+           and formal methods and theoretical computer science, both from a technical and a regulatory perspective.
+         <br/> </p> 
+    </div>   
+    <div class="col-sm-12">
+        <p> <b>Automata Learning with an Application to Learn and Verify Recurrent Neural Networks.</b> <br/>
          TBA 
        <br/> </p>
     </div>
