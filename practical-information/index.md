@@ -51,7 +51,7 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 
 - [Tanta](https://tantaperu.com/en/){:target="_blank"}
 - [Isolina](https://isolina.pe/){:target="_blank"}
-- [Mercado](https://www.mercado28.pe/){:target="_blank"}
+- [Mercado](https://www.mercado28.pe/mercado28miraflores){:target="_blank"}
 - [Madam Tusan](https://www.madamtusan.com.pe/){:target="_blank"}
 - [Kion](https://www.instagram.com/kionperuvianchineselima/){:target="_blank"}
 - [Larcomar](https://www.larcomar.com/gastronomia?tipo=gastronomia){:target="_blank"}
