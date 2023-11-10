@@ -141,7 +141,7 @@ For details about the social activities, see below.
 		</tr>
 		<tr>
 			<td>12:30 - 14:00</td>
-			<td colspan="4">Lunch</td>
+			<td colspan="4">Lunch - UTEC canteen</td>
 		</tr>
 		<tr>
 			<td>14:00 - 15:30</td>
@@ -217,7 +217,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 		</tr>
 		<tr>
 			<td>12:00 - 14:00</td>
-			<td colspan="3">Lunch</td>
+			<td colspan="3">Lunch - UTEC canteen</td>
 		</tr>
 		<tr>
 			<td>14:00 - 15:30</td>
@@ -227,7 +227,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-			<td rowspan="3"> City Tour (Bus departs from UTEC): <br/> Please be on time!  </td>
+			<td rowspan="3"> City Tour (bus departs from UTEC): <br/> Please be on time!  </td>
 			<td colspan="2">Coffee Break</td>
 		</tr>
 		<tr>
