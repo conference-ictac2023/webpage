@@ -292,7 +292,6 @@ CONTEMPORARY LIMA: The tour will visit the most traditional residential areas of
 Miraflores and Larcomar. At the end of the tour, the bus will return to UTEC.<br/>
 <b>Conference Dinner: </b> It will take place in La Rosa Náutica on the 7th of December at 19:00. La Rosa Náutica is a Peruvian food 
 restaurant located on a breakwater on the Costa Verde of Lima. The restaurant, with Victorian-style architecture, was founded in 1983 
-at the initiative of Carlín Semsch on a pier on a rocky breakwater on the Costa Verde Beach Circuit in the Miraflores district.  
-<a href="https://maps.app.goo.gl/nu7KY69rZVxCRCj88" target="_blank"> See the map. </a> 
+at the initiative of Carlín Semsch on a pier on a rocky breakwater on the Costa Verde Beach Circuit in the Miraflores district. <a href="https://maps.app.goo.gl/nu7KY69rZVxCRCj88" target="_blank"> See the map. </a> 
 
 
