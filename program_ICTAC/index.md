@@ -60,6 +60,18 @@ title: ""
       <a href="https://ictac2023.compsust.utec.edu.pe/tutorials/" > ICTAC 2023 Tutorials </a> 
     </td>
   </tr>
+
+  <tr style="text-align: center" >
+    <td  style="border:1px solid black;"> - </td>
+    <td  style="border:1px solid black;"> Reception </td>
+    <td  style="border:1px solid black;"> City Tour </td>
+    <td  style="border:1px solid black;"> Conference Dinner </td>
+    <td  style="border:1px solid black;"> - </td>
+  </tr>
+
+
+
+ 
 </tbody>
 </table> 
 </body> 
