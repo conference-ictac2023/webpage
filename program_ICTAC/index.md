@@ -189,7 +189,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 	<thead>
             	<tr>
 	     		<th  rowspan="2">Time</th>
-			<th  colspan="3">Room: A707</th>
+			<th  colspan="3">Room: SALA SUM</th>
 		</tr>
             	<tr>
 			<th>Wednesday Dec 06</th>
