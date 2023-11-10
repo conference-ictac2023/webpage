@@ -199,8 +199,13 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 	</thead>
 	<tbody>
 		<tr>
-			<td>08:00 - 09:00</td>
+			<td>08:00 - 08:45</td>
 			<td colspan="3" > Registration </td>
+		</tr>
+		<tr>
+			<td>08:45 - 09:00</td>
+			<td> Opening </td>
+			<td colspan="2" > Registration </td>
 		</tr>
 		<tr>
 			<td>09:00 - 10:00</td>
