@@ -28,11 +28,16 @@ In addition to local fights, there are various intercity buses that run along th
 
 # From the Airport to Miraflores and Barranco
 
-The best way to reach Miraflores and Barranco from the airport is via [authorozed taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}. Please be aware that Callao district is not touristic, therefore it is advised to use the transport recommended by the airport.
+The best way to reach Miraflores and Barranco from the airport is via [authorized taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}. Please be aware that Callao district is not touristic, therefore it is strongly advised to use the transport recommended by the airport.
 
 # Get Around in Lima
 
-Taxis are relatively inexpensive and a popular way to get around in Lima. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, which is a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however, expect to queue to enter the buses. 
+Taxis are relatively inexpensive and a popular way to get around in Lima. However, be aware of fake taxi companies. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, which is a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however, expect to queue to enter the buses. 
+ICTAC 2023 local organizers recommend
+the taxi company MOLINA TOURS - 
+Mobile phone (+51 989190663    or      + 51 987127589),
+WhatsApp (+51 994046416),
+Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/){:target="_blank"} )
 
 # Miraflores and Barranco
 
@@ -41,6 +46,16 @@ Taxis are relatively inexpensive and a popular way to get around in Lima. Public
 
 <img src="/assets/img/Lima-Moderna.jpg" alt="Miraflores-photo" width="450" height="auto">
 <img src="/assets/img/Lima-Barranco.jpg" alt="Miraflores-photo" width="550" height="auto">
+
+# Recomended Restaurants and Similar
+
+- [Tanta](https://tantaperu.com/en/){:target="_blank"}
+- [Isolina](https://isolina.pe/){:target="_blank"}
+- [Mercado](https://www.mercado28.pe/){:target="_blank"}
+- [Madam Tusan](https://www.madamtusan.com.pe/){:target="_blank"}
+- [Kion](https://www.instagram.com/kionperuvianchineselima/){:target="_blank"}
+- [Larcomar](https://www.larcomar.com/gastronomia?tipo=gastronomia){:target="_blank"}
+- [Cafe Lucio](https://luciocaffe.com/){:target="_blank"}
 
 # Lima and its Weather in December 
 
