@@ -163,7 +163,10 @@ For details about the social activities, see below.
 		</tr>
 		<tr>
 			<td>17:45 - </td>
-			<td colspan="4"> Reception - UTEC terrasse</td>
+			<td> - </td>
+			<td> Reception <br/> UTEC terrasse</td>
+			<td> - </td>
+			<td> Reception <br/> UTEC terrasse</td>
 		</tr>
 	</tbody>
 </table>
@@ -227,7 +230,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-			<td rowspan="3"> City Tour (bus departs from UTEC): <br/> Please be on time!  </td>
+			<td rowspan="3"> City Tour (bus departs from UTEC) <br/> Please be on time!  </td>
 			<td colspan="2">Coffee Break</td>
 		</tr>
 		<tr>
