@@ -223,7 +223,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 </table>
 </body> 
 
-## Accepted papers
+## Accepted Papers
 
  <ul>
    <li> Rindo Nakanishi, Yoshiaki Takata and Hiroyuki Seki:
@@ -278,7 +278,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
      Modular Soundness Checking of Feature Model Evolution Plans </li>
 </ul>
 
-## Social activities
+## Social Activities
 
 <b>City Tour: </b> The bus will depart from UTEC at 15:30. The tour program will present the City of Lima in its three 
 historical periods: Pre-Hispanic, Colonial and Modern. ANCESTRAL LIMA: The tour begins with a panoramic view of 
