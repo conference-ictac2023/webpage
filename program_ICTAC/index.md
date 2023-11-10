@@ -161,6 +161,10 @@ For details about the social activities, see below.
 			<td>Ina Schaefer <br/> Maximilian Kodetzki<br/> <b>Correctness-by-Construction Approach to Programming </b> <br/> Part II</td>
 			<td>Martin Leucker <br/><b>Automata Learning</b> <br/> Part II</td>
 		</tr>
+		<tr>
+			<td>17:45 - </td>
+			<td colspan="4"> Reception - UTEC terrasse</td>
+		</tr>
 	</tbody>
 </table>
 </body> 
@@ -223,7 +227,7 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-			<td rowspan="2"> - </td>
+			<td rowspan="3"> City Tour (Bus departs from UTEC): <br/> Please be on time!  </td>
 			<td colspan="2">Coffee Break</td>
 		</tr>
 		<tr>
@@ -231,9 +235,30 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 			<td>Synthesis</td>
 			<td>Verification</td>
 		</tr>
+		<tr>
+			<td>19:00 - </td>
+			<td>Conference dinner <br/> <a href="https://larosanautica.com/" target="_blank"> La Rosa Náutica </a> </td>
+			<td> - </td>
+		</tr>
 	</tbody>
 </table>
 </body> 
+
+## Social Activities
+
+<b>City Tour: </b> The bus will depart from UTEC at 15:30. The tour program will present the City of Lima in its three 
+historical periods: Pre-Hispanic, Colonial and Modern. ANCESTRAL LIMA: The tour begins with a panoramic view of 
+the “Huaca Pucllana”, a magnificent ceremonial and archaeological center built in the 4th century AD. 
+COLONIAL LIMA: The tour will visit the Historic Center of Lima, where you will see more than fifty monuments and colonial buildings, 
+highlighting the Paseo de la República, Plaza San Martín, Plaza Mayor, the Government Palace, the Archbishop's Palace, 
+the Cathedral Basilica, the Municipal Palace among others, you will also visit the Convent of San Francisco or the Convent 
+of Santo Domingo, which highlights its Sevillian cloister, where the oldest university in South America was founded and they 
+keep the remains of Peruvian saints: Santa Rosa de Lima, San Martín de Porres, San Juan Macías. 
+CONTEMPORARY LIMA: The tour will visit the most traditional residential areas of Lima, San Isidro, 
+Miraflores and Larcomar. At the end of the tour, the bus will return to UTEC.<br/>
+<b>Conference Dinner: </b> It will take place in La Rosa Náutica on the 7th of December at 19:00. La Rosa Náutica is a Peruvian food 
+restaurant located on a breakwater on the Costa Verde of Lima. The restaurant, with Victorian-style architecture, was founded in 1983 
+at the initiative of Carlín Semsch on a pier on a rocky breakwater on the Costa Verde Beach Circuit in the Miraflores district. <a href="https://maps.app.goo.gl/nu7KY69rZVxCRCj88" target="_blank"> See the map. </a> 
 
 ## Accepted Papers
 
@@ -289,21 +314,5 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
      Violet Ka I Pun and Volker Stolz:
      Modular Soundness Checking of Feature Model Evolution Plans </li>
 </ul>
-
-## Social Activities
-
-<b>City Tour: </b> The bus will depart from UTEC at 15:30. The tour program will present the City of Lima in its three 
-historical periods: Pre-Hispanic, Colonial and Modern. ANCESTRAL LIMA: The tour begins with a panoramic view of 
-the “Huaca Pucllana”, a magnificent ceremonial and archaeological center built in the 4th century AD. 
-COLONIAL LIMA: The tour will visit the Historic Center of Lima, where you will see more than fifty monuments and colonial buildings, 
-highlighting the Paseo de la República, Plaza San Martín, Plaza Mayor, the Government Palace, the Archbishop's Palace, 
-the Cathedral Basilica, the Municipal Palace among others, you will also visit the Convent of San Francisco or the Convent 
-of Santo Domingo, which highlights its Sevillian cloister, where the oldest university in South America was founded and they 
-keep the remains of Peruvian saints: Santa Rosa de Lima, San Martín de Porres, San Juan Macías. 
-CONTEMPORARY LIMA: The tour will visit the most traditional residential areas of Lima, San Isidro, 
-Miraflores and Larcomar. At the end of the tour, the bus will return to UTEC.<br/>
-<b>Conference Dinner: </b> It will take place in La Rosa Náutica on the 7th of December at 19:00. La Rosa Náutica is a Peruvian food 
-restaurant located on a breakwater on the Costa Verde of Lima. The restaurant, with Victorian-style architecture, was founded in 1983 
-at the initiative of Carlín Semsch on a pier on a rocky breakwater on the Costa Verde Beach Circuit in the Miraflores district. <a href="https://maps.app.goo.gl/nu7KY69rZVxCRCj88" target="_blank"> See the map. </a> 
 
 
