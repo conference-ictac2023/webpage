@@ -3,7 +3,9 @@ layout: location
 --- -->
 # Conference Location
 
-__ICTAC 2023 will be held in Lima - Peru, hosted by [UTEC](https://utec.edu.pe/en){:target="_blank"}__. UTEC campus (see [map](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"}) is located in [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} and the vicinities of [Miraflores](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"}, which are touristic districts in Lima.
+__ICTAC 2023 will be held in Lima - Peru, hosted by [UTEC](https://utec.edu.pe/en){:target="_blank"}__. UTEC campus (see [map](https://goo.gl/maps/VFgSSJTLk33kjpKo7){:target="_blank"}) is located in [Barranco](https://wikitravel.org/en/Lima/Barranco){:target="_blank"} and the vicinities of [Miraflores](https://wikitravel.org/en/Lima/Miraflores){:target="_blank"}, which are touristic districts in Lima. 
+
+__IMPORTANT NOTE!__ <b>Please bring your ID, you will be required to show it at the entrance of UTEC.</b>
 
 __Address:__ Jr. Medrano Silva 165, Barranco 15063, Peru. 
 
@@ -51,11 +53,21 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 
 - [Tanta](https://tantaperu.com/en/){:target="_blank"}
 - [Isolina](https://isolina.pe/){:target="_blank"}
-- [Mercado](https://www.mercado28.pe/mercado28miraflores){:target="_blank"}
+- [Mercado 28](https://www.mercado28.pe/mercado28miraflores){:target="_blank"}
 - [Madam Tusan](https://www.madamtusan.com.pe/){:target="_blank"}
+- [Panchita](https://www.panchita.pe/){:target="_blank"}
+- [Ayahuasca](https://ayahuascarestobar.com/){:target="_blank"}
+- [Saha](https://www.sahaperu.com/){:target="_blank"}
+- [Dada](https://dada.com.pe/){:target="_blank"}
 - [Kion](https://www.instagram.com/kionperuvianchineselima/){:target="_blank"}
+- [La Baguette](https://www.labaguette.pe/){:target="_blank"}
+- [Oliver](https://www.oliver.pe/){:target="_blank"}
 - [Larcomar](https://www.larcomar.com/gastronomia?tipo=gastronomia){:target="_blank"}
+- [Antica Pizzeria](https://anticapizzeria.com.pe/){:target="_blank"}
+- [Don Tito](https://dontito.pe/){:target="_blank"}
+- [San Antonio](https://pasteleriasanantonio.com/carta-digital/){:target="_blank"}
 - [Cafe Lucio](https://luciocaffe.com/){:target="_blank"}
+- [Vekia](https://www.vekia.com.pe/){:target="_blank"}
 
 # Lima and its Weather in December 
 
