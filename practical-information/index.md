@@ -73,7 +73,7 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 
 Lima is the capital of Peru, one of the world’s most varied metropolises with more than 9 million inhabitants. Lima is full of riches from the colonial era and is hailed as the gastronomic capital of Latin America. Lima is a hub from where it is possible to access the rest of Peru. 
 
-As the summer approaches the South Hemisphere, the weather continues to get warmer in Lima. It is expected for the temperature to be above 20°C.
+As the summer approaches the South Hemisphere, the weather continues to get warmer in Lima. It is expected for the temperature to be above 20°C. Remember your sun protector with a high factor.
 Please check the [weather forecast](https://www.accuweather.com/en/pe/lima/264120/december-weather/264120?year=2023){:target="_blank"} for more information.
 
 [![Lima-photo](../../assets/img/Lima-Plaza-de-armas.jpg)](https://wikitravel.org/en/Lima){:target="_blank"}
