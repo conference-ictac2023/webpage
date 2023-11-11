@@ -39,7 +39,7 @@ ICTAC 2023 local organizers recommend
 the taxi company MOLINA TOURS - 
 Mobile phone (+51 989190663    or      + 51 987127589),
 WhatsApp (+51 994046416),
-Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/){:target="_blank"} )
+Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/){:target="_blank"} ).
 
 # Miraflores and Barranco
 
