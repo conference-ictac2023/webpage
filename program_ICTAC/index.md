@@ -235,13 +235,18 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-			<td rowspan="3"> City Tour (bus departs from UTEC) <br/> Please be on time!  </td>
+			<td rowspan="4"> City Tour (bus departs from UTEC) <br/> Please be on time!  </td>
 			<td colspan="2">Coffee Break</td>
 		</tr>
 		<tr>
 			<td>16:00 - 17:30</td>
 			<td>Synthesis</td>
 			<td>Verification</td>
+		</tr>
+		<tr>
+			<td>17:30 - 17:40 </td>
+			<td> - </td>
+			<td> Best Paper Award </td>
 		</tr>
 		<tr>
 			<td>19:00 - </td>
