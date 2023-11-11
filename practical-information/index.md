@@ -51,23 +51,24 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 
 # Recomended Restaurants and Similar
 
-- [Tanta](https://tantaperu.com/en/){:target="_blank"}
-- [Isolina](https://isolina.pe/){:target="_blank"}
-- [Mercado 28](https://www.mercado28.pe/mercado28miraflores){:target="_blank"}
-- [Madam Tusan](https://www.madamtusan.com.pe/){:target="_blank"}
-- [Panchita](https://www.panchita.pe/){:target="_blank"}
-- [Ayahuasca](https://ayahuascarestobar.com/){:target="_blank"}
-- [Saha](https://www.sahaperu.com/){:target="_blank"}
-- [Dada](https://dada.com.pe/){:target="_blank"}
-- [Kion](https://www.instagram.com/kionperuvianchineselima/){:target="_blank"}
-- [La Baguette](https://www.labaguette.pe/){:target="_blank"}
-- [Oliver](https://www.oliver.pe/){:target="_blank"}
-- [Larcomar](https://www.larcomar.com/gastronomia?tipo=gastronomia){:target="_blank"}
-- [Antica Pizzeria](https://anticapizzeria.com.pe/){:target="_blank"}
-- [Don Tito](https://dontito.pe/){:target="_blank"}
-- [San Antonio](https://pasteleriasanantonio.com/carta-digital/){:target="_blank"}
-- [Cafe Lucio](https://luciocaffe.com/){:target="_blank"}
-- [Vekia](https://www.vekia.com.pe/){:target="_blank"}
+[Tanta](https://tantaperu.com/en/){:target="_blank"}, 
+[Isolina](https://isolina.pe/){:target="_blank"}, 
+[Mercado 28](https://www.mercado28.pe/mercado28miraflores){:target="_blank"}, 
+[Madam Tusan](https://www.madamtusan.com.pe/){:target="_blank"}, 
+[Panchita](https://www.panchita.pe/){:target="_blank"}, 
+[Ayahuasca](https://ayahuascarestobar.com/){:target="_blank"}, 
+[Saha](https://www.sahaperu.com/){:target="_blank"}, 
+[Dada](https://dada.com.pe/){:target="_blank"}, 
+[Punto azul](https://puntoazulrestaurante.com/){:target="_blank"}, 
+[Kion](https://www.instagram.com/kionperuvianchineselima/){:target="_blank"},
+[La Baguette](https://www.labaguette.pe/){:target="_blank"}, 
+[Oliver](https://www.oliver.pe/){:target="_blank"}, 
+[Larcomar](https://www.larcomar.com/gastronomia?tipo=gastronomia){:target="_blank"}, 
+[Antica Pizzeria](https://anticapizzeria.com.pe/){:target="_blank"}, 
+[Don Tito](https://dontito.pe/){:target="_blank"}, 
+[San Antonio](https://pasteleriasanantonio.com/carta-digital/){:target="_blank"}, 
+[Cafe Lucio](https://luciocaffe.com/){:target="_blank"}, 
+[Vekia](https://www.vekia.com.pe/){:target="_blank"}. 
 
 # Lima and its Weather in December 
 
