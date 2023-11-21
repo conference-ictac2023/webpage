@@ -46,21 +46,23 @@ layout: location
   <li>'ICTAC full access' registration fee covers the main conference (Dec 6 to 8) and all co-located events (Dec 4 and 5). </li>
   <li>'ICTAC main conference' registration fee covers the main conference (Dec 6 to 8) including a reception on Dec 5. </li>
 <li><b> Participants from Peru.</b> There is a limited number of free registrations and a limited number of registrations with minimum payment for Peruvian residents/citizens. Please contact Cristian Lopez del Alamo (clopezd@utec.edu.pe) for further information.	</li>
-  <li> After various requests, we have enabled <b>companion registration</b>, which targets companions of registered participants who want to be included in the social activities of ICTAC 2023. Proceed to the <a href="https://forms.gle/woSn8UVHLFZJBuhW7" target="_blank"> companion registration and payment site</a>, if you want to include a companion with your registration.  </li>	 
+<!-- <li> After various requests, we have enabled <b>companion registration</b>, which targets companions of registered participants who want to be included in the social activities of ICTAC 2023. Proceed to the <a href="https://forms.gle/woSn8UVHLFZJBuhW7" target="_blank"> companion registration and payment site</a>, if you want to include a companion with your registration.  </li> --> 
   <li> All prices are in Peruvian Soles (PEN). </li>
 </ul> 
 
-## Early Registration Deadline: 
+<!-- ## Early Registration Deadline: 
 
 31st of October.
 
 ## Registration Deadline: 
 
-Registration will be closed on the 20th of November.
+Registration will be closed on the 20th of November. -->
 
 # Registration and Payment
 
-Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" target="_blank"> registration and payment site </a> (operative now)
+Registration is closed now.
+
+<!-- Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" target="_blank"> registration and payment site </a> (operative now) -->
 
 # More Information
 
