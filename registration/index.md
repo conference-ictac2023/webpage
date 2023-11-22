@@ -60,7 +60,7 @@ Registration will be closed on the 20th of November. -->
 
 # Registration and Payment
 
-Registration is closed now.
+Registration is closed.
 
 <!-- Proceed to the <a href="https://docs.google.com/forms/d/e/1FAIpQLScTNbaNPncCGlJynwvNp2CuwXnRMEcYDCH2ZQEuULJe3EsSdg/viewform?usp=sharing" target="_blank"> registration and payment site </a> (operative now) -->
 
