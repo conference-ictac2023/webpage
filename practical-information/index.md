@@ -70,6 +70,14 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 [Cafe Lucio](https://luciocaffe.com/){:target="_blank"}, 
 [Vekia](https://www.vekia.com.pe/){:target="_blank"}. 
 
+# Other Useful Information 
+
+ATMs near the conference venue: ATM - Agencia BCP - Enalta Armendariz (Av. Armendáriz 480 oficinas 301 y 302), ATM - Primax Armendariz (Av. Armendariz 575), ATM - Repsol Reducto (Av. Reducto 1105), ATMs inside the [Shopping center - Larcomar](https://www.larcomar.com/servicios/cajeros){:target="_blank"}.
+
+Pharmacies near the conference venue: MiFarma (Armendariz 155, Av. 28 de Julio 3).
+
+Emergency numbers: Police (105), Firefighters (116), more information [here](https://www.gob.pe/547-telefonos-de-emergencia){:target="_blank"}.
+
 # Lima and its Weather in December 
 
 Lima is the capital of Peru, one of the world’s most varied metropolises with more than 9 million inhabitants. Lima is full of riches from the colonial era and is hailed as the gastronomic capital of Latin America. Lima is a hub from where it is possible to access the rest of Peru. 
