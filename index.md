@@ -14,6 +14,10 @@ ICTAC 2023 will be held in Lima - Peru, hosted by [UTEC](https://utec.edu.pe/en)
 
 __IMPORTANT NOTE!__ Please bring your ID, you will be required to show it at the entrance of UTEC.
 
+### ICTAC 2023 Proceedings
+
+The proceedings are online at [https://link.springer.com/book/10.1007/978-3-031-47963-2](https://link.springer.com/book/10.1007/978-3-031-47963-2).
+
 ### News: Registration is open!
 
 Check the details [here](https://ictac2023.compsust.utec.edu.pe/registration/)! The early registration deadline is the 31st of October!
