@@ -18,7 +18,7 @@ __IMPORTANT NOTE!__ Please bring your ID, you will be required to show it at the
 
 The proceedings are online at [https://link.springer.com/book/10.1007/978-3-031-47963-2](https://link.springer.com/book/10.1007/978-3-031-47963-2).
 
-### News: Registration is open!
+<!-- ### News: Registration is open!
 
 Check the details [here](https://ictac2023.compsust.utec.edu.pe/registration/)! The early registration deadline is the 31st of October!
 Registration will close on the 20th of November.
@@ -43,14 +43,17 @@ Stay tuned! More details about the topics will be announced soon!
 - Authors of a selected subset of accepted papers will be invited to submit
   an extended version of their papers to a special issue in the journal
   Theoretical Computer Science (TCS):
-  https://www.sciencedirect.com/journal/theoretical-computer-science  -->
+  https://www.sciencedirect.com/journal/theoretical-computer-science  
  
 ### About protests in Peru.
  
 We are continuously monitoring the political situation in Peru, which faced violent protests in 2022 also affecting travelers. To the best of our knowledge, this situation has calmed down. If protests erupt again, we will work closely with the ICTAC Steering Committee to choose the best feasible solution.
  
 Lima - Peru, May 2023
+-->
+# About ICTAC
 
+The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https://ictac.isp.uni-luebeck.de/about){:target="_blank"}) was founded in 2004. It takes place every year preferably in a developing country. The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.
 
 ## Important dates
 
@@ -58,12 +61,6 @@ Lima - Peru, May 2023
  - __Submission deadline:__ ~~16 June 2023~~ 02 July 2023 (AoE)
  - __Notification:__ 10 September 2023 (AoE)
  - __Camera ready:__  25 September 2023 (AoE) 
-
-
-# About ICTAC
-
-The International Colloquium on Theoretical Aspects of Computing ([ICTAC](https://ictac.isp.uni-luebeck.de/about){:target="_blank"}) was founded in 2004. It takes place every year preferably in a developing country. The aim of the colloquium is to bring together practitioners and researchers from academia, industry and government to present research results, and exchange experience, ideas, and solutions for their problems in theoretical aspects of computing. Beyond these scholarly goals, another main purpose of the conference is to promote cooperation in research and education between participants and their institutions, from developing and industrial countries.
-
 
 ### Past Editions
 
