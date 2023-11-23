@@ -30,11 +30,11 @@ In addition to local fights, there are various intercity buses that run along th
 
 # From the Airport to Miraflores and Barranco
 
-The best way to reach Miraflores and Barranco from the airport is via [authorized taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}. Please be aware that Callao district is not touristic, therefore it is strongly advised to use the transport recommended by the airport.
+The best way to reach Miraflores and Barranco from the airport is via [authorized taxis located inside the airport](https://www.lima-airport.com/en/cms/pasajeros/transport/taxis){:target="_blank"}. Please be aware that Callao district is not touristic, therefore, it is strongly advised to use the transport the airport recommends.
 
 # Get Around in Lima
 
-Taxis are relatively inexpensive and a popular way to get around in Lima. However, be aware of fake taxi companies. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, which is a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however, expect to queue to enter the buses. 
+Taxis are relatively inexpensive and a popular way to get around in Lima. However, be aware of fake taxi companies. Public transportation in Lima comprises a chaotic system, except for the Metropolitano, a new public transport system in Lima that was inaugurated in 2010. They connect various districts including Barranco and Miraflores. The fares are very cheap, however, expect to queue to enter the buses. 
 ICTAC 2023 local organizers recommend
 the taxi company MOLINA TOURS - 
 Mobile phone (+51 989190663    or      + 51 987127589),
@@ -72,7 +72,9 @@ Online reservation ([www.molinatourstaxi.com/](https://www.molinatourstaxi.com/)
 
 # Other Useful Information 
 
-ATMs near the conference venue: ATM - Agencia BCP - Enalta Armendariz (Av. Armendáriz 480 oficinas 301 y 302), ATM - Primax Armendariz (Av. Armendariz 575), ATM - Repsol Reducto (Av. Reducto 1105), ATMs inside the [Shopping center - Larcomar](https://www.larcomar.com/servicios/cajeros){:target="_blank"}.
+The standard voltage is 220 V. Further information [here](https://www.power-plugs-sockets.com/peru/){:target="_blank"}. 
+
+Credit and debit cards should work in most places in Lima, however, there are various small businesses that are cash-only. Inside the airport, you can find ATMs and currency exchange houses. ATMs near the conference venue: ATM - Agencia BCP - Enalta Armendariz (Av. Armendáriz 480 oficinas 301 y 302), ATM - Primax Armendariz (Av. Armendariz 575), ATM - Repsol Reducto (Av. Reducto 1105), ATMs inside the [Shopping center - Larcomar](https://www.larcomar.com/servicios/cajeros){:target="_blank"}.
 
 Pharmacies near the conference venue: MiFarma (Armendariz 155, Av. 28 de Julio 3).
 
