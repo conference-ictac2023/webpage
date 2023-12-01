@@ -73,6 +73,6 @@ Registration is closed.
 
    <li> Online registration supports Credit and Debit Cards. See the actual registration and payment page for further information. For further requests and support concerning the registration form and payment page, please contact Gabriela Perea Vega (gperea@utec.edu.pe) and Jesús Bellido (jbellido@utec.edu.pe>). </li>
     <li>  <b> Invitation letters. </b> If you require any (visa) invitation letter or attendance certificate, please do the registration first and then email Jesus Bellido (jbellido@utec.edu.pe>) for the details.</li>
-   <li> <b> Cancellations. </b> Please contact Jesus Bellido (jbellido@utec.edu.pe>). Cancellations may incur financial penalties. </li>
+   <li> <b> Cancellations. </b> Cancellations are no longer possible. Thank you for your understanding. <!--  Please contact Jesus Bellido (jbellido@utec.edu.pe>). Cancellations may incur financial penalties. --> </li>
 </ul> 
 
