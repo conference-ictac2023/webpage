@@ -214,7 +214,11 @@ The ICTAC 2023 tutorials will be held in Lima - Peru at UTEC, December 04-05, 20
     </div>   
     <div class="col-sm-12">
         <p> <b>Automata Learning with an Application to Learn and Verify Recurrent Neural Networks.</b> <br/>
-         TBA 
+         In this tutorial, the participants are introduced to Automata Learning with applications to Formal Methods. 
+         We introduce the concepts of both passive and active automata learning for learning regular languages. 
+         Moreover, we present extensions for learning in the presence of unknowns as well as learning timed and data automata. 
+         Finally, we present several potential applications in the setting of formal verification. 
+          In particular, we show the methods that can be applied to verify recurrent neural networks. 
        <br/> </p>
     </div>
 </div>
