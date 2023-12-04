@@ -107,8 +107,8 @@ The ICTAC training school on applied formal methods will be held in Lima - Peru 
         <p><b>Name:</b>  Marijn J.H. Heule <br/>
         <b>Affiliation:</b> Carnegie Mellon University, USA <br/>
          <b>Homepage:</b> <a href="https://www.cs.cmu.edu/~mheule/" target="_blank">https://www.cs.cmu.edu/~mheule/</a> <br/> 
-         <b>Slides:</b>  <a href="https://github.com/conference-ictac2023/webpage/blob/deployment/school/introduction-ICTAC.pdf" target="_blank">Introduction</a> and  <a href="https://github.com/conference-ictac2023/webpage/blob/deployment/school/practice-ICTAC.pdf" target="_blank">practice</a>
-              <br/>    
+     <!--     <b>Slides:</b>  <a href="https://github.com/conference-ictac2023/webpage/blob/deployment/school/introduction-ICTAC.pdf" target="_blank">Introduction</a> and  <a href="https://github.com/conference-ictac2023/webpage/blob/deployment/school/practice-ICTAC.pdf" target="_blank">practice</a> 
+              <br/>    -->
          </p>
          <p><b>Bio:</b>  <br/>
          Marijn Heule is an Associate Professor of Computer Science at Carnegie Mellon University. 
