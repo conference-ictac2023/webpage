@@ -85,7 +85,7 @@ title: ""
 
 <ul>
 <li> <b> Reception - Place and time: </b> UTEC terrasse (Jr. Medrano Silva 165, Barranco), Tuesday Dec 05 at 17:45. </li>
-<li> <b> City Tour - Bus Departure: </b> UTEC (Jr. Medrano Silva 165, Barranco), Wednesday Dec 06 at 15:30. Please be on time! </li>
+<li> <b> City Tour - Place and time: </b> UTEC (Jr. Medrano Silva 165, Barranco), Wednesday Dec 06,  bus will arrive at 15:00 and depart at 15:30. Please be on time! The tour will last 3 hours approx. </li>
 <li> <b> Conference dinner - Place and time: </b> <a href="https://larosanautica.com/" target="_blank"> La Rosa Náutica </a> (Espigón Miraflores, Lima 18, Circuito de Playas, Miraflores), Thursday Dec 07 at 19:00 (It is recommended to reach the restaurant by taxi). </li>
 </ul>
 
@@ -228,14 +228,17 @@ For the detailed program, see <a href="https://easychair.org/smart-program/ICTAC
 			<td colspan="3">Lunch - UTEC canteen</td>
 		</tr>
 		<tr>
-			<td>14:00 - 15:30</td>
-			<td>Proof complexity</td>
-			<td>Logics & languages</td>
-			<td>Verification</td>
+			<td>14:00 - 15:00</td>
+			<td>Proof complexity </td>
+			<td rowspan="2">Logics & languages</td>
+			<td rowspan="2">Verification</td>
+		</tr>
+		<tr>
+			<td>15:00 - 15:30</td>
+			<td rowspan="5"> City Tour. Bus will arrive at 15:00 and depart at 15:30. <br/> Please be on time! <br/>The tour will last 3 hours approx</td>		
 		</tr>
 		<tr>
 			<td>15:30 - 16:00</td>
-			<td rowspan="4"> City Tour (bus departs from UTEC) <br/> Please be on time!  </td>
 			<td colspan="2">Coffee Break</td>
 		</tr>
 		<tr>
