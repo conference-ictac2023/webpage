@@ -8,7 +8,8 @@ The 20th International Colloquium on Theoretical Aspects of Computing will
 take place in Lima - Peru, on 04-08 December 2023. ICTAC 2023 will be
 hosted by UTEC, Lima - Peru.
  -->
- ### ICTAC 2023 Proceedings
+
+### ICTAC 2023 Proceedings
 
 The proceedings are online at [https://link.springer.com/book/10.1007/978-3-031-47963-2](https://link.springer.com/book/10.1007/978-3-031-47963-2).
 
