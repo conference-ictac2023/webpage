@@ -18,7 +18,7 @@ with their contribution:
 
 [A Dynamic Temporal Logic for Quality of Service in Choreographic Models](https://link.springer.com/chapter/10.1007/978-3-031-47963-2_9){:target="_blank"}
 
-![Best paper](assets/img/bestPaper.JPG "Best Paper")
+ <img src="assets/img/bestPaper.JPG" alt="Best Paper" title="Best Paper" width="450"/>
 
 ### ICTAC 2023 Location
 
