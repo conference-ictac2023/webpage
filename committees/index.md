@@ -55,9 +55,10 @@ title: "Committees"
 
 # Local Organisation Committee 
 
- - [Juan Gutierrez](https://utec.edu.pe/en/page/30/profesores/991){:target="_blank"} - Local Organiser, University of Engineering and Technology - UTEC, Lima - Peru
+ - [Gabriela Perea Vega](http://){:target="_blank"} - Local Organiser, University of Engineering and Technology - UTEC, Lima - Peru
  - [Yamilet Serrano](http://){:target="_blank"} - Financial Chair, University of Engineering and Technology - UTEC, Lima - Peru
  - [Cristian Lopez](http://){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
+ - [Juan Gutierrez](https://utec.edu.pe/en/page/30/profesores/991){:target="_blank"}, University of Engineering and Technology - UTEC, Lima - Peru
  - Maor Roizman Gheiler - Webpage, University of Engineering and Technology - UTEC, Lima - Peru
 
 
