@@ -9,7 +9,7 @@
 
 <img src="/assets/img/photos/day3-conference-1-ICTA2023.jpg" alt="main conference" title="Main Conference" width="450"/>
 <img src="/assets/img/photos/day4-conference-1-ICTA2023.jpg" alt="main conference" title="Main Conference" width="450"/>
-<img src="/assets/img/photos/day4-conference-2-ICTA2023.jpg" alt="main conference" title="Main Conference" width="450"/>
+<img src="/assets/img/photos/day4-conference-2-ICTA2023.jpg" alt="main conference" title="Main Conference" width="900"/>
 
 ## Training School and Tutorials
 
