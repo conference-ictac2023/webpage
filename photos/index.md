@@ -1,3 +1,4 @@
+
 # Photos of ICTAC 2023
 
 <img src="/assets/img/photos/reception-ICTA2023.JPG" alt="Reception" title="Reception" width="650"/>
