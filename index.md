@@ -25,11 +25,15 @@ with their contribution:
 
  <img src="assets/img/bestPaper.JPG" alt="Best Paper" title="Best Paper" width="450"/>
 
-### ICTAC 2023 Location
+### Photos of ICTAC 2023
+
+Photos are available [here](https://ictac2023.compsust.utec.edu.pe/photos/){:target="_blank"}!
+
+<!-- ### ICTAC 2023 Location
 
 ICTAC 2023 will be held in Lima - Peru, hosted by [UTEC](https://utec.edu.pe/en){:target="_blank"}.  Address: Jr. Medrano Silva 165, Barranco 15063, Peru. 
 
-<!--__IMPORTANT NOTE!__ Please bring your ID, you will be required to show it at the entrance of UTEC. -->
+__IMPORTANT NOTE!__ Please bring your ID, you will be required to show it at the entrance of UTEC. -->
 
 <!-- ### News: Registration is open!
 
